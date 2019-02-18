@@ -4,12 +4,10 @@ section: post
 ---
 
 <article>
+  <div class="billboard">
+    <img src="{{ coverImage }}" />
+  </div>
   <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
-    </small>
-  </p>
 
   {{ layoutContent | safe }}
 
@@ -23,6 +21,12 @@ section: post
     {% endfor %}
     </p>
   {% endif %}
+
+  <p>
+    <small>
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+    </small>
+  </p>
 
 </article>
 

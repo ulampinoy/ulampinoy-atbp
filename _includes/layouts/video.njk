@@ -4,12 +4,12 @@ section: video
 ---
 
 <article>
-  <h1>{{ title }}</h1>
   <p>
     <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time> by {{ metadata.author.name }}
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
     </small>
   </p>
+  <h1>{{ title }}</h1>
 
   {{ layoutContent | safe }}
 

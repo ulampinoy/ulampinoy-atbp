@@ -17,7 +17,7 @@
 			{% endif %}
 			<p>
 				<time datetime="{{ video.date | machineDate }}">
-					<small>{{ video.date | readableDate }} by {{ metadata.author.name }}</small>
+					<small>{{ video.date | readableDate }}</small>
 				</time>
 			</p>
 			{% if video.data.tags %}

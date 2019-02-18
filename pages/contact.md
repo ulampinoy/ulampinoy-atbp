@@ -1,8 +1,6 @@
 ---
 layout: layouts/contact.njk
 title: 📮 Express Mail
-tags:
-  - nav
 navtitle: Contact
 section: contact
 date: 2019-01-18

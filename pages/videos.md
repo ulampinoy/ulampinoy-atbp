@@ -3,7 +3,7 @@ layout: layouts/videos.njk
 title: Video Recipes
 tags:
   - nav
-navtitle: Video
+navtitle: Videos
 date: 2017-01-01
 permalink: /video/index.html
 ---
