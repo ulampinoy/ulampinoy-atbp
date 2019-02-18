@@ -1,27 +1,25 @@
 ---
-title: About us
+title: Tungkol sa Amin
 tags:
   - nav
-navtitle: About
+navtitle: Tungkol sa Amin
 section: about
-date: 2017-01-01
+date: 2019-01-16
 permalink: /about/index.html
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+# 👨🏻👩🏻👧🏻👦🏻
+Kami ay pamilyang Filipino na kasalukuyang naninirahan sa España. Family project namin ang Ulampinoy. 
 
-## Our services
+## 📜 Panimula
+Nagsimula ang Ulampinoy bilang isang food journal ng mga recipes na niluluto namin sa bahay at marami pang ibang masasarap na tuklas nang kami nag-migrate. Kalaunan, ginawa namin ang YouTube cooking channel bilang isang family project na sa paanuman ay magsilbing guide sa aming mga anak kapag lumaki na sila at matutong magluto. Ang bawat video recipe ay may kuwento at ala-ala sa aming masasayang panahon magkakasama sa kusina!
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+`youtube:https://www.youtube.com/embed/dYkLu1z1Rxg`
 
-### Blue-sky thinking
+Sa kasalukuyan, ang [Ulampinoy YouTube channel](https://www.youtube.com/user/ulampinoy/videos) ay may **mahigit 57,640** subscribers at ang mga video recipes ay napanood ng **higit sa 9 million beses.**
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## 🎯 Ang Aming Tunguhin
+Pinagsisikapan naming bumuo ng pang-pamilyang reperensya at koleksyon ng mga cooking recipes na ginawa namin  sa aming sariling bersiyon. Sisikapin rin naming ilahad ito sa simple at kawili-wiling paraan. Samantala, ibabahagi rin namin ang iba't-iba pang mga bagay na natutuklasan, natututuhan at kapakipakinabang.
 
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## 🙏🏼 Pasasalamat
+Pinasasalamatan namin ang aming mga kaibigan sa [Netlify](https://www.netlify.com) sa kanilang bukas-palad na nagde-deploy ng patuluyan sa website ng Ulampinoy. Sa [GitHub](https://github.com/ulampinoy) naman nakalagak ang repositoryo ng kodigo. Ang kasalukuyang *development* at *build* ng site ay gawa gamit ang *static site generator* na [GatsbyJS](https://www.gatsbyjs.org/). Ang mga *webfonts* ay inilalan ng [Google Fonts](https://fonts.google.com/). Maraming salamat sa inyong lahat at **more power!**
