@@ -1,0 +1,35 @@
+<section>
+	{% for video in collections.video | reverse %}
+		<article{% if video.url == url %} data-current="current item"{% endif %}>
+			<h3>
+				<a href="{{ video.url | url }}">
+					{% if video.data.title %}
+						{{ video.data.title }}
+					{% else %}
+						Untitled
+					{% endif %}
+				</a>
+			</h3>
+			{% if video.data.summary %}
+				<p>
+					{{ video.data.summary }}
+				</p>
+			{% endif %}
+			<p>
+				<time datetime="{{ video.date | machineDate }}">
+					<small>{{ video.date | readableDate }} by {{ metadata.author.name }}</small>
+				</time>
+			</p>
+			{% if video.data.tags %}
+				<p>
+					{% for tag in video.data.tags %}
+		  			{%- if tag != "video" -%}
+		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+		  			{%- endif -%}
+					{% endfor %}
+				</p>
+			{% endif %}
+		</article>
+	{% endfor %}
+</section>
