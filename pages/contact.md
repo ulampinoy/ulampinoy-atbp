@@ -1,6 +1,6 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: 📮 Express Mail
 tags:
   - nav
 navtitle: Contact
@@ -8,8 +8,4 @@ section: contact
 date: 2019-01-18
 permalink: /contact/index.html
 ---
-The contact form on this page uses
-[Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-submissions, and saves them in your Netlify account where you can optionally
-set up notifications. Each submission is passed through a spam filter and if
-flagged, will display a CAPTCHA challenge to the user.
+May gusto ba kayong ipaabot sa amin? Pakisuyong mag-fill-up ng contact form sa baba. Maraming salamat!
