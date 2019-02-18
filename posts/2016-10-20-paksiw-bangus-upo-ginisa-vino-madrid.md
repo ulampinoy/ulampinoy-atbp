@@ -13,6 +13,7 @@ tags:
 
 Madalang lang makatagpo at limitado ang bangus dito sa Europa, kaya naman kung makabili kami, imbes na basta i-prito lang, niluluto namin ito na mas tradisyonal hangga't maari gaya ng paksiw.
 
+<<<<<<< HEAD
 ![Paksiw na Bangus](/static/images/paksiw-bangus.jpg?nf_resize=fit&w=960)
 
 **ANG PAKSIW** ay ang pagluluto sa sukà na may kasamang luya, bawang, sibuyas, at sili. Maasim ito gaya ng [sinigang na bangus](/archive/2015-07-02-sinigang-bangus/) pero hindi ito masabaw. Ang paksiw ay lalo nang masarap kung lumamig na o kapag inulam sa kinabukasan pa.
@@ -22,6 +23,17 @@ Madalang lang makatagpo at limitado ang bangus dito sa Europa, kaya naman kung m
 **GINISANG UPO** ang _the best_ na luto sa murá pang bunga ng upo. Sa mga nakalipas na mga linggo meron pa rin kaming nabibilhan ng upo dito sa Madrid. Bawang, sibuyas, kamatis at liempo lang ang kailangan. At mahalagang tandaan kapag nag-gigisa ng upo, hindi na kailangang lagayan ng tubig dahil magtutubig ang upo habang niluluto.
 
 ![Vino Tinto,  Madrid: Puerta de Alcalá — Tempranillo Syrah 2015](/static/images/puerta-de-alcala-tempranillo-syrah.jpg?nf_resize=fit&w=960)
+=======
+![Paksiw na Bangus](/static/images/paksiw-bangus.jpg)
+
+**ANG PAKSIW** ay ang pagluluto sa sukà na may kasamang luya, bawang, sibuyas, at sili. Maasim ito gaya ng [sinigang na bangus](/archive/2015-07-02-sinigang-bangus/) pero hindi ito masabaw. Ang paksiw ay lalo nang masarap kung lumamig na o kapag inulam sa kinabukasan pa.
+
+![Ginisang Upo](/static/images/ginisang-upo.jpg)
+
+**GINISANG UPO** ang _the best_ na luto sa murá pang bunga ng upo. Sa mga nakalipas na mga linggo meron pa rin kaming nabibilhan ng upo dito sa Madrid. Bawang, sibuyas, kamatis at liempo lang ang kailangan. At mahalagang tandaan kapag nag-gigisa ng upo, hindi na kailangang lagayan ng tubig dahil magtutubig ang upo habang niluluto.
+
+![Vino Tinto,  Madrid: Puerta de Alcalá — Tempranillo Syrah 2015](/static/images/puerta-de-alcala-tempranillo-syrah.jpg)
+>>>>>>> Add images and change images path
 
 **VINO DE MADRID—**Bagaman hindi gaanong sikat ang Madrid sa kanyang mga ubasan at alak, walang duda na napakahuhusay ng kalidad ng mga wine nito. Ang kombinasyon ng Tempranillo at ng Syrah ay nagbibigay ng buong karakter pero kaaya-aya pa rin sa panlasa. Dahil hindi ito matamis, angkop na katambal ito sa mga ulam gaya ng karne o gulay gaya ng ginisang upo.
 

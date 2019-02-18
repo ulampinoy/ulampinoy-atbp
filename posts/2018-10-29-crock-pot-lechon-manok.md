@@ -28,12 +28,17 @@ Gamit ang Crock-Pot®, sa paraan ng slow-cooking, nanuuot ang lasa at napapalamb
 * Mga aromatikong yerba (albahaca, perejil, oregano, tomilo, romero at cayena)
 * Opsyonal: lemon at green onions 
 
+<<<<<<< HEAD
 <img class="wide" src="/static/images/sangkap-litson-manok.jpg?nf_resize=fit&w=960" alt="Mga sangkap ng litson manok">
+=======
+<img class="wide" src="/static/images/sangkap-litson-manok.jpg" alt="Mga sangkap ng litson manok">
+>>>>>>> Add images and change images path
 
 ### Paraan ng pagluluto
 Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiyakin.
 
 1. Sa isang lalagyan gaya ng palanggana, pagsama-samahin ang asin, pamintang durog, paprika, garlic at onion powder, at lahat ng nakatalang yerbas sa itaas.
+<<<<<<< HEAD
 ![Herb rub sa dressed chicken](/static/images/herb-rub-basic.jpg?nf_resize=fit&w=800)
 
 2. Hagurin ang buong manok ng pinaghalu-halong aromatikong sangkap at pampalasa.
@@ -58,6 +63,32 @@ Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo ma
 ![Roasted chicken ala Crock-pot](/static/images/crock-pot-lechon-manok.jpg?nf_resize=fit&w=800)
 
 ![Roasted chicken with vegetable salad](/static/images/lechon-manok-salad.jpg?nf_resize=fit&w=800)
+=======
+![Herb rub sa dressed chicken](/static/images/herb-rub-basic.jpg)
+
+2. Hagurin ang buong manok ng pinaghalu-halong aromatikong sangkap at pampalasa.
+![Herb rub sa dressed chicken](/static/images/manok-herb-rub.jpg)
+
+3. Maglagay ng aluminum foil ring sa ilalim ng Crock-Pot na magsisilbing tuntungan ng manok. Kailangan ito para hindi mababad ng katas ang side ng manok at maiwasang masunog ang likod na bahagi kapag nakasagi ito sa vat.
+    * ![Aluminum foil ring](/static/images/aluminum-ring-crock-pot.jpg)
+    * ![Herb-rubbed chicken in Crock-Pot](/static/images/herbed-rub-whole-chicken-crock-pot.jpg)
+
+4. I-set ang Crock-Pot sa **High** at taymeran ng **3.5 hours** ilagay ng lapat na lapat ang takip. 
+
+<img class="wide" src="/static/images/crock-pot-chicken-set-timer.jpg" alt="Time set to cook chicken in Crock-Pot">
+
+**Mahalagang babala:** Huwag na huwag kailanman bubuksan kapag kasalukuyan at lalo na sa kalagitnaan ng pagluluto. Ang na-trap na init kapag sumingaw dahil inangat mo ang takip ay nangangailan ng panahon para maipon uli.
+![Chicken recently cooked from slow cooker](/static/images/chicken-crock-pot-cook-3hrs.jpg)
+Hanguin mula sa Crock-pot ang manok makalipas ang cooking time nito. Handa na ito para tapusin sa oven. Gamit ang **Broil — TOP** setting ng horno, ilagay ang manok sa gitnang rack ng oven at lutuin para papulahin ang balat nito at ma-lechon ng hindi lalampas sa 10 minuto. At ganito ang kalalabasan:
+
+<img class="wide" src="/static/images/lechon-manok-oven.jpg" alt="Roasted chicken out of oven">
+
+Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo may masarap ka ng ulam na parang inorder mo sa restaurant, pero higit pa kung sa lasa lang ang pag-uusapan!
+
+![Roasted chicken ala Crock-pot](/static/images/crock-pot-lechon-manok.jpg)
+
+![Roasted chicken with vegetable salad](/static/images/lechon-manok-salad.jpg)
+>>>>>>> Add images and change images path
 Masarap na itambal dito ay ensalada ng iba't-ibang sariwang talbos ng gulay, *crab meat sticks* bilang garnish na nagbibigay ng contrast sa lasa. 
 
 Kainan na! 🍗🥗🍗

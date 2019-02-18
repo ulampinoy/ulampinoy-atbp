@@ -74,6 +74,16 @@ header {
   padding: 1em;
 }
 
+<<<<<<< HEAD
+=======
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+header,
+main,
+>>>>>>> Add images and change images path
 footer {
   padding: 1em;
   margin-top: 3rem;
