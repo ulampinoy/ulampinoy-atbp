@@ -4,7 +4,7 @@ title: Soy Mackerel
 date: 2011-07-21T00:37:10Z
 description: Adobong galunggong – Phlippine mackerel braised in soy sauce, vinegar, ginger and garlic.
 whetter: Adobong Gigi
-coverImage: /images/caballa-adobo.jpg
+coverImage: /static/images/caballa-adobo.jpg
 tags:
     - fish
     - adobo
@@ -43,7 +43,7 @@ Watch and cook-along with the video recipe.
 
 `youtube:https://www.youtube.com/embed/4L4M7GxjBRw`
 
-![Adobong galunggong](/images/soy-mackerel.jpg)
+![Adobong galunggong](/static/images/soy-mackerel.jpg)
 
 Garnish with pimientos del piquillo & drizzle with extra-virgin olive oli. As always served with steamed rice. Goes well with beer.
 

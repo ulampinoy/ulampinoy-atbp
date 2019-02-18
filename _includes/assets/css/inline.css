@@ -41,6 +41,11 @@ a[href]:not(:hover) {
 	text-decoration: none;
 }
 
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
 header,
 main,
 footer {
