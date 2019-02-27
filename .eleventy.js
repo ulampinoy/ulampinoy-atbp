@@ -51,6 +51,13 @@ module.exports = function(eleventyConfig) {
     });
   });
 
+  // only content in the `glossary/` directory
+  eleventyConfig.addCollection("glossary", function(collection) {
+    return collection.getAllSorted().filter(function(item) {
+      return item.inputPath.match(/^\.\/glossary\//) !== null;
+    });
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/images");
   eleventyConfig.addPassthroughCopy("admin");
