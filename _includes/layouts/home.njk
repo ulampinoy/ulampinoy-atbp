@@ -4,3 +4,27 @@ section: home
 ---
 
 {{ layoutContent | safe }}
+
+<h2>Bago sa Blog</h2>
+<div class="grid grid-column__third grid-gap__normal">
+	{% set postlist = collections.posts | reverse %}
+	{% for post in postlist.slice(0,6) %}
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+			<div class="article-card__cover">
+				<a href="{{ post.url | url }}">
+					<img src="{{ post.data.coverImage }}" />
+				</a>
+			</div>
+			<div class="article-card__copy">
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<p>{{ post.data.description }}</p>
+			</div>
+		</article>
+	{% endfor %}
+</div>
+
+<ul>
+  {%- for post in collections.categories["Glossary"] -%}
+    <li>{{ post.data.title }}</li>
+  {%- endfor -%}
+</ul>

@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/video.njk",
+  "permalink": "{{ section }}/{{ title | slug }}/index.html",
+  "tags": "video"
+}

@@ -6,8 +6,8 @@ description: When visiting Madrid, one should try churrros y chocolate
 whetter: Madrid Must Have
 coverImage: /static/images/churros-dip.jpg
 tags:
-    - adventure
-    - spain
+  - adventure
+  - spain
 ---
 
 _Churros_ sprinkled with sugar and hot chocolate dip at the local _churrería._ It was both delightful to eat and watch how it's made.

@@ -6,9 +6,9 @@ description: Masarap at matinik na paksiw na bangus; manamis-namis na upo na gin
 coverImage: /static/images/puerta-de-alcala-tempranillo-syrah.jpg
 whetter: Tsibog sa Weekend 03
 tags:
-    - weekend bits
-    - wine
-    - fish
+  - weekend bits
+  - wine
+  - fish
 ---
 
 Madalang lang makatagpo at limitado ang bangus dito sa Europa, kaya naman kung makabili kami, imbes na basta i-prito lang, niluluto namin ito na mas tradisyonal hangga't maari gaya ng paksiw.

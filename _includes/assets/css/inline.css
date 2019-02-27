@@ -4,7 +4,7 @@
   --pula: #c43700;
   --puti: white;
   --itim: black;
-  --abo: #404040;
+  --abo: #606060;
   --pilak: #e0e0e0;
   --usok: #808080;
 }
@@ -132,7 +132,6 @@ header nav li a[data-current="current item"] {
 /* Posts List */
 article {
   margin-bottom: 1em;
-  padding-bottom: 1em;
 }
 
 main > section > article > * {
@@ -152,10 +151,9 @@ a[rel="tag"]:visited {
   padding: 0 0.5em;
   line-height: 2em;
   height: 2em;
-  border: 1px solid var(--puti);
+  border: 1px solid var(--pilak);
   background-color: var(--puti);
   color: var(--abo);
-  border-radius: 0.25em;
   text-decoration: none;
   margin: 0 0.5em 0.5em 0;
 }
@@ -243,4 +241,65 @@ header {
 .layout {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+.grid {
+  display: grid;
+}
+
+.grid-column__third {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.grid-gap__normal {
+  grid-gap: 1.5rem;
+}
+
+article h2 {
+  margin: 2rem 0 1rem;
+}
+
+.article-post header h1 {
+  font-size: 3rem;
+  margin-bottom: 0;
+}
+
+.article-post header p {
+  font-size: 1.8rem;
+  margin-top: .5rem;
+  color: brown;
+}
+
+.article-post__narrow {
+  max-width: 40em;
+}
+
+.article-card {
+  background-color: white;
+  border-radius: .5rem;
+}
+
+.article-card__cover {
+  overflow: hidden;
+  max-height: 215px;
+  border-radius: .5rem .5rem 0 0;
+}
+
+.article-card__copy {
+  padding: 1.5rem;
+}
+
+.article-card__copy h3 {
+  font-size: 1.4rem;
+  font-weight: 800;
+  margin-bottom: .5rem;
+}
+
+.article-card__copy p {
+  margin-top: 0;
+  color: var(--abo);
+}
+
+.contact-form {
+  padding-top: 3rem;
 }

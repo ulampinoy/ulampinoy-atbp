@@ -8,8 +8,8 @@ sideNote: Ang dahon ng gabi ang orihinal na sangkap ng laing. Ito ay likas na ha
 sideImage: /static/images/gabi-halaman.jpg
 coverImage: /static/images/laing-spinach.jpg
 tags:
-    - gulay
-    - gata
+  - gulay
+  - gata
 ---
 
 Laing na ~~yata~~ ang pinakamasarap na ulam na gulay. Paano naman kasi: baboy at hipon ang sahog, gata ang sarsa at sili ang pampaliyab. Talaga namang mapaparami ka! 🍚

@@ -6,8 +6,8 @@ description: Espesyal lagi ang weekend kasama ng barkada. Pahinga sa rutin, biru
 coverImage: /static/images/turon-tray.jpg
 whetter: Turon...kutsinta kayo riyan
 tags:
-    - dessert
-    - picnic
+  - dessert
+  - picnic
 ---
 
 Piknik sa parke kasama ng mga kaibigan. Kapag nagkayayaan, kahit biglaan lang, napakarami pa ring pagkain! Eh di ma-imagine mo na kung may patiunang abiso at preparasyon pa.
@@ -16,7 +16,7 @@ Ang weekend ay laging espesyal kasama ng mga barkada. Pahinga sa nakakapagod na 
 
 ![Kainan sa parke](/static/images/picnic-table.jpg)
 
-Halos lahat may dala kahit na ano lang, basta nabulungan mo na may *get together,* tiyak may bitbit. Laging may pansit at puto pero madalang ang turon at kutsinta!
+Halos lahat may dala kahit na ano lang, basta nabulungan mo na may _get together,_ tiyak may bitbit. Laging may pansit at puto pero madalang ang turon at kutsinta!
 
 ![Turon—parang lumpia yun nga lang ang laman ay saging at asukal](/static/images/turon-tray.jpg)
 

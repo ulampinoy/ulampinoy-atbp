@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+section: glossary
+permalink: /glossary/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+{% set glossarylist = collections.glossary %}
+{% include "components/glossarylist.njk" %}

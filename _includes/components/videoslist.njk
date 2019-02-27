@@ -1,35 +1,25 @@
-<section>
-	{% for video in collections.video | reverse %}
-		<article{% if video.url == url %} data-current="current item"{% endif %}>
-			<h3>
-				<a href="{{ video.url | url }}">
-					{% if video.data.title %}
-						{{ video.data.title }}
-					{% else %}
-						Untitled
-					{% endif %}
+<div class="grid grid-column__third grid-gap__normal">
+	{% for post in collections.video | reverse %}
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+			<div class="article-card__cover">
+				<a href="{{ post.url | url }}">
+					<img src="{{ post.data.coverImage }}" />
 				</a>
-			</h3>
-			{% if video.data.summary %}
-				<p>
-					{{ video.data.summary }}
-				</p>
-			{% endif %}
-			<p>
-				<time datetime="{{ video.date | machineDate }}">
-					<small>{{ video.date | readableDate }}</small>
-				</time>
-			</p>
-			{% if video.data.tags %}
-				<p>
-					{% for tag in video.data.tags %}
-		  			{%- if tag != "video" -%}
-		  				{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-		  			<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-		  			{%- endif -%}
-					{% endfor %}
-				</p>
-			{% endif %}
+			</div>
+			<div class="article-card__copy">
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<p>{{ post.data.description }}</p>
+				{% if post.data.tags %}
+					<span>
+						{% for tag in post.data.tags %}
+						{%- if tag != "post" -%}
+							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+						<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+						{%- endif -%}
+						{% endfor %}
+					</span	>
+				{% endif %}
+			</div>
 		</article>
 	{% endfor %}
-</section>
+</div>

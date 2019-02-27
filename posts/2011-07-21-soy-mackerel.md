@@ -6,9 +6,9 @@ description: Adobong galunggong – Phlippine mackerel braised in soy sauce, vin
 whetter: Adobong Gigi
 coverImage: /static/images/caballa-adobo.jpg
 tags:
-    - fish
-    - adobo
-    - recipe
+  - fish
+  - adobo
+  - recipe
 ---
 
 I miss _Adobong galunggong,_ a popular and favorite Filipino dish. It's fish braised in soy sauce, vinegar, ginger and garlic. It’s something we used to have weekly. Both words are iconic in the Philippines – adobo & galunggong ...
