@@ -2,12 +2,15 @@
   --kanbas: rgb(253, 246, 239);
   --bughaw: rgb(34, 16, 114);
   --pula: #c40000;
+  --kape: rgb(43, 15, 15);
   --dilaw: rgb(255, 175, 55);
   --puti: white;
   --itim: black;
+  --uling: #303030;
   --abo: #606060;
   --pilak: #e0e0e0;
   --usok: #808080;
+  --cursive: "Yesteryear", cursive;
 }
 
 *,
@@ -63,7 +66,7 @@ footer {
 }
 
 main {
-  padding: 3em 0;
+  padding: 3em 1rem;
 
   h1 {
     font-size: 3.2rem;
@@ -123,7 +126,7 @@ header nav li {
 header nav li a[href] {
   text-transform: uppercase;
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.05rem;
   text-decoration: none;
 }
@@ -263,6 +266,15 @@ header {
     grid-template-columns: repeat(3, 1fr);
   }
 
+  &-Home {
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 3rem;
+
+    .section-Videos {
+      grid-column: 1 / 3;
+    }
+  }
+
   &-gap__normal {
     grid-gap: 1.5rem;
   }
@@ -270,6 +282,48 @@ header {
 
 section {
   padding: 1em 0;
+
+  &.section-Intro {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto 3rem;
+    padding-bottom: 3rem;
+    position: relative;
+
+    &::after {
+      content: "";
+      width: 4rem;
+      height: 1rem;
+      background-color: var(--dilaw);
+      position: absolute;
+      left: calc(50% - 2rem);
+      bottom: 0;
+    }
+
+    h2 {
+      color: var(--kape);
+      font-family: var(--cursive);
+      font-size: 3rem;
+      margin-bottom: 0;
+      text-transform: unset;
+    }
+
+    p {
+      font-size: 1.2rem;
+      margin: 0 auto;
+      color: var(--uling);
+      max-width: 44em;
+    }
+  }
+
+  h2 {
+    color: var(--abo);
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .05rem;
+  }
 }
 
 article {
@@ -291,7 +345,7 @@ article {
 .article-post header p {
   font-size: 1.8rem;
   margin-top: 0.5rem;
-  color: brown;
+  color: var(--kape);
 }
 
 .article-post__narrow {
@@ -314,7 +368,7 @@ article {
 }
 
 .article-card__copy h3 {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: 800;
   margin-bottom: 0.5rem;
 }
