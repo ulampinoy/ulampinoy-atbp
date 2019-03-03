@@ -5,7 +5,7 @@ section: home
 
 {{ layoutContent | safe }}
 
-<h2>Bago sa Blog</h2>
+<h3>Bago sa Blog</h3>
 <div class="grid grid-column__third grid-gap__normal">
 	{% set postlist = collections.posts | reverse %}
 	{% for post in postlist.slice(0,6) %}
@@ -23,8 +23,29 @@ section: home
 	{% endfor %}
 </div>
 
-<ul>
-  {%- for post in collections.categories["Glossary"] -%}
-    <li>{{ post.data.title }}</li>
-  {%- endfor -%}
-</ul>
+<h3>Cook-along Video Recipes</h3>
+<div class="grid grid-column__half grid-gap__normal">
+	{% set videolist = collections.video | reverse %}
+	{% for post in videolist.slice(0,4) %}
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+			<div class="article-card__cover">
+				<a href="{{ post.url | url }}">
+					<img src="{{ post.data.coverImage }}" />
+				</a>
+			</div>
+			<div class="article-card__copy">
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<p>{{ post.data.description }}</p>
+			</div>
+		</article>
+	{% endfor %}
+</div>
+
+
+<h3>Ating Alamin</h3>
+{% set glossary = collections.glossary | reverse %}
+{% for post in glossary.slice(0,4) %}
+<a href="{{ post.url | url }}">
+	<div>{{ post.data.title }}</div>
+</a>
+{%- endfor -%}
