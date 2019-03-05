@@ -5,12 +5,14 @@
   --kape: rgb(43, 15, 15);
   --dilaw: rgb(255, 175, 55);
   --puti: white;
-  --itim: black;
+  --itim: #101010;
   --uling: #303030;
   --abo: #606060;
   --pilak: #e0e0e0;
   --usok: #808080;
   --cursive: "Yesteryear", cursive;
+  --headlineFont: "Vidaloka", serif;
+  --bodyFont: "Cormorant Garamond", serif;
 }
 
 *,
@@ -21,10 +23,11 @@
 
 html,
 body {
-  font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica,
-    Arial, sans-serif;
+  color: var(--itim);
+  font-family: var(--bodyFont), -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Helvetica, Arial, sans-serif;
   font-size: 18px;
-  line-height: 1.6;
+  line-height: 1.4;
   padding: 0;
   margin: 0;
 }
@@ -36,7 +39,6 @@ body {
   background-color: var(--kanbas);
 }
 
-p,
 pre,
 code {
   line-height: 1.6;
@@ -60,16 +62,28 @@ img {
   max-width: 100%;
 }
 
-header,
-footer {
+header {
   padding: 1em;
 }
 
+footer {
+  padding: 3rem 1em;
+  margin-top: 3rem;
+  text-align: center;
+  border-top: 1px solid var(--pilak);
+}
+
 main {
-  padding: 3em 1rem;
+  padding: 0 1rem;
 
   h1 {
     font-size: 3.2rem;
+    padding-top: 2rem;
+  }
+
+  nav {
+    max-width: 44rem;
+    margin: 0 auto;
   }
 }
 
@@ -95,9 +109,18 @@ pre {
   margin: 0.5em 0;
 }
 
+figure {
+  margin: 0;
+}
+
 ul {
-  padding: 0;
+  padding: 0 0 1rem;
   list-style: none;
+  list-style-position: inside;
+}
+
+ol {
+  padding-left: 0;
 }
 
 /* Header Logo (style as h2) */
@@ -196,7 +219,6 @@ button {
   padding: 1em;
   margin-bottom: 1em;
   font-size: 1rem;
-  font-family: "Muli", sans-serif;
 }
 
 input,
@@ -240,6 +262,7 @@ header {
 
 .logo {
   max-width: 64vw;
+  padding-top: 1rem;
 }
 
 .global-nav {
@@ -289,7 +312,7 @@ section {
     flex-direction: column;
     text-align: center;
     margin: 0 auto 3rem;
-    padding-bottom: 3rem;
+    padding: 3rem 0;
     position: relative;
 
     &::after {
@@ -304,48 +327,101 @@ section {
 
     h2 {
       color: var(--kape);
-      font-family: var(--cursive);
+      font-family: var(--headlineFont);
+      letter-spacing: -0.1rem;
       font-size: 3rem;
-      margin-bottom: 0;
+      margin-bottom: 1rem;
       text-transform: unset;
     }
 
     p {
-      font-size: 1.2rem;
+      font-size: 1.4rem;
       margin: 0 auto;
       color: var(--uling);
-      max-width: 44em;
+      max-width: 40em;
     }
   }
 
   h2 {
-    color: var(--abo);
+    color: var(--usok);
     font-size: 1rem;
     text-transform: uppercase;
-    letter-spacing: .05rem;
+    letter-spacing: 0.05rem;
   }
 }
 
 article {
   h1 {
+    font-family: var(--headlineFont);
     color: black;
     font-size: 3rem;
+    margin-bottom: 1rem;
   }
 
   h2 {
     margin: 2rem 0 1rem;
   }
+
+  p {
+    padding: .5rem 0 1.5rem;
+  }
+
+  p,
+  ul,
+  ol {
+    font-size: 1.4rem;
+  }
+
+  & > ul {
+    list-style-type: disc;
+  }
+
+  li {
+    padding-bottom: .75rem;
+  }
 }
 
-.article-post header h1 {
-  font-size: 3rem;
-  margin-bottom: 0;
-}
+.article-post {
+  img {
+    margin: 1.5rem auto;
+  }
 
-.article-post header p {
-  font-size: 1.8rem;
-  margin-top: 0.5rem;
-  color: var(--kape);
+  h2 {
+    font-size: 2rem;
+    padding-top: 3rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+    padding: 3rem 0 1rem;
+  }
+
+  h2,
+  h3,
+  p,
+  ol,
+  ul {
+    max-width: 44rem;
+    margin: 0 auto;
+  }
+
+  header {
+    border-bottom: none;
+    padding: 2rem 0 0;
+
+    h1 {
+      max-width: 44rem;
+      font-size: 3rem;
+      line-height: 1.2;
+      margin: 0 auto 1rem;
+    }
+
+    p {
+      font-size: 2rem;
+      margin-top: 0.5rem;
+      color: var(--kape);
+    }
+  }
 }
 
 .article-post__narrow {
@@ -368,14 +444,23 @@ article {
 }
 
 .article-card__copy h3 {
-  font-size: 1.3rem;
+  font-family: var(--headlineFont);
+  font-size: 1.4rem;
   font-weight: 800;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .article-card__copy p {
+  font-family: var(--bodyFont);
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-style: italic;
   margin-top: 0;
   color: var(--abo);
+}
+
+.tags {
+  padding-top: 2rem;
 }
 
 .contact-form {
@@ -387,4 +472,23 @@ article {
   color: rgb(48, 0, 0);
   background-color: blanchedalmond;
   font-style: normal;
+}
+
+.article-post p:nth-child(2) {
+  font-size: 1.8rem;
+}
+
+.billboard {
+  img {
+    margin-top: 0;
+  }
+}
+
+.glossary {
+  &-list {
+    a {
+      font-size: 1.2rem;
+      font-weight: 600;
+    }
+  }
 }

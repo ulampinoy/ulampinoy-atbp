@@ -3,16 +3,17 @@ layout: layouts/base.njk
 section: post
 ---
 
-<article>
+<article class="article-post">
   <div class="billboard">
     <img src="{{ coverImage }}" />
   </div>
+  <header>
   <h1>{{ title }}</h1>
-
+  </header>
   {{ layoutContent | safe }}
 
   {% if tags %}
-    <p>
+    <p class="tags">
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}

@@ -10,4 +10,4 @@ Ang bagoong ay pampalasa gawa sa pagbuburo ng isda o hipon. Gamit ang lang ay as
 
 Ginagamit ito sa maraming ulam bilang pampa-alat dahil bukod sa alat may hatid itong linamnam. Madalas rin itong gamiting sawsawan katambal ng kalamansi o suka. Ang bagoong alamang naman ang sidekick ng kare-kare.
 
-![Kare-kare sa palayok at bagoong alamang](/kare-kare-bagoong-alamang.jpg)
+![Kare-kare sa palayok at bagoong alamang](/static/images/kare-kare-bagoong-alamang.jpg)

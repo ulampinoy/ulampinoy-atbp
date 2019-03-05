@@ -28,11 +28,11 @@ section: home
 		</div>
 	</section>
 
-	<section>
-		<h2>Ating Alamin</h2>
+	<section class="glossary-list">
+		<h2>Talasalitaan</h2>
 		<ul>
 			{% set glossary = collections.glossary | reverse %}
-			{% for post in glossary.slice(0,4) %}
+			{% for post in glossary.slice(0,7) %}
 			<li>
 				<a href="{{ post.url | url }}">
 					<div>{{ post.data.title }}</div>

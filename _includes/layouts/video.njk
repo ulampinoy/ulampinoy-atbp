@@ -3,18 +3,18 @@ layout: layouts/base.njk
 section: video
 ---
 
-<article>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
-  <h1>{{ title }}</h1>
+<div class="billboard">
+  <img src="{{ coverImage }}" />
+</div>
 
+<article class="article-post">
+  <header class="article-header">
+  <h1>{{ title }}</h1>
+  </header>
   {{ layoutContent | safe }}
 
   {% if tags %}
-    <p>
+    <p class="tags">
     {% for tag in tags %}
       {%- if tag != "post" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
@@ -23,6 +23,11 @@ section: video
     {% endfor %}
     </p>
   {% endif %}
+  <p>
+    <small> 
+      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+    </small>
+  </p>
 
 </article>
 

@@ -7,6 +7,6 @@ tags:
 ---
 Ang pangunahing pagkain sa Pilipinong hapag. Kanin ang tawag sa isinaing bigas. Tutong ang tawag sa kanin sa medyo o sunog na kanin. Kanin-lamig naman ang tawag sa tirang kanin. Sinangag naman ang ang fried rice. Ampaw ang tawag sa binilad na kanin-lamig ginawang _poprice._
 
-![Kanin tinakal](/kanin-cups.jpg)
+![Kanin tinakal](/static/images/kanin-cups.jpg)
 
-![Baon: kanin at menu](/baon-kanin-menudo.jpg)
+![Baon: kanin at menu](/static/images/baon-kanin-menudo.jpg)

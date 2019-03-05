@@ -2,34 +2,27 @@
 layout: layouts/base.njk
 section: glossary
 ---
-
-<article>
-  {% if coverImage %}
+{% if coverImage %}
   <div class="billboard">
     <img src="{{ coverImage }}" />
   </div>
   {% endif %}
-  
-  <h1>{{ title }}</h1>
-
-  {{ layoutContent | safe }}
+<article class="article-post">
+  <header class="article-header">
+    <h1>{{ title }}</h1>
+  </header>
+    {{ layoutContent | safe }}
 
   {% if tags %}
     <p>
     {% for tag in tags %}
-      {%- if tag != "post" -%}
+      {%- if tag != "glossary" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}
         <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
       {%- endif -%}
     {% endfor %}
     </p>
   {% endif %}
-
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
 
 </article>
 

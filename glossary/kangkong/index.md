@@ -8,5 +8,5 @@ tags:
 
 Green leafy plant that is the most common vegetable component for sinigang. Can also be cooked as adobo.
 
-![Steamed kangkong with bagoong alamang](/steamed-kangkong-bagoong-alamang.jpg)
-![Beef sinigang with kangkong](/sinigang-baka-kangkong.jpg)
+![Steamed kangkong with bagoong alamang](/static/images/steamed-kangkong-bagoong-alamang.jpg)
+![Beef sinigang with kangkong](/static/images/sinigang-baka-kangkong.jpg)
