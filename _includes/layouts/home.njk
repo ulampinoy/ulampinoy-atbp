@@ -16,7 +16,7 @@ section: home
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 					<div class="article-card__cover">
 						<a href="{{ post.url | url }}">
-							<img src="{{ post.data.coverImage }}" />
+							<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&w=100" />
 						</a>
 					</div>
 					<div class="article-card__copy">
@@ -31,8 +31,8 @@ section: home
 	<section class="glossary-list">
 		<h2>Talasalitaan</h2>
 		<ul>
-			{% set glossary = collections.glossary | reverse %}
-			{% for post in glossary.slice(0,7) %}
+			{% set glossary = collections.glossary %}
+			{% for post in glossary | sort('title') %}
 			<li>
 				<a href="{{ post.url | url }}">
 					<div>{{ post.data.title }}</div>
