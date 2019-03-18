@@ -1,5 +1,5 @@
 <div class="grid grid-column__half grid-gap__normal">
-	{% for post in collections.video | reverse %}
+	{% for post in collections.posts | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 			<div class="article-card__cover">
 				<a href="{{ post.url | url }}">
