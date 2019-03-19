@@ -26,13 +26,14 @@ section: home
 				</article>
 			{% endfor %}
 		</div>
+	<a href="/video/">See all posts</a>
 	</section>
 
 	<section class="glossary-list">
 		<h2>Talasalitaan</h2>
 		<ul>
-			{% set glossary = collections.glossary %}
-			{% for post in glossary %}
+			{% set glossary = collections.glossary | sort('title') %}
+			{% for post in glossary.slice(0,5) %}
 			<li>
 				<a href="{{ post.url | url }}">
 					<div>{{ post.data.title }}</div>
@@ -59,6 +60,7 @@ section: home
 					</div>
 				</article>
 			{% endfor %}
+			<a href="/video/">See all videos</a>
 		</div>
 	</section>
 </div>

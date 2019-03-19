@@ -22,20 +22,22 @@
 
 html,
 body {
-  color: var(--itim);
   font-family: var(--bodyFont), -apple-system, BlinkMacSystemFont, "Segoe UI",
     Helvetica, Arial, sans-serif;
+  color: var(--itim);
   font-size: 18px;
+  background-color: var(--kanbas);
   line-height: 1.4;
   padding: 0;
   margin: 0;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 body {
   display: grid;
   height: 100vh;
   grid-template-rows: auto 1fr auto;
-  background-color: var(--kanbas);
 }
 
 pre,
@@ -364,13 +366,13 @@ article {
   }
 
   p {
-    padding: .5rem 0 1.5rem;
+    padding: 0.5rem 0 1rem;
   }
 
   p,
   ul,
   ol {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
   }
 
   & > ul {
@@ -378,11 +380,45 @@ article {
   }
 
   li {
-    padding-bottom: .75rem;
+    padding-bottom: 0.75rem;
   }
 }
 
 .article-post {
+  grid-template-columns: 4fr 1.5fr;
+  grid-column-gap: 2rem;
+
+  .billboard,
+  header {
+    grid-column: 1 / 3;
+  }
+
+  aside {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+      Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    margin-top: 2rem;
+    position: relative;
+
+
+    &:after {
+      content: "";
+      width: 4rem;
+      height: .5rem;
+      background-color: var(--dilaw);
+      position: absolute;
+      top: -1.5rem;
+      left: 0;
+    }
+
+    h4 {
+      margin-bottom: 0;
+      text-transform: uppercase;
+    }
+    p {
+      font-size: 0.85rem;
+    }
+  }
+
   img {
     margin: 1.5rem auto;
   }
@@ -403,7 +439,7 @@ article {
   p,
   ol,
   ul {
-    max-width: 44rem;
+    max-width: 40rem;
     margin: 0 auto;
   }
 
@@ -412,10 +448,10 @@ article {
     padding: 2rem 0 0;
 
     h1 {
-      max-width: 44rem;
       font-size: 3rem;
       line-height: 1.2;
-      margin: 0 auto 1rem;
+      margin: 0 auto 0 4rem;
+      max-width: 48rem;
     }
 
     p {
@@ -475,8 +511,8 @@ article {
   font-style: normal;
 }
 
-.article-post p:nth-child(2) {
-  font-size: 1.8rem;
+.article-post section > p:first-of-type {
+  font-size: 1.6rem;
 }
 
 .billboard {
