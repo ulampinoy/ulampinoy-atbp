@@ -25,5 +25,3 @@ Covering while simmering tenderize the green beans faster
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/AedJIA85TjM`

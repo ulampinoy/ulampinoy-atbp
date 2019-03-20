@@ -30,4 +30,3 @@ Squash, string beans and live crabs cooked in spiced coconut milk. Savoury and s
 
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/8cOuaPWZL4Q`

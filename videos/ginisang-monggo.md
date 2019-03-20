@@ -28,5 +28,3 @@ Mung beans cooked with pork belly strips, bitter gourd leaves
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/VBGDZ2nQ2ZI`

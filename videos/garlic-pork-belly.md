@@ -26,5 +26,3 @@ Crispy, golden and garlicky pork belly
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/d9aXCxvG0ow`

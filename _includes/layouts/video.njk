@@ -12,15 +12,20 @@ section: video
   </header>
   <section>
     {{ layoutContent | safe }}
+    <div class="video-box">
+      <iframe id="ytplayer" type="text/html" width="720" height="405" 
+        src="https://www.youtube.com/embed/{{ youtube }}" 
+        frameborder="0" allowfullscreen>
+  </div>
   </section>
-
+  
   <aside>
     <h4>Alam mo ba?</h4>
     <p>
       {{ sideNote }}
     </p>
     {% if sideImage %}
-      <img src="{{ sideImage }}" />
+      <img src="{{ sideImage }}"/>
     {% endif %}
   </aside>
 
@@ -45,6 +50,6 @@ section: video
   </div>
 </article>
 
-<div class="footer-nav">
-  <a href="{{ '/video/' | url }}">← Balik sa lahat ng videos</a>
-</div>
+  <div class="footer-nav">
+    <a href="{{ '/video/' | url }}">← Balik sa lahat ng videos</a>
+  </div>

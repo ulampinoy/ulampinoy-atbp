@@ -32,4 +32,3 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/0PAzB0PqG80`

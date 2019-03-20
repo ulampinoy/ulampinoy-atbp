@@ -27,5 +27,3 @@ Beef caldereta is one those dishes that you eagerly expect in special ocassion m
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/BotTbCKuGJA`

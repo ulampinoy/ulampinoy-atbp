@@ -23,6 +23,5 @@ Fire up your wok and cook along with our easy to make chicken and vegetable stir
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/UwTBNoepS7Q`
 
 

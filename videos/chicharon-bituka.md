@@ -30,5 +30,3 @@ Crispy and crunchy cracklings made from pork intestines. Classic pulutan or appe
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/ANOIpWdKJ8g`
-

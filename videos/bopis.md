@@ -21,13 +21,14 @@ Pork innards braised in vinegar and spices
 * cooking oil
 * vinegar, salt and black pepper to taste
 
+![Bopis](/images/bopis-dish-02.jpg)
+
+Kain na at kanin pa more! 🍚
+
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/lOLw8UzRApY`
 
-![Bopis](/images/bopis-dish-02.jpg)
-Kain na at kanin pa more! 🍚
 
 
 

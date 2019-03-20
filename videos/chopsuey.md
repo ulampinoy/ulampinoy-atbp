@@ -57,5 +57,3 @@ Happy cooking and show us your version of the dish via [Instagram](https://insta
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/vtYoKYwEInQ`

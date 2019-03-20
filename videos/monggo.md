@@ -28,5 +28,4 @@ Ang monggo ay isang masarap na ulam na kadalasang may katambal na pritong isda. 
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/06kCeI88owE`
 

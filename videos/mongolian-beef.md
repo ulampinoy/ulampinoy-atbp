@@ -46,5 +46,3 @@ Kain na! At huwag mag-atubiling [mag-subscribe](https://www.youtube.com/user/ula
 ### Video
 
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/jrF4z3fjphA`

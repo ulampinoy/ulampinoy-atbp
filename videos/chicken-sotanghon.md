@@ -7,7 +7,7 @@ youtube: "W-5lRLncO6c"
 coverImage: /static/images/chicken-sotanghon.jpg
 tags:
   - video
-    - chicken
+  - chicken
 ---
 
 Got colds or just feeling cold? Here is a delicious way to get well and stay warm!
@@ -32,6 +32,5 @@ Got colds or just feeling cold? Here is a delicious way to get well and stay war
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/W-5lRLncO6c`
 
 

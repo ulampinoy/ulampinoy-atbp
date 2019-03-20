@@ -20,10 +20,9 @@ Easy to make crispy pork belly recipe!
 
 ![Salt liberally the pork belly](/images/pork-belly-fresh.jpg)
 
+![Pork crackling with dip](/images/crispy-pork-belly-plated.jpg)
+
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/RuIpEBZwgdk`
-
-![Pork crackling with dip](/images/crispy-pork-belly-plated.jpg)
 

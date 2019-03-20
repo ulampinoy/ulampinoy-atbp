@@ -30,13 +30,12 @@ Using the different cuts from the whole chicken gives the recipe more range of f
 
 ![Fresh pechay](/images/fresh-pechay.jpg)
 ![Bottle gourd gives the broth a sublte sweetness](/images/upo-cuts.jpg)
+
 The vegetables can be replaced with what you have like _dahon ng sili_, malunggay, green papaya, etc.
-
-### Video
-Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/ZtMlLIxgQcU`
 
 ![It's in the broth](/images/chicken-broth-pot.jpg)
 
 More power to all and have a great week ahead! 💪🏼
+
+### Video
+Watch and cook-along with the video recipe.

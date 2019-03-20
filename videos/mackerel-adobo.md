@@ -25,5 +25,3 @@ Quick and easy fish adobo dish of mackerel (typically galunggong). Delicious and
 
 ### Video
 Watch and cook-along with the video recipe.
-
-`youtube:https://www.youtube.com/embed/4L4M7GxjBRw`

@@ -21,6 +21,6 @@ We're back in the kitchen for the 3rd Season of UlamPinoy! For our first episode
 
 ### Procedure
 Watch and cook-along with the video recipe.
-`youtube:https://www.youtube.com/embed/Vf1-PuCyGt0`
+
 
 

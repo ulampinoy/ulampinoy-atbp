@@ -30,5 +30,4 @@ The default pancit.
 ### Video
 Watch and cook-along with the video recipe.
 
-`youtube:https://www.youtube.com/embed/bGjkeUzW1kE`
 
