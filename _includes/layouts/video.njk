@@ -3,34 +3,48 @@ layout: layouts/base.njk
 section: video
 ---
 
-<div class="billboard">
-  <img src="{{ coverImage }}" />
-</div>
-
-<article class="article-post">
-  <header class="article-header">
-  <h1>{{ title }}</h1>
+<article class="article-post grid">
+  <div class="billboard">
+    <img src="{{ coverImage }}"/>
+  </div>
+  <header>
+    <h1>{{ title }}</h1>
   </header>
-  {{ layoutContent | safe }}
+  <section>
+    {{ layoutContent | safe }}
+  </section>
 
-  {% if tags %}
-    <p class="tags">
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
+  <aside>
+    <h4>Alam mo ba?</h4>
+    <p>
+      {{ sideNote }}
     </p>
-  {% endif %}
-  <p>
-    <small> 
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
+    {% if sideImage %}
+      <img src="{{ sideImage }}" />
+    {% endif %}
+  </aside>
 
+  <div class="article-meta">
+    {% if tags %}
+      <p class="tags">
+        {% for tag in tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    <p>
+      <small>
+        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+      </small>
+    </p>
+    <a href="/categories/{{category}}">{{category}}</a>
+  </div>
 </article>
 
-<nav>
-  <a href="{{ '/blog/' | url }}">← Video index</a>
-</nav>
+<div class="footer-nav">
+  <a href="{{ '/video/' | url }}">← Balik sa lahat ng videos</a>
+</div>
