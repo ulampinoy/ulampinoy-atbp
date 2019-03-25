@@ -24,4 +24,4 @@ Easy to make delicious and creamy spaghetti carbonara dish. Kids love it and gre
 * parsley
 * salt & black pepper
 
-![Ingredients for making non-Italian carbonara](/images/spaghetti-carbonara-ingredients.jpg)
+![Ingredients for making non-Italian carbonara](/static/images/spaghetti-carbonara-ingredients.jpg)

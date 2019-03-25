@@ -4,19 +4,16 @@ section: video
 ---
 
 <article class="article-post grid">
-  <div class="billboard">
-    <img src="{{ coverImage }}"/>
+  <div class="billboard video-box">
+    <iframe id="ytplayer" type="text/html" width="800" height="450" 
+        src="https://www.youtube.com/embed/{{ youtube }}" 
+        frameborder="0" allowfullscreen>
   </div>
   <header>
     <h1>{{ title }}</h1>
   </header>
   <section>
     {{ layoutContent | safe }}
-    <div class="video-box">
-      <iframe id="ytplayer" type="text/html" width="720" height="405" 
-        src="https://www.youtube.com/embed/{{ youtube }}" 
-        frameborder="0" allowfullscreen>
-  </div>
   </section>
   
   <aside>

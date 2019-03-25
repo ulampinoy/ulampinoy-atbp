@@ -529,7 +529,6 @@ article {
 .billboard {
   display: block;
   overflow: hidden;
-  max-height: 64vh;
   object-fit: cover;
   img {
     margin-top: 0;
@@ -547,7 +546,7 @@ article {
 
 .footer-nav {
   display: flex;
-  justify-content: center;
+  justify-content: start;
   margin: 3rem 0;
 
   a[href],
@@ -558,8 +557,8 @@ article {
     font-size: 1.2rem;
     font-weight: 600;
     background-color: white;
-    border: .15rem solid var(--dilaw);
-    border-radius: .5rem;
+    border: 0.15rem solid var(--dilaw);
+    border-radius: 0.5rem;
     padding: 1rem;
 
     &:hover {
@@ -569,11 +568,20 @@ article {
   }
 }
 
-.video-box {
-  display: flex;
+.article-meta {
+  margin-top: 2rem;
+  border-top: 1px solid var(--pilak);
+}
+
+.billboard {
+  &.video-box {
+    height: 64vh;
+    display: flex;
+    justify-content: center;
+  }
 
   iframe {
-    max-width: 100%;
     width: 100%;
+    height: 100%;
   }
 }

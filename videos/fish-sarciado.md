@@ -25,7 +25,7 @@ Slow cooked beef stew with vegetables
 * black pepper
 * spring onion as garnish
 
-![Sarciadong isda](/images/fish-sarciado-02.jpg)
+![Sarciadong isda](/static/images/fish-sarciado-02.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

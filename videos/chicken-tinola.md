@@ -25,15 +25,15 @@ Savory and revitalizing chicken broth soup spiced with ginger, garlic, onions an
 * Patis (fish sauce)
 * Salt to taste
 
-![Fresh chicken cuts](/images/fresh-chicken-cuts.jpg)
+![Fresh chicken cuts](/static/images/fresh-chicken-cuts.jpg)
 Using the different cuts from the whole chicken gives the recipe more range of flavors and textures. Economical too!
 
-![Fresh pechay](/images/fresh-pechay.jpg)
-![Bottle gourd gives the broth a sublte sweetness](/images/upo-cuts.jpg)
+![Fresh pechay](/static/images/fresh-pechay.jpg)
+![Bottle gourd gives the broth a sublte sweetness](/static/images/upo-cuts.jpg)
 
 The vegetables can be replaced with what you have like _dahon ng sili_, malunggay, green papaya, etc.
 
-![It's in the broth](/images/chicken-broth-pot.jpg)
+![It's in the broth](/static/images/chicken-broth-pot.jpg)
 
 More power to all and have a great week ahead! 💪🏼
 

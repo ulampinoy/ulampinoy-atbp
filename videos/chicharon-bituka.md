@@ -25,7 +25,7 @@ Crispy and crunchy cracklings made from pork intestines. Classic pulutan or appe
 * 1 clove garlic, crushed
 * dash of salt and pepper
 
-![Crispy and crunchy cracklings with spiced vinegar dip](/images/chicharon-bituka.jpg)
+![Crispy and crunchy cracklings with spiced vinegar dip](/static/images/chicharon-bituka.jpg)
 
 ### Video
 Watch and cook-along with the video recipe.

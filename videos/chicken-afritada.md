@@ -28,7 +28,7 @@ Easy to make one-pot chicken dish with vegetables. You can make a large batch an
 * Patis (fish sauce)
 * Salt and black pepper to taste
 
-![Cut into bite-size piece](/images/vegetable-cut-chopping-board.jpg)
+![Cut into bite-size piece](/static/images/vegetable-cut-chopping-board.jpg)
 
 ### Procedure
 
@@ -41,8 +41,8 @@ Mince the garlic, slice the onions and chop the tomatoes.
 5. Add the tomato sauce. Stir. Add the bell peppers. Put in the green peas.
 6. Salt to taste. Season with black pepper.
 
-### Video
 
 Happy cooking and show us your version of Chicken Afritada via [Instagram](https://instagram.com/ulampinoy/) with **#ulampinoy**
 
+### Video
 Watch and cook-along with the video recipe.
