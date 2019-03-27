@@ -15,17 +15,23 @@ section: post
   </section>
 
   <aside>
-    <h4>Alam mo ba?</h4>
-    <p>
-      {{ sideNote }}
-    </p>
-    {% if sideImage %}
-      <img src="{{ sideImage }}" />
+    {% if sideNote %}
+      <div class="aside-wrapper">
+        <div class="liner"></div>
+        <h4>Alam mo ba?</h4>
+        <p>
+          {{ sideNote }}
+        </p>
+        {% if sideImage %}
+          <img src="{{ sideImage }}"/>
+        {% endif %}
+      </div>
     {% endif %}
   </aside>
 
   <div class="article-meta">
     {% if tags %}
+    <div class="liner"></div>
       <p class="tags">
         {% for tag in tags %}
           {%- if tag != "post" -%}

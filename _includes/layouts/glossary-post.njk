@@ -2,30 +2,49 @@
 layout: layouts/base.njk
 section: glossary
 ---
-{% if coverImage %}
+<article class="article-post grid">
   <div class="billboard">
-    <img src="{{ coverImage }}" />
+    <img src="{{ coverImage }}"/>
   </div>
-  {% endif %}
-<article class="article-post">
-  <header class="article-header">
+  <header>
     <h1>{{ title }}</h1>
   </header>
+  <section>
     {{ layoutContent | safe }}
+  </section>
 
-  {% if tags %}
+  <aside>
+    {% if sideNote %}
+      <div class="aside-wrapper">
+        <div class="liner"></div>
+        <h4>Alam mo ba?</h4>
+        <p>
+          {{ sideNote }}
+        </p>
+        {% if sideImage %}
+          <img src="{{ sideImage }}"/>
+        {% endif %}
+      </div>
+    {% endif %}
+  </aside>
+
+  <div class="article-meta">
+    {% if tags %}
+    <div class="liner"></div>
+      <p class="tags">
+        {% for tag in tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
+      </p>
+    {% endif %}
+
     <p>
-    {% for tag in tags %}
-      {%- if tag != "glossary" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
-    {% endfor %}
+      <small>
+        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+      </small>
     </p>
-  {% endif %}
-
+  </div>
 </article>
-
-<nav>
-  <a href="{{ '/glossary/' | url }}">← {{ section | title }} index</a>
-</nav>

@@ -9,7 +9,7 @@ section: home
 
 <div class="grid grid-Home">
 	<section>
-		<h2>Bago sa Blog</h2>
+		<h2>📝 Mula sa Blog</h2>
 		<div class="grid grid-column__half grid-gap__normal">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(0,4) %}
@@ -26,17 +26,17 @@ section: home
 				</article>
 			{% endfor %}
 		</div>
-	<a href="/video/">See all posts</a>
+	<a href="/blog/">Magtungo sa Blog &rArr;</a>
 	</section>
 
 	<section class="glossary-list">
-		<h2>Talasalitaan</h2>
+		<h2>📔 Talasalitaan</h2>
 		<ul>
 			{% set glossary = collections.glossary | sort('title') %}
-			{% for post in glossary.slice(0,5) %}
+			{% for post in glossary.slice(0,8) %}
 			<li>
 				<a href="{{ post.url | url }}">
-					<div>{{ post.data.title }}</div>
+				<div>{{ post.data.title }}</div>
 				</a>
 			</li>
 			{%- endfor -%}
@@ -44,7 +44,7 @@ section: home
 	</section>
 
 	<section class="section-Videos">
-		<h2>Cook-along Video Recipes</h2>
+		<h2>📽️ Cook-along Video Recipes</h2>
 		<div class="grid grid-column__third grid-gap__normal">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(0,6) %}
@@ -60,7 +60,7 @@ section: home
 					</div>
 				</article>
 			{% endfor %}
-			<a href="/video/">See all videos</a>
+			<a href="/video/">Tingnan lahat ng Video Recipes &rArr;</a>
 		</div>
 	</section>
 </div>
