@@ -264,10 +264,6 @@ time {
   padding-right: 0.5em;
 }
 
-header {
-  border-bottom: 1px solid var(--pilak);
-}
-
 .logo {
   max-width: 64vw;
   padding-top: 1rem;
@@ -326,8 +322,8 @@ section {
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    margin: 0 auto 3rem;
-    padding: 3rem 0;
+    margin: 0 auto;
+    padding: 0 0 1rem;
     position: relative;
 
     &::after {
@@ -337,7 +333,7 @@ section {
       background-color: var(--dilaw);
       position: absolute;
       left: calc(50% - 2rem);
-      bottom: 0;
+      bottom: -2rem;
     }
 
     h2 {
@@ -346,7 +342,8 @@ section {
       letter-spacing: -0.04rem;
       font-size: 2.7rem;
       font-weight: 400;
-      margin-bottom: 1rem;
+      margin: 0 auto;
+      padding-top: 0;
       text-transform: unset;
     }
 
@@ -360,11 +357,12 @@ section {
 
   h2 {
     font-family: var(--headlineFont);
-    color: var(--usok);
-    font-size: 1rem;
+    color: var(--kape);
+    font-weight: 700;
+    letter-spacing: .08rem;
     text-transform: uppercase;
-    letter-spacing: 0.05rem;
-    padding-bottom: 1rem;
+    font-size: 1.15rem;
+    padding: 1rem 0;
   }
 }
 
@@ -523,7 +521,7 @@ article {
 
 .article-card__cover {
   overflow: hidden;
-  max-height: 215px;
+  min-height: 225px;
   border-radius: 0.5rem 0.5rem 0 0;
 }
 
@@ -542,6 +540,7 @@ article {
   font-size: 1.1rem;
   font-weight: 400;
   margin-top: 0;
+  margin-bottom: 0;
   color: var(--abo);
 }
 
