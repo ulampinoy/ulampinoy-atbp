@@ -13,7 +13,7 @@ tags:
   - grill
 ---
  
-Ngayong weekend magpapa-usok naman kami ng kaunti. Nag-ihaw kami ng isda at chorizo. Mabuti na lang at hindi maselan ang mga kapitbahay naming mga Espanyol at hindi nagreklamo sa usok–sa katakam-takam na langhap ng usok!
+Ngayong weekend magpapa-usok kami ng kaunti. Nag-ihaw kami ng isda at chorizo. Mabuti na lang at hindi maselan ang mga kapitbahay naming mga Espanyol at hindi nagreklamo sa usok–sa katakam-takam na langhap ng usok!
 
 Bago ang ihawin ang isda, inuna ko muna ang chorizo criollo. Mag-iiwan ito ng karagdagang lasa para sa isda.
 
