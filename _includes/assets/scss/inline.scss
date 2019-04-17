@@ -13,8 +13,8 @@
   --ulap: #c0c0c0;
   --headlineFont: "Exo 2", sans-serif;
   --bodyFont: "EB Garamond", serif;
-  --sysFont: -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Helvetica, Arial, sans-serif;
+  --sysFont: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial,
+    sans-serif;
 }
 
 *,
@@ -187,7 +187,7 @@ a[rel="tag"]:visited {
   font-family: var(--sysFont);
   font-size: 0.6em;
   font-weight: 600;
-  padding: .25em .5em;
+  padding: 0.25em 0.5em;
   border: 1px solid var(--ulap);
   background-color: var(--ulap);
   color: var(--puti);
@@ -288,6 +288,10 @@ header {
 
 .grid {
   display: grid;
+
+  &-column {
+    grid-template-columns: 1fr;
+  }
 
   &-column__half {
     grid-template-columns: repeat(2, 1fr);
@@ -439,14 +443,14 @@ article {
 
   figure {
     margin: 0 auto 2rem;
-  
+
     img {
-      margin-bottom: .5rem;
+      margin-bottom: 0.5rem;
     }
 
     figcaption {
       font-family: var(--sysFont);
-      font-size: .8rem;
+      font-size: 0.8rem;
       color: var(--uling);
     }
   }
@@ -553,7 +557,7 @@ article {
     font-size: 1.4rem;
   }
   .whetter {
-    font-size: .8rem;
+    font-size: 0.8rem;
   }
 }
 
@@ -639,5 +643,33 @@ article {
   iframe {
     width: 100%;
     height: 100%;
+  }
+}
+
+.Cols {
+  display: grid;
+  grid-template-columns: 1fr;
+}
+
+@media screen and (min-width: 720px) {
+  .Cols--reverse {
+    > *:first-child {
+      order: 2;
+    }
+  }
+  .Cols--half {
+    grid-template-columns: 1fr 1fr;
+  }
+  .Cols--one-third {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .Col--pull {
+    grid-column: 2/3;
+  }
+}
+@media screen and (min-width: 960px) {
+  .Cols--gap {
+    grid-row-gap: units(2);
+    grid-column-gap: units(2);
   }
 }

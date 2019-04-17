@@ -28,7 +28,7 @@ section: home
 <div class="grid grid-Home">
 	<section>
 		<h2>📝 Mula sa Blog</h2>
-		<div class="grid grid-column__third grid-gap__normal">
+		<div class="Cols Cols--one-third grid-gap__normal">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(1,4) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
@@ -50,7 +50,7 @@ section: home
 
 	<section class="section-Videos">
 		<h2>📽️ Cook-along Video Recipes</h2>
-		<div class="grid grid-column__half grid-gap__normal">
+		<div class="Cols Cols--half grid-gap__normal">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(0,6) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
