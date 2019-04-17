@@ -7,12 +7,30 @@ section: home
 	{{ layoutContent | safe }}
 </section>
 
+<section class="spotlight">
+{% set postlist = collections.posts | reverse %}
+	{% for post in postlist.slice(0,1) %}
+		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+			<div class="article-card__cover">
+				<a href="{{ post.url | url }}">
+					<img class="cover-image" src="{{ post.data.coverImage }}" />
+				</a>
+			</div>
+			<div class="article-card__copy">
+				<span class="whetter">{{ post.data.whetter }}</span>
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<p>{{ post.data.description }}</p>
+			</div>
+		</article>
+	{% endfor %}
+</section>
+
 <div class="grid grid-Home">
 	<section>
 		<h2>📝 Mula sa Blog</h2>
-		<div class="grid grid-column__half grid-gap__normal">
+		<div class="grid grid-column__third grid-gap__normal">
 			{% set postlist = collections.posts | reverse %}
-			{% for post in postlist.slice(0,4) %}
+			{% for post in postlist.slice(1,4) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 					<div class="article-card__cover">
 						<a href="{{ post.url | url }}">
@@ -20,32 +38,19 @@ section: home
 						</a>
 					</div>
 					<div class="article-card__copy">
+						<span class="whetter">{{ post.data.whetter }}</span>
 						<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
 						<p>{{ post.data.description }}</p>
 					</div>
 				</article>
 			{% endfor %}
 		</div>
-	<a href="/blog/">Magtungo sa Blog &rArr;</a>
-	</section>
-
-	<section class="glossary-list">
-		<h2>📔 Talasalitaan</h2>
-		<ul>
-			{% set glossary = collections.glossary | sort('title') %}
-			{% for post in glossary.slice(0,8) %}
-			<li>
-				<a href="{{ post.url | url }}">
-				<div>{{ post.data.title }}</div>
-				</a>
-			</li>
-			{%- endfor -%}
-		<ul>
+			<a href="/blog/">Para sa higit pa, magtungo sa Blog &rArr;</a>
 	</section>
 
 	<section class="section-Videos">
 		<h2>📽️ Cook-along Video Recipes</h2>
-		<div class="grid grid-column__third grid-gap__normal">
+		<div class="grid grid-column__half grid-gap__normal">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(0,6) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
@@ -60,7 +65,7 @@ section: home
 					</div>
 				</article>
 			{% endfor %}
-			<a href="/video/">Tingnan lahat ng Video Recipes &rArr;</a>
 		</div>
+			<a href="/video/">Tingnan lahat ng Video Recipes &rArr;</a>
 	</section>
 </div>

@@ -5,11 +5,11 @@
   --kape: rgb(43, 15, 15);
   --dilaw: rgb(255, 175, 55);
   --puti: white;
-  --itim: #101010;
-  --uling: #303030;
+  --itim: #010101;
+  --uling: #404040;
   --abo: #606060;
   --pilak: #e0e0e0;
-  --usok: #808080;
+  --usok: #909090;
   --ulap: #c0c0c0;
   --headlineFont: "Exo 2", sans-serif;
   --bodyFont: "EB Garamond", serif;
@@ -248,8 +248,9 @@ button {
 
 /* Ulam Styles */
 .whetter {
+  font-family: var(--sysFont);
   color: var(--usok);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.08rem;
   text-transform: uppercase;
@@ -314,9 +315,8 @@ header {
 }
 
 .grid-Home {
-  -ms-grid-columns: 3fr 1fr;
-      grid-template-columns: 3fr 1fr;
-  grid-gap: 3rem;
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
 }
 
 .grid-Home .section-Videos {
@@ -335,7 +335,7 @@ header {
 }
 
 section {
-  padding: 1em 0;
+  padding: 1.5rem 0;
 }
 
 section.section-Intro {
@@ -388,6 +388,7 @@ section h2 {
   font-size: 1rem;
   text-transform: uppercase;
   letter-spacing: 0.05rem;
+  padding-bottom: 1rem;
 }
 
 article h1 {
@@ -470,7 +471,7 @@ article li {
 }
 
 .article-post figure {
-  margin: 0;
+  margin: 0 auto 2rem;
 }
 
 .article-post figure img {
@@ -562,7 +563,7 @@ article li {
 .article-card__copy h3 {
   font-size: 1.4rem;
   font-weight: 600;
-  margin-bottom: 0;
+  margin: 0;
 }
 
 .article-card__copy p {
@@ -571,6 +572,28 @@ article li {
   font-weight: 400;
   margin-top: 0;
   color: var(--abo);
+}
+
+.spotlight {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.spotlight .article-card__cover {
+  max-height: 60vh;
+}
+
+.spotlight .article-card__copy h3 {
+  font-size: 2rem;
+}
+
+.spotlight .article-card__copy p {
+  font-size: 1.4rem;
+}
+
+.spotlight .whetter {
+  font-size: .8rem;
 }
 
 .tags {

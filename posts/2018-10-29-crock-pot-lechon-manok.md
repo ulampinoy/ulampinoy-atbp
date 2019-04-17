@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 🍗 Lechon Manok ala Crock-Pot
 date: 2018-10-29T23:40:01+02:00
 description: Madaling ihanda at napakasarap na litson manok
-whetter: Kapag may tiyaga, may nilaga (o litson!)
+whetter: Kapag may tiyaga, may nilaga
 sideNote: Ang Crock-Pot ay brand ng slow-cooker na dahan-dahang nagluluto sapamamagitan ng kulob, at pantay-pantay na init. Ang lutuan ay gawa sa ceramica at ang yari nito ay may kakayahang ikalat ang init sa kabuan ng lutuan at hindi lang sa ilalim. Ang epekto nito ay parang magpapasingaw pero sa pantay na temperatura sa mahabang panahon. Ang resulta ay mas malasa at mas malabó ang tekstura ng nilutong pagkain.
 sideImage: /static/images/crock-pot-chicken-set-timer.jpg
 coverImage: /static/images/crock-pot-lechon-manok.jpg
