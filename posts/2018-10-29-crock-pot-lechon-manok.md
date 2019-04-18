@@ -51,7 +51,7 @@ Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiya
 ![Chicken recently cooked from slow cooker](/static/images/chicken-crock-pot-cook-3hrs.jpg?nf_resize=fit&w=960)
 Hanguin mula sa Crock-pot ang manok makalipas ang cooking time nito. Handa na ito para tapusin sa oven. Gamit ang **Broil — TOP** setting ng horno, ilagay ang manok sa gitnang rack ng oven at lutuin para papulahin ang balat nito at ma-lechon ng hindi lalampas sa 10 minuto. At ganito ang kalalabasan:
 
-<img class="wide" src="/static/images/lechon-manok-oven.jpg" alt="Roasted chicken out of oven">
+<img class="wide" src="/static/images/lechon-manok-oven.jpg?nf_resize=fit&w=960" alt="Roasted chicken out of oven">
 
 Ang recipeng ito ay napakasarap at napakadaling gawin. Iwan mo at pagbalik mo may masarap ka ng ulam na parang inorder mo sa restaurant, pero higit pa kung sa lasa lang ang pag-uusapan!
 
