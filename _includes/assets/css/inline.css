@@ -680,16 +680,23 @@ article li {
   margin-top: 0;
 }
 
-.glossary-list article h2 {
-  padding: 0;
-}
-
-.glossary-list ul {
+.glossary-list {
   list-style-type: none;
 }
 
-.glossary-list ul li {
+.glossary-list li {
   line-height: 1.6;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.glossary-list li img {
+  width: 120px;
+}
+
+.glossary-list li h2 {
+  padding: 0;
 }
 
 .glossary-list a {

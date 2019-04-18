@@ -625,17 +625,21 @@ article {
 
 .glossary {
   &-list {
-    article {
-      h2 {
-        padding: 0;
-      }
-    }
-    ul {
-      list-style-type: none;
+    list-style-type: none;
+      
       li {
         line-height: 1.6;
+        display: flex;
+        
+        img {
+          width: 120px
+        }
+
+        h2 {
+          padding: 0;
+        }
       }
-    }
+
     a {
       font-size: 1.2rem;
       font-weight: 600;

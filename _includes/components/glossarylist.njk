@@ -1,11 +1,10 @@
-<section class="glossary-list">
+<section >
+	<ul class="glossary-list">
 	{% for post in glossarylist %}
-		<article{% if post.url == url %} data-current="current item"{% endif %}>
-			<div class="article-card__cover">
+		<li{% if post.url == url %} data-current="current item"{% endif %}>
 				<a href="{{ post.url | url }}">
-					<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=smartcrop&w=300&h=300" />
+					<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=smartcrop&w=120&h=120" />
 				</a>
-			</div>
 			<h2>
 				<a href="{{ post.url | url }}">
 					{% if post.data.title %}
@@ -22,6 +21,7 @@
 				</p>
 			{% endif %}
 			
-		</article>
+		</li>
 	{% endfor %}
+	</ul>
 </section>
