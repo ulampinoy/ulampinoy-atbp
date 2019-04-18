@@ -3,7 +3,7 @@
 	{% for post in glossarylist %}
 		<li{% if post.url == url %} data-current="current item"{% endif %}>
 				<a href="{{ post.url | url }}">
-					<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=smartcrop&w=300&h=300" />
+					<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&w=400" />
 				</a>
 			<h2>
 				<a href="{{ post.url | url }}">
