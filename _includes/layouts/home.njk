@@ -56,7 +56,7 @@ section: home
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 					<div class="article-card__cover">
 						<a href="{{ post.url | url }}">
-							<img src="{{ post.data.coverImage }}" />
+							<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640" />
 						</a>
 					</div>
 					<div class="article-card__copy">
