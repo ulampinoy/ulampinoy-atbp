@@ -16,20 +16,20 @@ May dalawang kampo ang almusal: Tinapay o kanin. Kung tinapay ang pili mo, pande
 
 Isang trick na magpapasarap sa sinangag ay ang **paglalagay sa ref ng tirang kanin** kaya naman talagang kaning lamig na malamig!
 
-![Fried rice na may toyo at green onions](/static/images/fried-rice-soy-sauce.jpg)
+![Fried rice na may toyo at green onions](/static/images/fried-rice-soy-sauce.jpg?nf_resize=fit&w=960)
 
-![Chistorra](/static/images/fried-chistorra.jpg)
+![Chistorra](/static/images/fried-chistorra.jpg?nf_resize=fit&w=960)
 
 Longganisa hamonado ang tradisiyonal na komponente pero **chistorra** ang pinalit namin kasi yun ang available. Hindi ito *cured meat* gaya ng karamihang chorizo dito sa Madrid. Smoky at mataba ang *chistorra* gaya ng hamonado pero wala nga lang tamis! Pero ayos na rin yun para walang umay.
 
-![Sunny side up eggs](/static/images/fried-eggs-skillet.jpg)
+![Sunny side up eggs](/static/images/fried-eggs-skillet.jpg?nf_resize=fit&w=960)
 
 **Sunny side up** ang prito sa itlog para buo pero malasado ang pula at tostado ang paligid ng puti. **Tip:** Painitin ng husto ang mantika at habang ipiniprito gumamit ng kutsara para paliguan ang pula ng kumukulong mantika.
 
 Naalala ko tuloy ang super espesyal na tapsi sa Balai Isabel sa bayan ng Talisay, Batangas. Ito ang dako kung saan matatagpuan ang Bulkang Taal, katangi-tangi dahil ito ay bulkan sa loob ng isa pang bulkan!
 
-![Tapsi Espesyal sa Balai Isabel: Tapa, longganisa, danggit, ensaladang talong, itlog at kapeng barako](/static/images/tapsi-balai-isabel.jpg)
+![Tapsi Espesyal sa Balai Isabel: Tapa, longganisa, danggit, ensaladang talong, itlog at kapeng barako](/static/images/tapsi-balai-isabel.jpg?nf_resize=fit&w=960)
 
-![Ang Bulkang Taal mula sa pampang ng lawa ng Taal](/static/images/taal-balai.jpg)
+![Ang Bulkang Taal mula sa pampang ng lawa ng Taal](/static/images/taal-balai.jpg?nf_resize=fit&w=960)
 
 Kayo, ano ang tipo ninyong almusal? Tinapay o kanin? I-follow ninyo kami sa [Instagram](https://www.instagram.com/ulampinoy/) at gamitin ang **#agahanpinoy** hashtag sa mga uploads ninyo.

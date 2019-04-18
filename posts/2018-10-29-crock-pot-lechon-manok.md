@@ -45,7 +45,7 @@ Tiyaking wala ng balahibo ang naibiling manok! Iyan ang number one na dapat tiya
 
 4. I-set ang Crock-Pot sa **High** at taymeran ng **3.5 hours** ilagay ng lapat na lapat ang takip. 
 
-<img class="wide" src="/static/images/crock-pot-chicken-set-timer.jpg" alt="Time set to cook chicken in Crock-Pot">
+<img class="wide" src="/static/images/crock-pot-chicken-set-timer.jpg?nf_resize=fit&w=960" alt="Time set to cook chicken in Crock-Pot">
 
 **Mahalagang babala:** Huwag na huwag kailanman bubuksan kapag kasalukuyan at lalo na sa kalagitnaan ng pagluluto. Ang na-trap na init kapag sumingaw dahil inangat mo ang takip ay nangangailan ng panahon para maipon uli.
 ![Chicken recently cooked from slow cooker](/static/images/chicken-crock-pot-cook-3hrs.jpg?nf_resize=fit&w=960)

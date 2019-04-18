@@ -12,15 +12,15 @@ tags:
 
 _Churros_ sprinkled with sugar and hot chocolate dip at the local _churrería._ It was both delightful to eat and watch how it's made.
 
-![](/static/images/churros-cooking-03.jpg "La Churrera, the amazing churros machine")
+![](/static/images/churros-cooking-03.jpg?nf_resize=fit&w=960 "La Churrera, the amazing churros machine")
 
 Kneading the dough, *la masa,* and the churros-making machine &mdash; *La Churrera*
 
-![](/static/images/churros-cooking-01.jpg "Skillful skimming and draining")
+![](/static/images/churros-cooking-01.jpg?nf_resize=fit&w=960 "Skillful skimming and draining")
 
 Churros ready! Skimmed and drained from the hot oil with the help of a steel rod
 
-![](/static/images/churros-chocolate-jars.jpg "Empty plastic jars for chocolate dip to go")
+![](/static/images/churros-chocolate-jars.jpg?nf_resize=fit&w=960 "Empty plastic jars for chocolate dip to go")
 
 Churrería Art – empty plastic jars of chocolate if you are buying for to go.
 Enjoy the warm and tasty *churros y chocolate.*

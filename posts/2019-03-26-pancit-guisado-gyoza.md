@@ -17,7 +17,7 @@ tags:
 Mayroon kaming bagong wok! Kaya sa unang gamit, tamang-tama ang pancit guisado. Masaya kami sa nabili naming wok online kahit pa may kaunti kaming duda nang inorder namin ito sa magiging kalidad nito.
 
 <figure>
-  <img src="/static/images/panict-wok.jpg" alt="Pancit on the wok">
+  <img src="/static/images/panict-wok.jpg?nf_resize=fit&w=960" alt="Pancit on the wok">
   <figcaption>Talyasi ang tawag sa wok na tradisyonal na gamit sa Pilipinas</figcaption>
 </figure>
 
@@ -31,5 +31,5 @@ Ang pangunahing paraan para tukuyin ang lutong pancit ay kung ano ang gamit na '
 
 Isa sa mga paborito dimsum ay ang gyoza dahil kakaiba ito sa lasa at tekstura. Karaniwan na sa Asian dumpling ang lutuin sa steamer pero ang gyoza ay mas praktikal dahil kailangan mo lang ay skillet pan. Sa karaniwang dumpling, okey na ang luto ng steamer – mainit at malambot pero makatas. Ganyan rin ang gyoza – mainit, makatas at idagdag pa malambot, may lutóng ito dahil sa crust nito sa ilalim.
 
-<img src="/static/images/gyoza-cooking.jpg">
+<img src="/static/images/gyoza-cooking.jpg?nf_resize=fit&w=960">
 
