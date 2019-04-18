@@ -264,8 +264,10 @@ time {
   padding-right: 0.5em;
 }
 
-.logo {
-  max-width: 64vw;
+.global-logo {
+  display: block;
+  width: 72%;
+  max-width: 640px;
   padding-top: 1rem;
 }
 
