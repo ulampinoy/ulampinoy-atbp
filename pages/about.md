@@ -9,11 +9,6 @@ permalink: /about/index.html
 layout: layouts/about.njk
 ---
 
-<header>
-  <h1>👨🏻👩🏻👧🏻👦🏻</h1>
-  <p>Kami ay pamilyang Filipino na kasalukuyang naninirahan sa España. Family project namin ang Ulampinoy Atbp.</p> 
-</header>
-
 ## 📜 Panimula
 Nagsimula ang Ulampinoy bilang isang food journal ng mga recipes na niluluto namin sa bahay at marami pang ibang masasarap na tuklas nang kami nag-migrate. Kalaunan, ginawa namin ang YouTube cooking channel bilang isang family project na sa paanuman ay magsilbing guide sa aming mga anak kapag lumaki na sila at matutong magluto. Ang bawat video recipe ay may kuwento at ala-ala sa aming masasayang panahon magkakasama sa kusina!
 

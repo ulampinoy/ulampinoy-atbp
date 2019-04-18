@@ -171,10 +171,6 @@ header nav li a[data-current="current item"] {
 }
 
 /* Posts List */
-article {
-  margin-bottom: 1em;
-}
-
 main > section > article > * {
   margin-top: 0;
   margin-bottom: 0.5em;
@@ -336,7 +332,7 @@ time {
 }
 
 section {
-  padding: 1.5rem 0;
+  padding: 1rem 0;
 }
 
 section.section-Intro {
@@ -363,7 +359,7 @@ section.section-Intro::after {
   background-color: var(--dilaw);
   position: absolute;
   left: calc(50% - 2rem);
-  bottom: -2rem;
+  bottom: -1.5rem;
 }
 
 section.section-Intro h2 {
@@ -513,9 +509,15 @@ article li {
 }
 
 .article-post h2 {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 500;
-  padding-top: 3rem;
+  padding: 1rem 0 0;
+}
+
+@media screen and (min-width: 720px) {
+  .article-post h2 {
+    padding-top: 3rem;
+  }
 }
 
 .article-post h3 {
@@ -543,10 +545,22 @@ article li {
 }
 
 .article-post header h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.2;
-  margin: 0 auto 0 2rem;
   max-width: 48rem;
+  margin: 0 auto;
+  padding-top: 0;
+}
+
+@media screen and (min-width: 720px) {
+  .article-post header h1 {
+    font-size: 3rem;
+    margin: 0 auto 0 2rem;
+  }
+}
+
+.article-post header.pamilya h1 {
+  margin-left: 0;
 }
 
 .article-post header p {
@@ -584,7 +598,7 @@ article li {
 }
 
 .article-card__copy {
-  padding: 0.5rem 1.5rem;
+  padding: 1rem 1.5rem;
 }
 
 .article-card__copy h3 {
@@ -607,6 +621,7 @@ article li {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  padding-bottom: 0;
 }
 
 .spotlight .article-card__cover {
@@ -645,7 +660,13 @@ article li {
 }
 
 .article-post section > p:first-of-type {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
+}
+
+@media screen and (min-width: 720px) {
+  .article-post section > p:first-of-type {
+    font-size: 1.6rem;
+  }
 }
 
 .billboard {
@@ -657,6 +678,10 @@ article li {
 
 .billboard img {
   margin-top: 0;
+}
+
+.glossary-list article h2 {
+  padding: 0;
 }
 
 .glossary-list ul {

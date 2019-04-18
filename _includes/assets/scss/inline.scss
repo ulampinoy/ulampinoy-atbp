@@ -168,9 +168,6 @@ header nav li a[data-current="current item"] {
 }
 
 /* Posts List */
-article {
-  margin-bottom: 1em;
-}
 
 main > section > article > * {
   margin-top: 0;
@@ -315,7 +312,7 @@ time {
 }
 
 section {
-  padding: 1.5rem 0;
+  padding: 1rem 0;
 
   &.section-Intro {
     display: flex;
@@ -333,7 +330,7 @@ section {
       background-color: var(--dilaw);
       position: absolute;
       left: calc(50% - 2rem);
-      bottom: -2rem;
+      bottom: -1.5rem;
     }
 
     h2 {
@@ -467,9 +464,12 @@ article {
   }
 
   h2 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: 500;
-    padding-top: 3rem;
+    padding: 1rem 0 0;
+    @media screen and (min-width: 720px) {
+      padding-top: 3rem;
+    }
   }
 
   h3 {
@@ -496,10 +496,22 @@ article {
     padding: 1rem 0 0;
 
     h1 {
-      font-size: 3rem;
+      font-size: 2rem;
       line-height: 1.2;
-      margin: 0 auto 0 2rem;
       max-width: 48rem;
+      margin: 0 auto;
+      padding-top: 0;
+
+      @media screen and (min-width: 720px) {
+        font-size: 3rem;
+        margin: 0 auto 0 2rem;
+      }
+    }
+
+    &.pamilya {
+      h1 {
+        margin-left: 0;
+      }
     }
 
     p {
@@ -538,27 +550,26 @@ article {
 }
 
 .article-card__copy {
-  padding: 0.5rem 1.5rem;
-}
-
-.article-card__copy h3 {
-  font-size: 1.5rem;
-  font-weight: 600;
-  line-height: 1.2;
-  margin: 0;
-}
-
-.article-card__copy p {
-  font-family: var(--bodyFont);
-  font-size: 1.1rem;
-  font-weight: 400;
-  margin-top: 0;
-  margin-bottom: 0;
-  color: var(--abo);
+  padding: 1rem 1.5rem;
+  h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    margin: 0;
+  }
+  p {
+    font-family: var(--bodyFont);
+    font-size: 1.1rem;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 0;
+    color: var(--abo);
+  }
 }
 
 .spotlight {
   display: flex;
+  padding-bottom: 0;
 
   .article-card__cover {
     max-height: 60vh;
@@ -596,7 +607,11 @@ article {
 }
 
 .article-post section > p:first-of-type {
-  font-size: 1.6rem;
+  font-size: 1.4rem;
+
+  @media screen and (min-width: 720px) {
+    font-size: 1.6rem;
+  }
 }
 
 .billboard {
@@ -610,6 +625,11 @@ article {
 
 .glossary {
   &-list {
+    article {
+      h2 {
+        padding: 0;
+      }
+    }
     ul {
       list-style-type: none;
       li {
