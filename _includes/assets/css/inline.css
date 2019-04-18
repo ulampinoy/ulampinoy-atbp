@@ -154,9 +154,10 @@ header nav li {
 }
 
 header nav li a[href] {
+  font-family: var(--sysFont);
   text-transform: uppercase;
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 0.05rem;
   text-decoration: none;
 }
@@ -348,10 +349,16 @@ section.section-Intro {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  text-align: center;
+  text-align: left;
   margin: 0 auto;
   padding: 0 0 1rem;
   position: relative;
+}
+
+@media screen and (min-width: 720px) {
+  section.section-Intro {
+    text-align: center;
+  }
 }
 
 section.section-Intro::after {
@@ -368,11 +375,17 @@ section.section-Intro h2 {
   font-family: var(--bodyFont);
   color: var(--kape);
   letter-spacing: -0.04rem;
-  font-size: 2.7rem;
+  font-size: 2rem;
   font-weight: 400;
   margin: 0 auto;
   padding-top: 0;
   text-transform: unset;
+}
+
+@media screen and (min-width: 720px) {
+  section.section-Intro h2 {
+    font-size: 2.7rem;
+  }
 }
 
 section.section-Intro p {
@@ -409,7 +422,15 @@ article p {
 article p,
 article ul,
 article ol {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
+}
+
+@media screen and (min-width: 720px) {
+  article p,
+  article ul,
+  article ol {
+    font-size: 1.3rem;
+  }
 }
 
 article > ul {
@@ -497,7 +518,7 @@ article li {
 }
 
 .article-post figure {
-  margin: 0 auto 2rem;
+  margin: 0 auto 1.5rem;
 }
 
 .article-post figure img {
@@ -600,23 +621,35 @@ article li {
 }
 
 .article-card__copy {
-  padding: 1rem 1.5rem;
+  padding: 1.25rem 1.5rem;
 }
 
 .article-card__copy h3 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   font-weight: 600;
   line-height: 1.2;
   margin: 0;
 }
 
+@media screen and (min-width: 720px) {
+  .article-card__copy h3 {
+    font-size: 1.5rem;
+  }
+}
+
 .article-card__copy p {
   font-family: var(--bodyFont);
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 0;
   color: var(--abo);
+}
+
+@media screen and (min-width: 720px) {
+  .article-card__copy p {
+    font-size: 1.1rem;
+  }
 }
 
 .spotlight {
@@ -630,16 +663,24 @@ article li {
   max-height: 60vh;
 }
 
-.spotlight .article-card__copy {
-  padding-top: 1rem;
+.spotlight .article-card__copy h3 {
+  font-size: 1.8rem;
 }
 
-.spotlight .article-card__copy h3 {
-  font-size: 2.2rem;
+@media screen and (min-width: 720px) {
+  .spotlight .article-card__copy h3 {
+    font-size: 2.2rem;
+  }
 }
 
 .spotlight .article-card__copy p {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
+}
+
+@media screen and (min-width: 720px) {
+  .spotlight .article-card__copy p {
+    font-size: 1.4rem;
+  }
 }
 
 .spotlight .whetter {

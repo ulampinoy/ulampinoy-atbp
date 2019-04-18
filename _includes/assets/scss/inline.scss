@@ -151,9 +151,10 @@ header nav li {
 }
 
 header nav li a[href] {
+  font-family: var(--sysFont);
   text-transform: uppercase;
   font-size: 1rem;
-  font-weight: 700;
+  font-weight: 800;
   letter-spacing: 0.05rem;
   text-decoration: none;
 }
@@ -320,10 +321,14 @@ section {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    text-align: center;
+    text-align: left;
     margin: 0 auto;
     padding: 0 0 1rem;
     position: relative;
+
+    @media screen and (min-width: 720px) {
+      text-align: center;
+    }
 
     &::after {
       content: "";
@@ -339,11 +344,15 @@ section {
       font-family: var(--bodyFont);
       color: var(--kape);
       letter-spacing: -0.04rem;
-      font-size: 2.7rem;
+      font-size: 2rem;
       font-weight: 400;
       margin: 0 auto;
       padding-top: 0;
       text-transform: unset;
+
+      @media screen and (min-width: 720px) {
+        font-size: 2.7rem
+      }
     }
 
     p {
@@ -383,7 +392,11 @@ article {
   p,
   ul,
   ol {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
+
+    @media screen and (min-width: 720px) {
+      font-size: 1.3rem;
+    }
   }
 
   & > ul {
@@ -452,7 +465,7 @@ article {
   }
 
   figure {
-    margin: 0 auto 2rem;
+    margin: 0 auto 1.5rem;
 
     img {
       margin-bottom: 0.5rem;
@@ -552,20 +565,29 @@ article {
 }
 
 .article-card__copy {
-  padding: 1rem 1.5rem;
+  padding: 1.25rem 1.5rem;
+
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 600;
     line-height: 1.2;
     margin: 0;
+
+    @media screen and (min-width: 720px) {
+      font-size: 1.5rem;
+    }
   }
+
   p {
     font-family: var(--bodyFont);
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
     color: var(--abo);
+    @media screen and (min-width: 720px) {
+      font-size: 1.1rem;
+    }
   }
 }
 
@@ -578,13 +600,20 @@ article {
   }
 
   .article-card__copy {
-    padding-top: 1rem;
 
     h3 {
-      font-size: 2.2rem;
+      font-size: 1.8rem;
+
+      @media screen and (min-width: 720px) {
+        font-size: 2.2rem;
+      }
     }
     p {
-      font-size: 1.4rem;
+      font-size: 1.2rem;
+
+      @media screen and (min-width: 720px) {
+        font-size: 1.4rem;
+      }
     }
   }
 
