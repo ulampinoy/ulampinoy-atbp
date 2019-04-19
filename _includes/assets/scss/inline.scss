@@ -89,8 +89,13 @@ main {
   h1 {
     font-size: 3rem;
     font-weight: 400;
-    padding-top: 2rem;
     text-align: center;
+    padding-top: 1rem;
+    line-height: 1.2;
+
+    @media screen and (min-width: 720px) {
+      padding-top: 0;
+    }
   }
 
   nav {
@@ -412,6 +417,19 @@ section {
 article {
   section {
     padding-top: 0;
+
+    p:nth-child(2) {
+      &:first-letter {
+        color: var(--pula);
+        float: left;
+        font-family: var(--headlineFont);
+        font-size: 4rem;
+        line-height: 60px;
+        padding-top: 8px;
+        padding-right: 0.5rem;
+        padding-left: 3px;
+      }
+    }
   }
 
   h1 {
@@ -425,7 +443,7 @@ article {
   }
 
   p {
-    padding: 0.5rem 0 1rem;
+    padding: 0.5rem 0;
   }
 
   p,
@@ -509,7 +527,7 @@ article {
   }
 
   img {
-    margin: 1.5rem auto;
+    margin: 1rem auto;
   }
 
   figure {
@@ -689,7 +707,8 @@ article {
   color: var(--uling);
   font-size: 1.25rem;
   max-width: none;
-  padding: 1rem 0;
+  padding: 1rem 1rem 1.5rem 0;
+  margin-bottom: 1rem;
   border-bottom: 1px solid rgba(48, 0, 0, 0.1);
 
   @media screen and (min-width: 720px) {
@@ -706,12 +725,14 @@ article {
   }
 }
 
-.glossary {
-  &-list {
+.glossary-list {
+  border-top: 1px solid rgba(48, 0, 0, 0.1);
+  ul {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
     grid-gap: 1rem;
     list-style-type: none;
+    padding: 1.5rem 0.5rem;
 
     li {
       line-height: 1.6;

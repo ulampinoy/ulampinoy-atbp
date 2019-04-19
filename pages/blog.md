@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Blog ng Linamnam
+title: Ulam Blog
 tags:
   - nav
 navtitle: Blog
