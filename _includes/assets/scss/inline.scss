@@ -1,7 +1,7 @@
 :root {
   --kanbas: rgb(253, 246, 239);
   --bughaw: rgb(34, 16, 114);
-  --pula: #c40000;
+  --pula: #a70000;
   --kape: rgb(43, 15, 15);
   --dilaw: rgb(255, 175, 55);
   --puti: white;
@@ -494,7 +494,7 @@ article {
     letter-spacing: 0.08rem;
     text-transform: uppercase;
     font-size: 1.15rem;
-    padding: 3rem 0 1rem;
+    padding: 2rem 0 1rem;
   }
 
   h2,
@@ -656,17 +656,26 @@ article {
 
 .glossary {
   &-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    grid-gap: 1rem;
     list-style-type: none;
       
       li {
         line-height: 1.6;
-        display: flex;
+
+        a {
+          display: block;
+        }
         
         img {
           width: 200px;
         }
 
         h2 {
+          font-family: var(--bodyFont);
+          font-size: 1.1rem;
+          text-transform: capitalize;
           padding: 0;
         }
       }
@@ -712,6 +721,7 @@ article {
     height: 64vh;
     display: flex;
     justify-content: center;
+    margin-bottom: 1.5rem;
   }
 
   iframe {

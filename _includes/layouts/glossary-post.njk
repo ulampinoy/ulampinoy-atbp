@@ -4,7 +4,7 @@ section: glossary
 ---
 <article class="article-post grid">
   <div class="billboard">
-    <img src="{{ coverImage }}"/>
+    <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
   </div>
   <header>
     <h1>{{ title }}</h1>
@@ -22,7 +22,7 @@ section: glossary
           {{ sideNote }}
         </p>
         {% if sideImage %}
-          <img src="{{ sideImage }}"/>
+          <img src="{{ sideImage }}?nf_resize=fit&w=600"/>
         {% endif %}
       </div>
     {% endif %}
