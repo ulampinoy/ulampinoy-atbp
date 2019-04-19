@@ -3,9 +3,11 @@ layout: layouts/base.njk
 section: glossary
 ---
 <article class="article-post grid">
+  {% if coverImage %}
   <div class="billboard">
     <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
   </div>
+  {% endif %}
   <header>
     <h1>{{ title }}</h1>
   </header>

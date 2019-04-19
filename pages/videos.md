@@ -1,6 +1,6 @@
 ---
 layout: layouts/videos.njk
-title: Video Recipes
+title: Cook-along Video Recipes
 tags:
   - nav
 navtitle: Videos
