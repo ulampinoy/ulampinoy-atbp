@@ -26,8 +26,7 @@ section: home
 </section>
 
 <div class="grid grid-Home">
-	<section>
-		<h2>📝 Mula sa Blog</h2>
+	<section class="section-Blog">
 		<div class="Cols Cols--one-third grid-gap__normal">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(1,4) %}
@@ -45,7 +44,7 @@ section: home
 				</article>
 			{% endfor %}
 		</div>
-		<p>Para sa higit pa, <a href="/blog/">magtungo sa Blog &rArr;</a></p>
+		<p class="text-center">Para sa higit pa, <a href="/blog/">magtungo sa Blog &rArr;</a></p>
 	</section>
 
 	<section class="section-Videos">
@@ -66,6 +65,6 @@ section: home
 				</article>
 			{% endfor %}
 		</div>
-			<p>Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a></p>
+			<p class="text-center">Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a></p>
 	</section>
 </div>
