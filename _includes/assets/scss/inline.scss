@@ -531,7 +531,7 @@ article {
   }
 
   figure {
-    margin: 0 auto 1.5rem;
+    margin: 1rem auto;
 
     img {
       margin-bottom: 0.5rem;
@@ -782,6 +782,13 @@ article {
       width: 5rem;
       height: 0.25rem;
     }
+  }
+
+  .goto {
+    max-width: none;
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid rgba(48, 0, 0, 0.1);
   }
 }
 

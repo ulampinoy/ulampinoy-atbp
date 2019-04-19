@@ -591,7 +591,7 @@ article li {
 }
 
 .article-post figure {
-  margin: 0 auto 1.5rem;
+  margin: 1rem auto;
 }
 
 .article-post figure img {
@@ -865,6 +865,13 @@ article li {
 .article-meta .liner::before {
   width: 5rem;
   height: 0.25rem;
+}
+
+.article-meta .goto {
+  max-width: none;
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(48, 0, 0, 0.1);
 }
 
 .billboard.video-box {
