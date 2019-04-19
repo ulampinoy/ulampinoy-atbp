@@ -75,14 +75,14 @@ header {
 }
 
 footer {
-  padding: 3rem 1em;
+  padding: 2rem 1em;
   margin-top: 3rem;
   text-align: center;
   border-top: 1px solid var(--pilak);
 }
 
 main {
-  padding: 0 1rem;
+  padding: 1rem;
 }
 
 main h1 {
@@ -156,7 +156,7 @@ header nav li {
 header nav li a[href] {
   font-family: var(--sysFont);
   text-transform: uppercase;
-  font-size: 1rem;
+  font-size: .8rem;
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-decoration: none;
@@ -265,21 +265,20 @@ time {
   padding-right: 0.5em;
 }
 
+.global-header {
+  background-color: white;
+}
+
 .global-logo {
   display: block;
-  width: 72%;
+  width: 240px;
   max-width: 640px;
-  padding-top: 1rem;
 }
 
 .global-nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
@@ -287,6 +286,10 @@ time {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+}
+
+.global-nav ul {
+  padding: 0;
 }
 
 .layout {
@@ -351,7 +354,7 @@ section.section-Intro {
           flex-direction: column;
   text-align: left;
   margin: 0 auto;
-  padding: 0 0 1rem;
+  padding: 1rem 0;
   position: relative;
 }
 
@@ -738,10 +741,6 @@ article li {
 
 .glossary-list li a {
   display: block;
-}
-
-.glossary-list li img {
-  width: 200px;
 }
 
 .glossary-list li h2 {
