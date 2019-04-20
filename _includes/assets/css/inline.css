@@ -734,12 +734,6 @@ article li {
   }
 }
 
-.spotlight {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-}
-
 .spotlight .article-card__cover {
   max-height: 60vh;
 }
