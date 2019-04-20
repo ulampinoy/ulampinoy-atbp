@@ -86,7 +86,13 @@ footer a {
 }
 
 main {
-  padding: 8rem 1rem 1rem;
+  padding: 9rem 1rem 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    padding-top: 6rem;
+  }
 }
 
 main h1 {
@@ -97,7 +103,7 @@ main h1 {
   line-height: 1.2;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   main h1 {
     padding-top: 0;
   }
@@ -173,7 +179,7 @@ header nav li a[href] {
   font-weight: 800;
   letter-spacing: 0.05rem;
   text-decoration: none;
-  padding-bottom: 0.5rem;
+  padding-bottom: 0.2rem;
 }
 
 header nav li a[href]:not(:hover) {
@@ -305,7 +311,7 @@ time {
   text-align: center;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .global-nav {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
@@ -402,9 +408,10 @@ section.section-Intro {
   text-align: left;
   margin: 0 auto;
   position: relative;
+  padding-top: 0;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   section.section-Intro {
     text-align: center;
   }
@@ -431,7 +438,7 @@ section.section-Intro h2 {
   text-transform: unset;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   section.section-Intro h2 {
     font-size: 2.7rem;
   }
@@ -489,7 +496,7 @@ article ol {
   font-size: 1.12rem;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   article p,
   article ul,
   article ol {
@@ -515,7 +522,7 @@ article li {
   grid-column-gap: 1rem;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post {
     -ms-grid-columns: 4fr 1.5fr;
         grid-template-columns: 4fr 1.5fr;
@@ -550,7 +557,7 @@ article li {
   grid-column: 1 / 3;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post aside {
     -ms-grid-column: 2;
     -ms-grid-column-span: 1;
@@ -563,7 +570,7 @@ article li {
   padding: 0;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post aside .aside-wrapper {
     border-left: 1px solid rgba(48, 0, 0, 0.1);
     padding-right: 1rem;
@@ -610,7 +617,7 @@ article li {
   padding: 1rem 0;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post h2 {
     padding-top: 2rem;
   }
@@ -649,7 +656,7 @@ article li {
   padding-top: 0;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post header h1 {
     font-size: 2.85rem;
     line-height: 1.2;
@@ -706,7 +713,7 @@ article li {
   margin: 0;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-card__copy h3 {
     font-size: 1.5rem;
   }
@@ -721,7 +728,7 @@ article li {
   color: var(--abo);
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-card__copy p {
     font-size: 1.1rem;
   }
@@ -741,7 +748,7 @@ article li {
   font-size: 1.8rem;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .spotlight .article-card__copy h3 {
     font-size: 2.2rem;
   }
@@ -751,7 +758,7 @@ article li {
   font-size: 1.2rem;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .spotlight .article-card__copy p {
     font-size: 1.4rem;
   }
@@ -785,7 +792,7 @@ article li {
   border-bottom: 1px solid rgba(48, 0, 0, 0.1);
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .article-post section > p:first-of-type {
     font-size: 1.5rem;
   }
@@ -897,7 +904,7 @@ article li {
       grid-template-columns: 1fr;
 }
 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 768px) {
   .Cols--reverse > *:first-child {
     -webkit-box-ordinal-group: 3;
         -ms-flex-order: 2;
