@@ -33,7 +33,7 @@ Ginigilitan lang ng mababaw ang magkabilang panig para manuot ang asin. Isang ba
 
 Habang nag-iihaw inihahanda naman ang katambal na sawsawan ay ang ginayat na kamatis, green onions at patis. Isang tip: kung ayaw mong magtubig ang iyong sawsawan, ilagay ang pampaalat gaya ng patis o asin sa huli o bago magsimula sa pagkain. Ang asin ay may kakayahan palabasin ang katas ng pagkain.
 
-![Sibuyas at Kamatis](/static/images/tomato-green-onion-chopping-board.jpg)
+![Sibuyas at Kamatis](/static/images/tomato-green-onion-chopping-board.jpg?nf_resize=fit&w=960)
 
 *Cebolleta* o bagong-ani at sariwang sibuyas ang masarap na gamitin dito. Kung wala naman kahit ang sibuyas na pula ay OK rin. Lasona, isang uri ng sibuyas sa Pilipinas, ang naaalala kong hindi nawawala sa hapag ng aming mga lolo.
 

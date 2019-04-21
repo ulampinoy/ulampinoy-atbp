@@ -36,7 +36,7 @@ Spring rolls stuffed with mung bean sprouts, tofu, pork and vegetables.
 
 Enjoy!
 
-![Ready to fry](/static/images/lumpia-togue-fresh.jpg)
+![Ready to fry](/static/images/lumpia-togue-fresh.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

@@ -17,7 +17,7 @@ Chicken and elbow macaroni soup cooked in milk as base with carrots, cabbage and
 * Chicken
 * Elbow macaroni
 
-![Chicken Sopas served hot](/static/images/chicken-sopas-bowl.jpg)
+![Chicken Sopas served hot](/static/images/chicken-sopas-bowl.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

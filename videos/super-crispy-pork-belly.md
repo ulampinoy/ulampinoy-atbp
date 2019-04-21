@@ -18,9 +18,9 @@ Easy to make crispy pork belly recipe!
 * Laurel
 * Peppercorns
 
-![Salt liberally the pork belly](/static/images/pork-belly-fresh.jpg)
+![Salt liberally the pork belly](/static/images/pork-belly-fresh.jpg?nf_resize=fit&w=960)
 
-![Pork crackling with dip](/static/images/crispy-pork-belly-plated.jpg)
+![Pork crackling with dip](/static/images/crispy-pork-belly-plated.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

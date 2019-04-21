@@ -20,7 +20,7 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 * 3 gloves garlic
 * salt & black pepper
 
-![Grilled Dorada fish](/static/images/grilled-fish-dorada.jpg)
+![Grilled Dorada fish](/static/images/grilled-fish-dorada.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

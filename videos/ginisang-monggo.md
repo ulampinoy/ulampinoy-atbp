@@ -24,7 +24,7 @@ Mung beans cooked with pork belly strips, bitter gourd leaves
 * cooking oil
 * 1.5 liters of water (use for pre-boiling the beans)
 
-![Ginisang monggo](/static/images/ginisang-monggo.jpg)
+![Ginisang monggo](/static/images/ginisang-monggo.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

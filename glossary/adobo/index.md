@@ -13,5 +13,5 @@ Ang adobo ay ang paraan ng pagluluto gamit sa ang tambalan ng suka, bawang at to
 ![Pork spare ribs adobo](/static/images/spare-ribs-adobo.jpg "Pork spare ribs adobo")
 Pork spare ribs adobo
 
-![Mackarel fish adobo](/static/images/caballa-adobo.jpg)
+![Mackarel fish adobo](/static/images/caballa-adobo.jpg?nf_resize=fit&w=960)
 Adobong galunggong

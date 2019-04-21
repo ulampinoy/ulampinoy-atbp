@@ -20,11 +20,11 @@ Squash, string beans and live crabs cooked in spiced coconut milk. Savoury and s
 - String beans
 - Crabs
 
-![Long string beans bundle](/static/images/string-beans.jpg)
+![Long string beans bundle](/static/images/string-beans.jpg?nf_resize=fit&w=960)
 
-![Fresh kalabasa](/static/images/squash-wedge.jpg)
+![Fresh kalabasa](/static/images/squash-wedge.jpg?nf_resize=fit&w=960)
 
-![Fresh from the market live crab](/static/images/fresh-live-crab.jpg)
+![Fresh from the market live crab](/static/images/fresh-live-crab.jpg?nf_resize=fit&w=960)
 
 ### Video
 

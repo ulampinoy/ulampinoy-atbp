@@ -25,7 +25,7 @@ The default pancit.
 * black pepper
 * cooking oil
 
-![Tasty pancit bihon guisado](/static/images/pancit-bihon-dish-01.jpg)
+![Tasty pancit bihon guisado](/static/images/pancit-bihon-dish-01.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

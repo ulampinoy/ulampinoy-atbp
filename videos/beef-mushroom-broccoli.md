@@ -27,7 +27,7 @@ Pinoy noodles sauteéd with vegetable, pork belly and soy sauce
 - salt and pepper
 - quail eggs for garnish
 
-![Beef mushroom broccoli](/static/images/beef-mushroom-broccoli-02.jpg)
+![Beef mushroom broccoli](/static/images/beef-mushroom-broccoli-02.jpg?nf_resize=fit&w=960)
 
 ### Video
 Watch and cook-along with the video recipe.

@@ -26,14 +26,14 @@ Siomai comes in different varieties and flavor mutations but we love the classic
 * wanton wrapper
 * salt and black pepper to taste
 
-![Sesame oil and shredded vegetables](/static/images/sesame-oil-carrots.jpg)
+![Sesame oil and shredded vegetables](/static/images/sesame-oil-carrots.jpg?nf_resize=fit&w=960)
 
 ### The Dip
 * 2 teaspoons soy sauce
 * 1 teaspoon lemon juice
 * spicy chili-garlic paste
 
-![Shredder, carrot and spring onion](/static/images/shredder-carrots-onion.jpg)
+![Shredder, carrot and spring onion](/static/images/shredder-carrots-onion.jpg?nf_resize=fit&w=960)
 
 ### Quick Tips
 * If you are buying your meat from the market or meatshop, choose pork cut with layers of fat like pork belly and have it grounded twice to make finer textured dumplings.
@@ -42,7 +42,7 @@ Siomai comes in different varieties and flavor mutations but we love the classic
 
 Please [SUBSCRIBE to the Ulam Pinoy Channel](http://www.youtube.com/user/ulampinoy). *Salamat!*
 
-![Pork siomai](/static/images/pork-siomai-01.jpg)
+![Pork siomai](/static/images/pork-siomai-01.jpg?nf_resize=fit&w=960)
 
 
 
