@@ -12,6 +12,7 @@ tags:
   - gyoza
   - bihon
   - canton
+  - dimsum
 ---
 
 Mayroon kaming bagong wok! Kaya sa unang gamit, tamang-tama ang pancit guisado. Masaya kami sa nabili naming wok online kahit pa may kaunti kaming duda nang inorder namin ito sa magiging kalidad nito.

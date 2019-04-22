@@ -8,6 +8,7 @@ coverImage: /static/images/soy-fried-rice.jpg
 tags:
   - breakfast
   - fried rice
+  - eggs
 ---
 
 Long-si-log (**long**ganisa, **si**nangag at it**log**). Tap-si siyempre ang hari ng lahat ng mga si-log. Talagang mabigat ang agahang Pinoy. Kape ang katapat na panulak sa agahan.

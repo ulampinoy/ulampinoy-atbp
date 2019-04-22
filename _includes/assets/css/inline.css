@@ -660,7 +660,7 @@ article li {
   .article-post header h1 {
     font-size: 2.85rem;
     line-height: 1.2;
-    margin: 0 auto 0 0;
+    margin: .5rem auto 0 0;
   }
 }
 

@@ -9,6 +9,7 @@ sideImage: /static/images/adobo-sitaw-kangkong.jpg
 coverImage: /static/images/adobo-01.jpg
 tags:
   - announcement
+  - adobo
 ---
 
 Reset. Reboot. Isang sariwang panimula.

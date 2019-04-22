@@ -15,4 +15,8 @@ layout: layouts/base.njk
 <h1>Tagged <em class="highlight__stabilo">“{{ tag }}”</em></h1>
 
 {% set postslist = collections[ tag ] %}
-{% include "components/postslist.njk" %}
+{% include "components/postsbytag.njk" %}
+
+<nav>
+  <a href="{{ '/blog/' | url }}">← Blog index</a>
+</nav>
