@@ -1,6 +1,6 @@
 ---
 layout: layouts/archives.njk
-title: For the Archives
+title: From the Archives
 tags:
   - nav
 navtitle: Archives

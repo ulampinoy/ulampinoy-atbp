@@ -1,11 +1,12 @@
 ---
 date: 2016-10-08T23:00:37+02:00
 coverImage: /static/images/rice-pot-boiling.jpg
-whetter: Almusal ng mga Kampeon
+whetter: Pangunahing Kasanayan
 title: Paano ba Magsaing?
-description: Kami ay nagbabalik hatid sa inyo ang mga bagong video recipes. Sa unang video ng season na ito bumalik kami sa pinakapangunahin sa lahat—ang pagluluto ng kanin o pagsasaing.
+description: Sa unang video ng season na ito bumalik kami sa pinakapangunahin sa lahat—ang pagluluto ng kanin o pagsasaing.
 tags: 
     - archives
+    - rice
 ---
 
 Kami ay nagbabalik hatid sa inyo ang mga bagong video recipes. Sa unang video ng season na ito, bumalik kami sa pinakapangunahin sa lahat—ang pagluluto ng kanin o **pagsasaing.** 
