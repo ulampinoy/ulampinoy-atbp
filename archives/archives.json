@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/archives-post.njk",
+  "permalink": "{{ section }}/{{ title | slug }}/index.html"
+}
