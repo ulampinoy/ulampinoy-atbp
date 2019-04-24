@@ -4,7 +4,7 @@ date: 2016-03-03T20:25:00+01:00
 whetter: Klasik Ulampinoy
 title:  Pancit Bihon
 coverImage: /static/images/pancit-bihon.jpg
-tags: tags: 
+tags: 
     - archive
 ---
 
