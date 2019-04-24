@@ -1,8 +1,8 @@
 ---
-title: Tungkol sa Amin
+title: Tungkol sa Ulampinoy Atbp.
 tags:
   - nav
-navtitle: Tungkol sa Amin
+navtitle: About
 section: about
 date: 2019-01-16
 permalink: /about/index.html
