@@ -1,9 +1,9 @@
 ---
-layout: layouts/archives.njk
-title: From the Archives
+layout: layouts/archive.njk
+title: From the Archive
 tags:
   - nav
-navtitle: Archives
+navtitle: Archive
 date: 2017-02-01
-permalink: /archives/index.html
+permalink: /archive/index.html
 ---

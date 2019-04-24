@@ -1,0 +1,11 @@
+---
+layout: layouts/base.njk
+section: archive
+permalink: /archive/index.html
+---
+<h1>{{ title }}</h1>
+
+{{ layoutContent | safe }}
+
+{% set archive = collections.archive %}
+{% include "components/archivelist.njk" %}
