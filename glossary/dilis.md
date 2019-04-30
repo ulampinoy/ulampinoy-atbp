@@ -7,3 +7,5 @@ tags:
 ---
 
 Dried anchovies commonly used in ginataan.
+
+![Tumpok ng dilis](/static/images/dilis-bunch.jpg?nf_resize=fit&w=960)
