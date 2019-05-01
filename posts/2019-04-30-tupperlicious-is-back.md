@@ -30,11 +30,16 @@ All of the above para akin dahil pinaghahalo ko sa baon ang itinirang ulam at ku
 </figure>
 
 Ang back story ng baon:
-Para maiba naman ang handa, gumawa kami ng Japchae at Gyoza para sa aming mga bisita sa bahay noong Linggo. 
+Para maiba naman ang handa, ***Japchae & Gyoza*** ang ginawa namin para sa aming mga bisita sa bahay noong Linggo. Korean noodle dish ang Japchae. Japanese dumpling naman ang Gyoza. Talagang nag-enjoy ang barkada sa mga *unexpected dishes!*
+
+<figure>
+  <img src="/static/images/gyoza-pan-closeup.jpg?nf_resize=fit&w=960" alt="Kimchi sa ref">
+  <figcaption><b>Ang Gyoza</b> ay niluluto sa pan skillet at hindi sa steamer gaya ng iba pang dumplings</figcaption>
+</figure>
 
 <figure>
   <img src="/static/images/japchae-pot.jpg?nf_resize=fit&w=960" alt="Kimchi sa ref">
-  <figcaption>Ang Japchae ay isang Korean dish kung saan niluluto ng hiwalay ang mga sangkap at saka paghahaluin lahat sa huli</figcaption>
+  <figcaption><b>Ang Japchae</b> ay isang Korean dish kung saan niluluto ng hiwa-hiwalay ang mga sangkap at saka paghahaluin lahat sa huli</figcaption>
 </figure>
 
 May natira pang Japchae pero sold-out ang Gyoza! Ang kimchi naman ay lagi na riyan lang sa ref. Check. 
