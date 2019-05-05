@@ -87,7 +87,7 @@ main {
   padding: 9rem 1rem 1rem;
 
   @media screen and (min-width: 768px) {
-    padding-top: 9rem;
+    padding-top: 7rem;
   }
 
   h1 {
@@ -283,6 +283,7 @@ time {
 
 .global-logo {
   display: block;
+  max-width: 320px;
 }
 
 .global-nav {
@@ -392,7 +393,6 @@ section {
       font-size: 1.8rem;
       font-weight: 400;
       margin: 0 auto;
-      padding-top: 0;
       text-transform: unset;
 
       @media screen and (min-width: 768px) {
