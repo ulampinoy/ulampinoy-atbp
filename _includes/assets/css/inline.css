@@ -291,7 +291,13 @@ time {
 
 .global-logo {
   display: block;
-  max-width: 340px;
+  max-width: 300px;
+}
+
+@media screen and (min-width: 768px) {
+  .global-logo {
+    max-width: 320px;
+  }
 }
 
 .global-nav {
@@ -309,15 +315,17 @@ time {
       -ms-flex-align: center;
           align-items: center;
   text-align: center;
+  padding: 0 1rem;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 800px) {
   .global-nav {
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
         -ms-flex-direction: row;
             flex-direction: row;
     text-align: left;
+    padding: 0;
   }
 }
 
