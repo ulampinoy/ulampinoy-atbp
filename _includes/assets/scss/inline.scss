@@ -85,9 +85,9 @@ footer {
 
 main {
   padding: 9rem 1rem 1rem;
-  
+
   @media screen and (min-width: 768px) {
-    padding-top: 6rem;
+    padding-top: 9rem;
   }
 
   h1 {
@@ -273,7 +273,7 @@ time {
 }
 
 .global-header {
-  background-color: white;
+  background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   position: fixed;
   left: 0;
@@ -283,7 +283,6 @@ time {
 
 .global-logo {
   display: block;
-  padding: 0.5rem 0;
 }
 
 .global-nav {
@@ -593,7 +592,7 @@ article {
       @media screen and (min-width: 768px) {
         font-size: 2.85rem;
         line-height: 1.2;
-        margin: .5rem auto 0 0;
+        margin: 0.5rem auto 0 0;
       }
     }
 
@@ -666,7 +665,6 @@ article {
 }
 
 .spotlight {
-
   .article-card__cover {
     max-height: 60vh;
   }
@@ -778,14 +776,14 @@ article {
 }
 
 .article-meta {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
 
   .liner {
     max-width: 40rem;
     margin: 0 auto;
     &::before {
-      width: 5rem;
-      height: 0.25rem;
+      width: 3rem;
+      height: 0.5rem;
     }
   }
 

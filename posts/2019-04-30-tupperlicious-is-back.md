@@ -4,7 +4,7 @@ title: Tupperlicious 2.0
 date: 2019-04-30
 description: Nagbabalik ang baon serye - Tupperlicious
 whetter: Anong baon?
-sideNote: Ang noodles na gamit sa Japchae ay gawa sa kamote o sweet potato. Masustansya at may tekstura ito.
+sideNote: Ang noodles na gamit sa Japchae ay gawa sa kamote o sweet potato. Masustansya at may interesanteng tekstura ito.
 sideImage: /static/images/sweet-potato-noodles.jpg
 coverImage: /static/images/baon-fish-curry-rice-ham-peas-eggs.jpg
 tags:
@@ -20,7 +20,7 @@ Nagbabalik ang seryeng ito dahil nagsimula uli akong maghanda ng baon sa trabaho
 
 Maraming bentaha kapag nagbabaon ka. Makakain mo ang gusto kahit pa tira lang iyan sa mga inulam ninyo. O dahil sinipag ka at naihanda mo ito sa gabi pa lang o sa umaga dahil gumising ka ng mas maaga para magluto ng almusal damay na rin siyempre ang baon mo sa pananghalian. 
 
-All of the above para akin dahil pinaghahalo ko sa baon ang itinirang ulam at kung kailangan pa, hahanap o iimbento ako ng pandagdag sa baon.
+Ang baon ko ay pinaghalong tirang ulam at kung kailangan pa, hahanap o iimbento ng pandagdag sa baon.
 
 ## Baon Box: Japchae, kimchi & curried scrambled eggs
  
@@ -33,8 +33,8 @@ Ang back story ng baon:
 Para maiba naman ang handa, ***Japchae & Gyoza*** ang ginawa namin para sa aming mga bisita sa bahay noong Linggo. Korean noodle dish ang Japchae. Japanese dumpling naman ang Gyoza. Talagang nag-enjoy ang barkada sa mga *unexpected dishes!*
 
 <figure>
-  <img src="/static/images/gyoza-pan-closeup.jpg?nf_resize=fit&w=960" alt="Kimchi sa ref">
-  <figcaption><b>Ang Gyoza</b> ay niluluto sa pan skillet at hindi sa steamer gaya ng iba pang dumplings</figcaption>
+  <img src="/static/images/gyoza-cooking-pan.jpg?nf_resize=fit&w=960" alt="Kimchi sa ref">
+  <figcaption><b>Ang Gyoza</b> ay niluluto sa pan skillet at hindi sa steamer gaya ng ibang dumplings. Ang *technique* na ito ay ang nagbibigay ng lutong dahil sa *crust* nito sa base pero makatas pa rin dahil para na rin itong napasingawan kapag tinakpan.</figcaption>
 </figure>
 
 <figure>
@@ -49,7 +49,7 @@ May natira pang Japchae pero sold-out ang Gyoza! Ang kimchi naman ay lagi na riy
   <figcaption>Ang kimchi ang tumiterno sa halos lahat ng ulam kaya lagi kaming meron nito</figcaption>
 </figure>
 
-Kaya para mapunuan ang puwang, kailangan umimbento para sa kulang... Sa katunayan, may itlog na ang Japchae pero dahil hindi na ito ang Japchae noong Linggo, puwedeng bumawi sa walang itlog at ito ang idagdag sa puwang sa baonan. At para mabalanse ang kaunting tamis ng noodles, naisip kong gumawa ng curried scrambled eggs.
+Kaya para mapunuan ang puwang, kailangan umimbento... Sa katunayan, may itlog na ang Japchae pero dahil hindi na ito ang Japchae noong Linggo, puwedeng bumawi sa walang itlog at ito ang idagdag sa puwang sa baonan. At para mabalanse ang kaunting tamis ng noodles, naisip kong gumawa ng curried scrambled eggs.
 
 ![Eggs on tray](/static/images/eggs-tray.jpg?nf_resize=fit&w=960)
 

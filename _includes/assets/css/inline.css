@@ -91,7 +91,7 @@ main {
 
 @media screen and (min-width: 768px) {
   main {
-    padding-top: 6rem;
+    padding-top: 9rem;
   }
 }
 
@@ -280,7 +280,7 @@ time {
 }
 
 .global-header {
-  background-color: white;
+  background-color: #fff;
   -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
           box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
   position: fixed;
@@ -291,7 +291,6 @@ time {
 
 .global-logo {
   display: block;
-  padding: 0.5rem 0;
 }
 
 .global-nav {
@@ -660,7 +659,7 @@ article li {
   .article-post header h1 {
     font-size: 2.85rem;
     line-height: 1.2;
-    margin: .5rem auto 0 0;
+    margin: 0.5rem auto 0 0;
   }
 }
 
@@ -855,7 +854,7 @@ article li {
 }
 
 .article-meta {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
 }
 
 .article-meta .liner {
@@ -864,8 +863,8 @@ article li {
 }
 
 .article-meta .liner::before {
-  width: 5rem;
-  height: 0.25rem;
+  width: 3rem;
+  height: 0.5rem;
 }
 
 .article-meta .goto {
