@@ -2,7 +2,7 @@
 layout: "layouts/video.njk"
 title: Squid Adobo
 date: 2013-10-26
-description: Fresh squids cooked adobo style
+description: Pusit adobo, fresh squid cooked adobo style
 youtube: "JXyMlmFa0w8"
 coverImage: /static/images/squid-adobo-plated.jpg
 tags:
@@ -12,7 +12,7 @@ tags:
   - adobo
 ---
 
-Fresh squids cooked adobo style! We love it very much and it really shows – this is the second video of Adobong Pusit
+Fresh squid cooked adobo style! We love it very much and it really shows – this is the second video of Adobong Pusit
 
 ![Wash and drain the squids thoroughly](/static/images/fresh-squids.jpg?nf_resize=fit&w=960)
 

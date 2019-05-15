@@ -8,7 +8,6 @@ series: hot
 tags: 
     - archive 
     - chicken 
-    - video
 ---
 
 Tinola will be at the top the list of *ulam na may sabaw.* It is chicken broth soup with upo (bottle gourd), pechay (Chinese cabbage) and ginger.

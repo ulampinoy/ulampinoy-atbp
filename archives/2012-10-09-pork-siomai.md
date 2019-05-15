@@ -5,7 +5,6 @@ coverImage: /static/images/pork-siomai-with-dip.jpg
 title:  Pork Siomai
 tags: 
     - archive 
-    - video 
     - pork 
     - featured
 ---

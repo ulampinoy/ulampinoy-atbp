@@ -6,7 +6,6 @@ title:  Garlic Pork Belly
 tags: 
     - archive 
     - pork 
-    - video
 ---
 
 Got some pork belly in your fridge? Easy to make yet delicious crispy pork belly strips.
