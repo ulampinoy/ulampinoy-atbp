@@ -6,7 +6,7 @@ description: Support Ulampinoy. Grab yourself a merch from Ulampinoy Sari-sari s
 whetter: Cool swags
 sideNote: The new Ulampinoy logo features a regal fish and a humble egg in a stylized script showcasing UP as Ulampinoy's initial letters
 sideImage: /static/images/ulampinoy-merch-tshirt-worn.jpg
-coverImage: /static/images/ulampinoy-merch-tshirt.jpg
+coverImage: /static/images/up-merch-wrap.jpg
 tags:
   - shop
   - announcement
