@@ -84,14 +84,14 @@ footer {
 }
 
 main {
-  padding: 9rem 1rem 1rem;
+  padding: 1rem 1rem;
 
   @media screen and (min-width: 768px) {
-    padding-top: 7rem;
+    padding-top: 2.5rem;
   }
 
   h1 {
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 400;
     text-align: center;
     padding-top: 1rem;
@@ -275,7 +275,6 @@ time {
 .global-header {
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
-  position: fixed;
   left: 0;
   width: 100%;
   z-index: 888;
@@ -284,6 +283,7 @@ time {
 .global-logo {
   display: block;
   max-width: 300px;
+  padding: 0 1rem;
 
   @media screen and (min-width: 768px) {
     max-width: 320px;
@@ -291,17 +291,24 @@ time {
 }
 
 .global-nav {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-column-gap: 1rem;
+  justify-items: center;
   align-items: center;
-  text-align: center;
   padding: 0 1rem;
 
-  @media screen and (min-width: 800px) {
-    flex-direction: row;
-    text-align: left;
+  nav {
+    justify-self: unset;
+  }
+
+  @media screen and (min-width: 960px) {
+    grid-template-columns: minmax(250px, 280px) 1fr;
     padding: 0;
+
+    nav {
+      justify-self: end;
+    }
   }
 
   ul {
@@ -395,7 +402,7 @@ section {
     h2 {
       font-family: var(--bodyFont);
       color: var(--kape);
-      letter-spacing: -0.04rem;
+      letter-spacing: -0.02rem;
       font-size: 1.8rem;
       font-weight: 400;
       margin: 0 auto;
@@ -407,10 +414,14 @@ section {
     }
 
     p {
-      font-size: 1.25rem;
+      font-size: 1.2rem;
       margin: 0 auto;
       color: var(--uling);
       max-width: 40em;
+
+      @media screen and (min-width: 768px) {
+        font-size: 1.3rem;
+      }
     }
   }
 
@@ -598,7 +609,7 @@ article {
       @media screen and (min-width: 768px) {
         font-size: 2.85rem;
         line-height: 1.2;
-        margin: 0.5rem auto 0 0;
+        margin: 1rem auto 0 0;
       }
     }
 
@@ -609,7 +620,7 @@ article {
     }
 
     p {
-      font-size: 2rem;
+      font-size: 1.8rem;
       margin-top: 0.5rem;
       color: var(--kape);
     }
