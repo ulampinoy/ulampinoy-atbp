@@ -3,7 +3,7 @@ layout: "layouts/video.njk"
 title: Corned Beef Filipino Style
 date: 2019-12-20
 description: Homemade Pinoy-style corned beef.
-coverImage: /static/images//static/images/corned-beef.jpg
+coverImage: /static/images/static/images/corned-beef.jpg
 youtube: WEYe845yhBU
 tags:
   - video
@@ -26,7 +26,7 @@ It's simple and easy to make with just a few ingredients. Try it and you'll have
 Now that we have our corned beef made, let's cook **Ginisang Corned Beef.**
 Sauté our homemade corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve on rice and sunny-side up eggs.
 
-![Corned beef, sunny-side up fried eggs and rice](/static/images/cornsilog.jpg.jpg?nf_resize=fit&w=960)
+![Corned beef, sunny-side up fried eggs and rice](/static/images/cornsilog.jpg?nf_resize=fit&w=960)
 
 Try it and you'll surprise yourself and the family that you can actually make Carne Norte from scratch and cook something even better than the canned version that's a classic favorite!
 
