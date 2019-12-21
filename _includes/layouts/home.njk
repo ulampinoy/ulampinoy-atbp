@@ -8,28 +8,31 @@ section: home
 </section>
 
 <section class="spotlight">
-{% set postlist = collections.posts | reverse %}
-	{% for post in postlist.slice(0,1) %}
-		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+	<h2>What's New</h2>
+	<div class="Cols grid-gap__normal">
+		{% set videolist = collections.video | reverse %}
+		{% for post in videolist.slice(0,1) %}
+		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 			<div class="article-card__cover">
 				<a href="{{ post.url | url }}">
-					<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&w=1200" />
+					<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640" />
 				</a>
 			</div>
 			<div class="article-card__copy">
-				<span class="whetter">{{ post.data.whetter }}</span>
-				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
 			</div>
-		</article>
-	{% endfor %}
+			</article>
+			{% endfor %}
+	</div>
+	<p class="text-center">Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a></p>
 </section>
 
 <div class="grid grid-Home">
 	<section class="section-Blog">
 		<div class="Cols Cols--one-third grid-gap__normal">
 			{% set postlist = collections.posts | reverse %}
-			{% for post in postlist.slice(1,7) %}
+			{% for post in postlist.slice(0,6) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 					<div class="article-card__cover">
 						<a href="{{ post.url | url }}">
@@ -38,7 +41,7 @@ section: home
 					</div>
 					<div class="article-card__copy">
 						<span class="whetter">{{ post.data.whetter }}</span>
-						<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+						<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 						<p>{{ post.data.description }}</p>
 					</div>
 				</article>
@@ -51,7 +54,7 @@ section: home
 		<h2>📽️ Cook-along Video Recipes</h2>
 		<div class="Cols Cols--half grid-gap__normal">
 			{% set videolist = collections.video | reverse %}
-			{% for post in videolist.slice(0,6) %}
+			{% for post in videolist.slice(1,7) %}
 				<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
 					<div class="article-card__cover">
 						<a href="{{ post.url | url }}">
@@ -59,7 +62,7 @@ section: home
 						</a>
 					</div>
 					<div class="article-card__copy">
-						<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+						<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 						<p>{{ post.data.description }}</p>
 					</div>
 				</article>
