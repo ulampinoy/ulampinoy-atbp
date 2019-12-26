@@ -1,19 +1,19 @@
 ---
 layout: "layouts/video.njk"
-title: Corned Beef Filipino Style
+title: Corned Beef — Filipino Style
 date: 2019-12-20
-description: Homemade Pinoy-style corned beef.
-coverImage: /static/images/static/images/corned-beef.jpg
+description: We love corned beef, it's the high-end instant ulam de lata! With a few ingredients, you can make homemade Pinoy-style corned beef from scratch and possibly even tastier than the ones you buy. Surprise yourself and your family!
+coverImage: /static/images/corned-beef-close-up.jpg
 youtube: WEYe845yhBU
 tags:
   - video
   - beef
-  - wok
+  - recipe
 ---
 
-In today's episode, we want to share how to make Filipino style CORNED BEEF that is juicy and meaty. Pinoystyle canned corned beef is way more better in flavor and texture the the 'imported' versions.
+In today's episode, we want to share how to make Filipino style CORNED BEEF that is both juicy and meaty. Pinoy-style canned corned beef is packed with more flavors and texture than the 'imported' versions.
 
-It's simple and easy to make with just a few ingredients. Try it and you'll have unlimited Carne Norte!
+Do not be intimidated with the big flavors you get when you open a can of your favorite corned beef. The truth is, it's simple and easy to make with just a few ingredients. Try it and you'll have unlimited Carne Norte!
 
 ## Ingredients
 - 1 kg. Beef Shank

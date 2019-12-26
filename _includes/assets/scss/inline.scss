@@ -6,6 +6,7 @@
   --dilaw: rgb(255, 175, 55);
   --puti: white;
   --itim: #010101;
+  --karbon: #303030;
   --uling: #404040;
   --abo: #606060;
   --pilak: #e0e0e0;
@@ -85,10 +86,6 @@ footer {
 
 main {
   padding: 1rem 1rem;
-
-  @media screen and (min-width: 768px) {
-    padding-top: 2.5rem;
-  }
 
   h1 {
     font-size: 2.5rem;
@@ -384,7 +381,6 @@ section {
     text-align: left;
     margin: 0 auto;
     position: relative;
-    padding-top: 0;
 
     @media screen and (min-width: 768px) {
       text-align: center;
@@ -397,7 +393,7 @@ section {
       background-color: var(--dilaw);
       position: absolute;
       left: calc(50% - 2rem);
-      bottom: -1.5rem;
+      top: 0.5rem;
     }
 
     h2 {
@@ -647,12 +643,11 @@ article {
 
 .article-card {
   background-color: white;
-  border-radius: 0.25rem;
 }
 
 .article-card__cover {
   overflow: hidden;
-  border-radius: 0.25rem 0.25rem 0 0;
+  box-sizing: border-box;
 }
 
 .article-card__copy {
@@ -683,23 +678,36 @@ article {
 }
 
 .spotlight {
+  padding-top: 0;
+
   .article-card__cover {
-    max-height: 60vh;
+    background-repeat: no-repeat;
+    background-position: center -140px;
+    background-size: cover;
+    width: 100%;
+    min-height: 440px;
   }
 
   .article-card__copy {
+    padding: 1rem 2.4rem;
+    width: 80%;
+    margin: -75px 10% 0;
+    background-color: rgba(253, 246, 239, 0.8);
+
     h3 {
       font-size: 1.8rem;
 
       @media screen and (min-width: 768px) {
-        font-size: 2.2rem;
+        font-size: 2.4rem;
       }
     }
     p {
       font-size: 1.2rem;
+      color: var(--karbon);
 
       @media screen and (min-width: 768px) {
-        font-size: 1.4rem;
+        font-size: 1.3rem;
+        margin-top: .75rem;
       }
     }
   }

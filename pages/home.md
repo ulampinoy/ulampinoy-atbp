@@ -7,7 +7,3 @@ navtitle: 🍚
 tags:
   - nav
 ---
-
-## Mabuhay! Welcome po kayo sa Ulampinoy 👋🏼
-
-Ang Ulampinoy ay koleksyon online ng aming [mga lutung-bahay recipes](/video/). Kasama rin ang [aming blog](/blog/) kung saan ibinabahagi naming adbentyur sa pagkain at ang iba't-iba pang mga bagay na aming natutuklasan, natututuhan at sa paanuman ay kapakipakinabang sa amin.
