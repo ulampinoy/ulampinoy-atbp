@@ -2,8 +2,10 @@
 layout: "layouts/video.njk"
 title: Corned Beef — Filipino Style
 date: 2019-12-20
-description: We love corned beef, it's the high-end instant ulam de lata! With a few ingredients, you can make homemade Pinoy-style corned beef from scratch and possibly even tastier than the ones you buy. Surprise yourself and your family!
+description: We love corned beef, it's the super savory instant ulam de lata! With a few ingredients, you can make homemade corned beef from scratch. Surprise yourself and your family!
 coverImage: /static/images/corned-beef-close-up.jpg
+sideNote: Nutmeg or nuez moscada in Spanish, is the key spice that makes the distinct flavor of the corned beef we know and love. Without nutmeg will still be tasty pulled beef or carne mechada that you have with tacos but with it you will be proud that you could remake corned beef!
+sideImage: /static/images/nutmeg-shaker.jpg
 youtube: WEYe845yhBU
 tags:
   - video
@@ -24,9 +26,9 @@ Do not be intimidated with the big flavors you get when you open a can of your f
 - 2.5 cups Water
 
 Now that we have our corned beef made, let's cook **Ginisang Corned Beef.**
-Sauté our homemade corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve on rice and sunny-side up eggs.
+Sauté our homemade corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve with rice and sunny-side up egg.
 
-![Corned beef, sunny-side up fried eggs and rice](/static/images/cornsilog.jpg?nf_resize=fit&w=960)
+![Corned beef, sunny-side up fried egg and rice](/static/images/cornsilog.jpg?nf_resize=fit&w=960)
 
 Try it and you'll surprise yourself and the family that you can actually make Carne Norte from scratch and cook something even better than the canned version that's a classic favorite!
 
