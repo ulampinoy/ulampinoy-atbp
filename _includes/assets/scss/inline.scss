@@ -355,7 +355,7 @@ time {
     &:after {
       content: "";
       width: 4rem;
-      height: .4rem;
+      height: 0.4rem;
       background-color: var(--dilaw);
       position: absolute;
       left: calc(50% - 2rem);
@@ -399,7 +399,7 @@ section {
     &::after {
       content: "";
       width: 4rem;
-      height: .4rem;
+      height: 0.4rem;
       background-color: var(--dilaw);
       position: absolute;
       left: calc(50% - 2rem);
@@ -528,9 +528,9 @@ article {
     position: relative;
     grid-column: 1 / 3;
 
-
     @media screen and (min-width: 768px) {
       grid-column: 2 / 3;
+      margin-top: -3rem;
     }
 
     .aside-wrapper {
@@ -846,7 +846,8 @@ article {
 
 .billboard {
   &.video-box {
-    height: 64vh;
+    min-height: 480px;
+    height: 100%;
     display: flex;
     justify-content: center;
     margin-bottom: 1.5rem;
