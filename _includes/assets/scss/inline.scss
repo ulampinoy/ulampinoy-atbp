@@ -254,6 +254,7 @@ button {
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.08rem;
+  line-height: 1;
   text-transform: uppercase;
 }
 
@@ -359,6 +360,15 @@ time {
       position: absolute;
       left: calc(50% - 2rem);
       bottom: -1.5rem;
+    }
+
+    .blogGrid {
+      display: grid;
+      grid-gap: 1.5rem;
+
+      @media screen and (min-width: 768px) {
+        grid-template-columns: 1fr 1fr;
+      }
     }
   }
 
@@ -689,16 +699,27 @@ article {
   }
 
   .article-card__copy {
-    padding: 1rem 2.4rem;
-    width: 80%;
-    margin: -75px 10% 0;
+    padding: 1rem 1.5rem;
+    margin: -235px 4% 0;
     background-color: rgba(253, 246, 239, 0.8);
 
+    @media screen and (min-width: 768px) {
+      padding: 1rem 2.4rem;
+      width: 90%;
+      margin: -170px 5% 0;
+    }
+    @media screen and (min-width: 960px) {
+      padding: 1rem 2.4rem;
+      width: 80%;
+      margin: -75px 10% 0;
+      background-color: rgba(253, 246, 239, 0.8);
+    }
+
     h3 {
-      font-size: 1.8rem;
+      font-size: 1.6rem;
 
       @media screen and (min-width: 768px) {
-        font-size: 2.4rem;
+        font-size: 2.2rem;
       }
     }
     p {
@@ -707,7 +728,7 @@ article {
 
       @media screen and (min-width: 768px) {
         font-size: 1.3rem;
-        margin-top: .75rem;
+        margin-top: 0.75rem;
       }
     }
   }

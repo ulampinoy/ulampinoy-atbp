@@ -22,7 +22,7 @@ section: home
 
 <div class="grid grid-Home">
 	<section class="section-Blog">
-		<div class="Cols Cols--one-third grid-gap__normal">
+		<div class="Cols blogGrid">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(0,6) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
