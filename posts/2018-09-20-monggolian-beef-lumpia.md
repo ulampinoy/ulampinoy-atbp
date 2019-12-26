@@ -7,8 +7,6 @@ whetter: Balik tanaw. Balik takam.
 sideNote: >
   Toge o bean sprouts ang pangunahing sangkap sa lumpia. Kadalasan na, kapag sinabing lumpia lang, tinutukoy nito ang lumpiang toge o gulay.
   Ang iba pang uri ng lumpia ay tinutukoy ng espesipiko gaya ng lumpiang ubod, lumpiang Shanghai, lumpiang sariwa, atbp.
-    Toge o bean sprouts ang pangunahing sangkap sa lumpia. Kadalasan na, kapag sinabing lumpia lang, tinutukoy nito ang lumpiang toge o gulay.
-    Ang iba pang uri ng lumpia ay tinutukoy ng espesipiko gaya ng lumpiang ubod, lumpiang Shanghai, lumpiang sariwa, atbp.
 sideImage: /static/images/toge-ginisa.jpg
 coverImage: /static/images/monggolian-beef-wok.jpg
 tags:
@@ -23,18 +21,6 @@ Ang pagiging mapagpatuloy (hospitality) ay isa sa kapuri-puring mga katangian ng
 
 Kaya nang imbitahin namin ang aming mga kaibigan para sa isang pananghalian, nag-isip kami ng balanse at _match_ sa panlasa pero espesyal sa paraang hindi ito inuulam araw-araw, idagdag pa na mabusisi at matrabaho ang maggawa nito.
 
-<<<<<<< HEAD
-![Piniritong lumpiang gulay](/static/images/lumpia-gulay.jpg?nf_resize=fit&w=960)
-Ang **lumpia** ay ulam na gulay na appetizer na rin sa panimula ng kainan. Katunayan sa mga Asian restaurant, lumpia ang sini-serve na _entrée_ o first plate. Pero wala namang meal courses ang kaininang Pinoy, ulam pa rin ang lumpia na magkakasamang inihahain sa hapag.
-
-![Monggolian beef na binudburan ng tinustang linga](/static/images/monggolian-beef-wok.jpg?nf_resize=fit&w=960)
-Ang **Monggolian Beef** ay natitikman kapag ang isa ay kumain sa restaurant pero hindi naman lahat ay nagse-serve nito. Kaya naman napaka-espesyal nito na ihain sa bahay! Garantisadong patok ito sa mga bisita!
-
-![Leche flan](/static/images/leche-flan.jpg?nf_resize=fit&w=960)
-Matrabaho at maselan ang paggawa ng **leche flan.** Maraming hakbang at atensyon ang kinakailangan para makagawa ng maayos na leche flan na kapuwa tama sa lasa't tamis at higit sa lahat ang tekstura nito.
-
-![Kape't gatas at ChocoMani](/static/images/kape-chocomani.jpg?nf_resize=fit&w=960)
-=======
 ![Piniritong lumpiang gulay](/static/images/lumpia-gulay.jpg)
 Ang **lumpia** ay ulam na gulay na appetizer na rin sa panimula ng kainan. Katunayan sa mga Asian restaurant, lumpia ang sini-serve na *entrée* o first plate. Pero wala namang meal courses ang kaininang Pinoy, ulam pa rin ang lumpia na magkakasamang inihahain sa hapag.
 
@@ -45,5 +31,4 @@ Ang **Monggolian Beef** ay natitikman kapag ang isa ay kumain sa restaurant pero
 Matrabaho at maselan ang paggawa ng **leche flan.** Maraming hakbang at atensyon ang kinakailangan para makagawa ng maayos na leche flan na kapuwa tama sa lasa't tamis at higit sa lahat ang tekstura nito.
 
 ![Kape't gatas at ChocoMani](/static/images/kape-chocomani.jpg)
->>>>>>> Add images and change images path
 Masarap na pananghalian, at masayang kuwentuhan at tawanan. Sulit na sulit nga lahat ng paghahanda sa dulot nitong kagalakang tumatatak sa ala-ala kapiling ng mga mahal na kaibigan!

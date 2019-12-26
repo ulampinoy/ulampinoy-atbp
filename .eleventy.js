@@ -59,12 +59,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-<<<<<<< HEAD
-  eleventyConfig.addPassthroughCopy("static/images/");
-=======
   eleventyConfig.addPassthroughCopy("static/images");
->>>>>>> Add images and change images path
-  eleventyConfig.addPassthroughCopy("admin");
   eleventyConfig.addPassthroughCopy("_includes/assets/");
 
   /* Markdown Plugins */

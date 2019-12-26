@@ -11,7 +11,6 @@ tags:
   - wok
 ---
 
-
 Ang masarap na beef dish na madalas na inoorder sa labas ay puede mo ng gawin sa bahay. Hindi naman mahirap hanapin ang mga sangkap at opsyonal naman ang ibang ingredients kung hindi ito available sa inyo gaya ng Chinese cooking wine.
 
 
