@@ -8,15 +8,13 @@ sideNote: Bagnet is traditionally deep-fried since having an oven in the Philipp
 sideImage: /static/images/bagnet-resting.jpg
 coverImage: /static/images/fried-lumpia-gulay.jpg
 tags:
-  - shop
-  - announcement
-  - merch
+  - pork
+  - lumpia
 ---
 
 After a lot of trials and iteration on our favorite pork belly dish, we are glad to have nailed it to give us a consistent results — both the crispiness and juiciness.
 
 ![Photo of bagnet resting before slicing](/static/images/bagnet-resting.jpg)
-
 
 
 ***Salamat po!***
