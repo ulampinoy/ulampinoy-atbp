@@ -82,12 +82,6 @@ footer {
   background-color: white;
 }
 
-@media screen and (min-width: 960px) {
-  footer {
-    margin-top: 3rem;
-  }
-}
-
 footer a {
   padding: 0 0.5rem;
 }
