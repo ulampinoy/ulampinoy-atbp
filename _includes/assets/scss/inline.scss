@@ -249,6 +249,7 @@ button {
 
 /* Ulam Styles */
 .whetter {
+  display: block;
   font-family: var(--sysFont);
   color: var(--usok);
   font-size: 0.7rem;
@@ -256,6 +257,7 @@ button {
   letter-spacing: 0.08rem;
   line-height: 1;
   text-transform: uppercase;
+  margin-bottom: 0.3rem;
 }
 
 small {
@@ -317,8 +319,14 @@ time {
 }
 
 .layout {
-  max-width: 1200px;
+  background-color: white;
   margin: 0 auto;
+
+  @media only screen and (min-width: 960px) {
+    max-width: 1200px;
+    min-width: 801px;
+    width: auto;
+  }
 }
 
 .grid {
@@ -365,6 +373,7 @@ time {
     .blogGrid {
       display: grid;
       grid-gap: 1.5rem;
+      padding: 0 2rem;
 
       @media screen and (min-width: 768px) {
         grid-template-columns: 1fr 1fr;
@@ -663,7 +672,7 @@ article {
 }
 
 .article-card__copy {
-  padding: 1.25rem 1.5rem;
+  padding: 0.5rem 0 1rem;
 
   h3 {
     font-size: 1.3rem;
@@ -731,6 +740,24 @@ article {
       @media screen and (min-width: 768px) {
         font-size: 1.3rem;
         margin-top: 0.75rem;
+      }
+    }
+
+    .article-card__cta {
+      display: inline-flex;
+      align-items: center;
+      font-size: 1.3rem;
+      background-color: var(--dilaw);
+      padding: 0.2rem 0.5rem 0.3rem .2rem;
+      margin-top: .7rem;
+
+      &:hover {
+        background-color: var(--pula);
+      }
+
+      span {
+        color: white;
+        margin-left: .2em;
       }
     }
   }

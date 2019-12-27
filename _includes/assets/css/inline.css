@@ -254,6 +254,7 @@ button {
 
 /* Ulam Styles */
 .whetter {
+  display: block;
   font-family: var(--sysFont);
   color: var(--usok);
   font-size: 0.7rem;
@@ -261,6 +262,7 @@ button {
   letter-spacing: 0.08rem;
   line-height: 1;
   text-transform: uppercase;
+  margin-bottom: 0.3rem;
 }
 
 small {
@@ -333,8 +335,16 @@ time {
 }
 
 .layout {
-  max-width: 1200px;
+  background-color: white;
   margin: 0 auto;
+}
+
+@media only screen and (min-width: 960px) {
+  .layout {
+    max-width: 1200px;
+    min-width: 801px;
+    width: auto;
+  }
 }
 
 .grid {
@@ -391,6 +401,7 @@ time {
   display: -ms-grid;
   display: grid;
   grid-gap: 1.5rem;
+  padding: 0 2rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -727,7 +738,7 @@ article li {
 }
 
 .article-card__copy {
-  padding: 1.25rem 1.5rem;
+  padding: 0.5rem 0 1rem;
 }
 
 .article-card__copy h3 {
@@ -813,6 +824,28 @@ article li {
     font-size: 1.3rem;
     margin-top: 0.75rem;
   }
+}
+
+.spotlight .article-card__copy .article-card__cta {
+  display: -webkit-inline-box;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.3rem;
+  background-color: var(--dilaw);
+  padding: 0.2rem 0.5rem 0.3rem .2rem;
+  margin-top: .7rem;
+}
+
+.spotlight .article-card__copy .article-card__cta:hover {
+  background-color: var(--pula);
+}
+
+.spotlight .article-card__copy .article-card__cta span {
+  color: white;
+  margin-left: .2em;
 }
 
 .spotlight .whetter {

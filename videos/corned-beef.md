@@ -7,6 +7,7 @@ coverImage: /static/images/corned-beef-close-up.jpg
 sideNote: Nutmeg or nuez moscada in Spanish, is the key spice that makes the distinct flavor of the corned beef we know and love. Without nutmeg will still be tasty pulled beef or carne mechada that you have with tacos but with it you will be proud that you could remake corned beef!
 sideImage: /static/images/nutmeg-shaker.jpg
 youtube: WEYe845yhBU
+ctaText: Watch the video
 tags:
   - video
   - beef
