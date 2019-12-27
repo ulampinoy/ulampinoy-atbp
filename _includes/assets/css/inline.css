@@ -76,13 +76,13 @@ header {
 }
 
 footer {
-  font-size: .8rem;
+  font-size: 0.8rem;
   padding: 1em;
   text-align: center;
   background-color: white;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 960px) {
   footer {
     margin-top: 3rem;
   }
@@ -383,6 +383,7 @@ time {
   -ms-grid-column-span: 2;
   grid-column: 1 / 3;
   position: relative;
+  padding: 0 2rem;
 }
 
 .grid-Home .section-Videos h2 {
@@ -444,11 +445,13 @@ section.section-Intro {
   text-align: left;
   margin: 0 auto;
   position: relative;
+  padding: 2rem;
 }
 
 @media screen and (min-width: 768px) {
   section.section-Intro {
     text-align: center;
+    padding: 2rem 2rem 3rem;
   }
 }
 
@@ -459,7 +462,7 @@ section.section-Intro::after {
   background-color: var(--dilaw);
   position: absolute;
   left: calc(50% - 2rem);
-  top: 1rem;
+  top: 2rem;
 }
 
 section.section-Intro h2 {
@@ -468,11 +471,18 @@ section.section-Intro h2 {
   letter-spacing: -0.02rem;
   font-size: 1.8rem;
   font-weight: 400;
+  line-height: 1.3;
   margin: 0 auto;
   text-transform: unset;
 }
 
 @media screen and (min-width: 768px) {
+  section.section-Intro h2 {
+    font-size: 2.4rem;
+  }
+}
+
+@media screen and (min-width: 960px) {
   section.section-Intro h2 {
     font-size: 2.7rem;
   }
