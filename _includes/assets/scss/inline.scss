@@ -327,6 +327,14 @@ time {
     min-width: 801px;
     width: auto;
   }
+
+  &-wrapper {
+    padding: 1rem;
+    @media only screen and (min-width: 960px) {
+      padding: 2rem;
+
+    }
+  }
 }
 
 .grid {
@@ -351,6 +359,16 @@ time {
       grid-column: 1 / 3;
       position: relative;
       padding: 0 2rem;
+
+      .videosGrid {
+      display: grid;
+      grid-gap: 1.5rem;
+      padding: 0 2rem;
+
+      @media screen and (min-width: 768px) {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
 
       h2 {
         text-align: center;

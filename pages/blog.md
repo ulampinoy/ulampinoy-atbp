@@ -1,6 +1,6 @@
 ---
 layout: layouts/blog.njk
-title: Ulam Blog
+title: What's New
 tags:
   - nav
 navtitle: Blog

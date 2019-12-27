@@ -347,6 +347,16 @@ time {
   }
 }
 
+.layout-wrapper {
+  padding: 1rem;
+}
+
+@media only screen and (min-width: 960px) {
+  .layout-wrapper {
+    padding: 2rem;
+  }
+}
+
 .grid {
   display: -ms-grid;
   display: grid;
@@ -378,6 +388,20 @@ time {
   grid-column: 1 / 3;
   position: relative;
   padding: 0 2rem;
+}
+
+.grid-Home .section-Videos .videosGrid {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 1.5rem;
+  padding: 0 2rem;
+}
+
+@media screen and (min-width: 768px) {
+  .grid-Home .section-Videos .videosGrid {
+    -ms-grid-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+  }
 }
 
 .grid-Home .section-Videos h2 {

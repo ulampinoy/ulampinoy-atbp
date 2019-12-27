@@ -60,7 +60,7 @@ section: home
 
 	<section class="section-Videos">
 		<h2>📽️ Cook-along Video Recipes</h2>
-		<div class="Cols Cols--half grid-gap__normal">
+		<div class="Cols videosGrid">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(1, 7) %}
 				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
