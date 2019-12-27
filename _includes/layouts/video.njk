@@ -5,9 +5,10 @@ section: video
 
 <article class="article-post grid">
   <div class="billboard video-box">
-    <iframe id="ytplayer" type="text/html" width="800" height="450" 
-        src="https://www.youtube.com/embed/{{ youtube }}" 
-        frameborder="0" allowfullscreen></div>
+    <iframe id="ytplayer" type="text/html" width="800" height="450" src="https://www.youtube.com/embed/{{ youtube }}"
+      frameborder="0" allowfullscreen>
+  </div>
+  <div class="article-post-wrapper grid">
     <header>
       <h1>{{ title }}</h1>
     </header>
@@ -17,28 +18,28 @@ section: video
 
     <aside>
       {% if sideNote %}
-        <div class="aside-wrapper">
-          <h4>Alam mo ba?</h4>
-          <p>
-            {{ sideNote }}
-          </p>
-          {% if sideImage %}
-            <img src="{{ sideImage }}"/>
-          {% endif %}
-        </div>
+      <div class="aside-wrapper">
+        <h4>Alam mo ba?</h4>
+        <p>
+          {{ sideNote }}
+        </p>
+        {% if sideImage %}
+        <img src="{{ sideImage }}" />
+        {% endif %}
+      </div>
       {% endif %}
     </aside>
 
     <div class="article-meta">
       {% if tags %}
-        <p class="tags">
-          {% for tag in tags %}
-            {%- if tag != "post" -%}
-              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-              <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-            {%- endif -%}
-          {% endfor %}
-        </p>
+      <p class="tags">
+        {% for tag in tags %}
+        {%- if tag != "post" -%}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        {%- endif -%}
+        {% endfor %}
+      </p>
       {% endif %}
 
       <p>
@@ -46,10 +47,9 @@ section: video
           <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
         </small>
       </p>
-      <a href="/categories/{{category}}">{{category}}</a>
+      <p class="goto">
+        <a href="{{ '/video/' | url }}">← Balik sa lahat ng videos</a>
+      </p>
     </div>
-  </article>
-
-  <div class="footer-nav">
-    <a href="{{ '/video/' | url }}">← Balik sa lahat ng videos</a>
   </div>
+</article>
