@@ -6,17 +6,19 @@ section: home
 <section class="spotlight">
 	<div class="Cols grid-gap__normal">
 		{% set videolist = collections.video | reverse %}
-		{% for post in videolist.slice(0,1) %}
-		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-
-			<div class="article-card__cover" style="background-image: url({{ post.data.coverImage }})">
-			</div>
-			<div class="article-card__copy">
-				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
-				<p>{{ post.data.description }}</p>
-			</div>
+		{% for post in videolist.slice(0, 1) %}
+			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+				<a href="{{ post.url | url }}">
+					<div class="article-card__cover" style="background-image: url({{ post.data.coverImage }})"></div>
+				</a>
+				<div class="article-card__copy">
+					<h3>
+						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+					</h3>
+					<p>{{ post.data.description }}</p>
+				</div>
 			</article>
-			{% endfor %}
+		{% endfor %}
 	</div>
 </section>
 
@@ -24,43 +26,49 @@ section: home
 	<section class="section-Blog">
 		<div class="Cols blogGrid">
 			{% set postlist = collections.posts | reverse %}
-			{% for post in postlist.slice(0,6) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-				<div class="article-card__cover">
-					<a href="{{ post.url | url }}">
-						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
-					</a>
-				</div>
-				<div class="article-card__copy">
-					<span class="whetter">{{ post.data.whetter }}</span>
-					<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
-					<p>{{ post.data.description }}</p>
-				</div>
+			{% for post in postlist.slice(0, 6) %}
+				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+					<div class="article-card__cover">
+						<a href="{{ post.url | url }}">
+							<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255"/>
+						</a>
+					</div>
+					<div class="article-card__copy">
+						<span class="whetter">{{ post.data.whetter }}</span>
+						<h3>
+							<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+						</h3>
+						<p>{{ post.data.description }}</p>
+					</div>
 				</article>
-				{% endfor %}
+			{% endfor %}
 		</div>
-		<p class="text-center">Para sa higit pa, <a href="/blog/">magtungo sa Blog &rArr;</a></p>
+		<p class="text-center">Para sa higit pa, <a href="/blog/">magtungo sa Blog &rArr;</a>
+		</p>
 	</section>
 
 	<section class="section-Videos">
 		<h2>📽️ Cook-along Video Recipes</h2>
 		<div class="Cols Cols--half grid-gap__normal">
 			{% set videolist = collections.video | reverse %}
-			{% for post in videolist.slice(1,7) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-				<div class="article-card__cover">
-					<a href="{{ post.url | url }}">
-						<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640" />
-					</a>
-				</div>
-				<div class="article-card__copy">
-					<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
-					<p>{{ post.data.description }}</p>
-				</div>
+			{% for post in videolist.slice(1, 7) %}
+				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+					<div class="article-card__cover">
+						<a href="{{ post.url | url }}">
+							<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640"/>
+						</a>
+					</div>
+					<div class="article-card__copy">
+						<h3>
+							<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+						</h3>
+						<p>{{ post.data.description }}</p>
+					</div>
 				</article>
-				{% endfor %}
+			{% endfor %}
 		</div>
-		<p class="text-center">Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a></p>
+		<p class="text-center">Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a>
+		</p>
 	</section>
 </div>
 
