@@ -536,8 +536,6 @@ article {
 .article-post {
   &-wrapper {
     grid-template-columns: 1fr;
-    width: 86%;
-    margin: 1rem 7%;
 
     @media screen and (min-width: 960px) {
       grid-template-columns: 4fr 1.5fr;
@@ -592,35 +590,15 @@ article {
 
     .aside-wrapper {
       border-left: none;
-      margin: 1rem;
-      padding: 1rem;
-      border: 1px solid rgba(48, 0, 0, 0.2);
+      margin: 0 1rem;
+      border-top: 1px solid rgba(48, 0, 0, 0.1);
+      padding-top: 1rem;
 
       @media screen and (min-width: 960px) {
         border: none;
         border-left: 1px solid rgba(48, 0, 0, 0.1);
         margin: 0;
-        padding-top: .5rem;
-      }
-
-      &:after {
-        content: "";
-        width: 10rem;
-        height: 0.2rem;
-        background-color: var(--ulap);
-        position: absolute;
-        left: calc(50% - 4rem);
-        top: 0.9rem;
-
-        @media screen and (min-width: 960px) {
-          content: "";
-          width: 0;
-          height: 0;
-          background-color: transparent;
-          position: absolute;
-          left: 0;
-          top: 0;
-        }
+        padding: .5rem 1rem;
       }
 
       img {
@@ -848,7 +826,10 @@ article {
 }
 
 .tags {
-  padding-top: 2rem;
+  @media screen and (min-width: 768px) {
+    padding-top: 2rem;
+
+  }
 }
 
 .contact-form {
