@@ -26,10 +26,14 @@ Do not be intimidated with the big flavors you get when you open a can of your f
 - 1 tbsp. Salt
 - 2.5 cups Water
 
+Beef shank is our preferred cuts of meat since it offers all three components—lean, fat and cartilage which are essential to recreate the distinct Pinoy-style corned beef. Beef brisket or chuck is also an alternative cut.
+
+![Beef shank cuts](/static/images/beef-shank-cuts.jpg)
+
 Now that we have our corned beef made, let's cook **Ginisang Corned Beef.**
 Sauté our homemade corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve with rice and sunny-side up egg.
 
-![Corned beef, sunny-side up fried egg and rice](/static/images/cornsilog.jpg?nf_resize=fit&w=960)
+![Corned beef, sunny-side up fried egg and rice](/static/images/cornsilog.jpg)
 
 Try it and you'll surprise yourself and the family that you can actually make Carne Norte from scratch and cook something even better than the canned version that's a classic favorite!
 
