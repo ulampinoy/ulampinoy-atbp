@@ -363,7 +363,6 @@ time {
       .videosGrid {
       display: grid;
       grid-gap: 1.5rem;
-      padding: 0 2rem;
 
       @media screen and (min-width: 768px) {
         grid-template-columns: 1fr 1fr;
@@ -648,7 +647,9 @@ article {
     font-weight: 500;
     padding: 1rem 0;
     @media screen and (min-width: 768px) {
-      padding-top: 2rem;
+      font-size: 1.7em;
+      padding-top: 1.5rem;
+      padding-bottom: .25rem;
     }
   }
 
@@ -683,7 +684,7 @@ article {
       padding-top: 0;
 
       @media screen and (min-width: 768px) {
-        font-size: 2.85rem;
+        font-size: 2.7rem;
         line-height: 1.2;
         margin: 1rem auto 0 0;
       }

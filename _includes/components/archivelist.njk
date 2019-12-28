@@ -1,27 +1,30 @@
-<div class="Cols Cols--one-third grid-gap__normal">
-	{% for post in archive | reverse %}
-		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
+<div class="layout-wrapper">
+	<h1>{{ title }}</h1>
+	<div class="Cols Cols--one-third grid-gap__normal">
+		{% for post in archive | reverse %}
+		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 			<div class="article-card__cover">
 				<a href="{{ post.url | url }}">
 					<img src="{{ post.data.coverImage }}" />
 				</a>
 			</div>
 			<div class="article-card__copy">
-				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
 				{% if post.data.tags %}
 				<p>
 					<span>
 						{% for tag in post.data.tags %}
 						{%- if tag != "post" -%}
-							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
+						{% set tagUrl %}/tags/{{ tag }}/{% endset %}
 						<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
 						{%- endif -%}
 						{% endfor %}
-					</span	>
-				{% endif %}
+					</span>
+					{% endif %}
 				</p>
 			</div>
-		</article>
-	{% endfor %}
+			</article>
+			{% endfor %}
+	</div>
 </div>

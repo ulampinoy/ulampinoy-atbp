@@ -394,7 +394,6 @@ time {
   display: -ms-grid;
   display: grid;
   grid-gap: 1.5rem;
-  padding: 0 2rem;
 }
 
 @media screen and (min-width: 768px) {
@@ -730,7 +729,9 @@ article li {
 
 @media screen and (min-width: 768px) {
   .article-post h2 {
-    padding-top: 2rem;
+    font-size: 1.7em;
+    padding-top: 1.5rem;
+    padding-bottom: .25rem;
   }
 }
 
@@ -768,7 +769,7 @@ article li {
 
 @media screen and (min-width: 768px) {
   .article-post header h1 {
-    font-size: 2.85rem;
+    font-size: 2.7rem;
     line-height: 1.2;
     margin: 1rem auto 0 0;
   }
