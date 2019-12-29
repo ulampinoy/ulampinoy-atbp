@@ -33,7 +33,7 @@ Beef shank is our preferred cuts of meat since it offers all three components—
 ## Procedure
 1. In the pressure cooker pot, put the beef cuts, all the spices (nutmeg, onion powder, garlic powder) and salt. Add in water and mix it a bit.
 2. Cover and secure the lid. Bring the heat to high until steam starts to come out then reduce heat to medium. Pressure cook for 45 minutes to 1 hour.
-3. Turn off heat and release pressure. Open the lid carefully. Use two forks pull apart the meat.
+3. Turn off heat and release pressure. Open the lid carefully. Use two forks to pull apart the meat.
 
 ![Corned beef recently cooked in a pressure cooker pot](/static/images/corned-beef-pot.jpg)
 
