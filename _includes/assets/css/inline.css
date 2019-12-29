@@ -142,6 +142,7 @@ ol {
 
 ol ul {
   list-style-type: none;
+  list-style-position: inside;
 }
 
 /* Header Logo (style as h2) */
