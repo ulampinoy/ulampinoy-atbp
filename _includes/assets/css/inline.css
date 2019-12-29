@@ -138,11 +138,11 @@ ul {
 
 ol {
   padding-left: 0;
+  list-style-position: inside;
 }
 
 ol ul {
   list-style-type: none;
-  list-style-position: inside;
 }
 
 /* Header Logo (style as h2) */
@@ -674,7 +674,7 @@ article li {
     border: none;
     border-left: 1px solid rgba(48, 0, 0, 0.1);
     margin: 0;
-    padding: .5rem 1rem;
+    padding: 0.5rem 1rem;
   }
 }
 
@@ -732,7 +732,7 @@ article li {
   .article-post h2 {
     font-size: 1.7em;
     padding-top: 1.5rem;
-    padding-bottom: .25rem;
+    padding-bottom: 0.25rem;
   }
 }
 

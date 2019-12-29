@@ -134,9 +134,10 @@ ul {
 
 ol {
   padding-left: 0;
+  list-style-position: inside;
+
   ul {
     list-style-type: none;
-    list-style-position: inside;
   }
 }
 
@@ -333,7 +334,6 @@ time {
     padding: 1rem;
     @media only screen and (min-width: 960px) {
       padding: 2rem;
-
     }
   }
 }
@@ -362,13 +362,13 @@ time {
       padding: 0 2rem;
 
       .videosGrid {
-      display: grid;
-      grid-gap: 1.5rem;
+        display: grid;
+        grid-gap: 1.5rem;
 
-      @media screen and (min-width: 768px) {
-        grid-template-columns: 1fr 1fr;
+        @media screen and (min-width: 768px) {
+          grid-template-columns: 1fr 1fr;
+        }
       }
-    }
 
       h2 {
         text-align: center;
@@ -598,7 +598,7 @@ article {
         border: none;
         border-left: 1px solid rgba(48, 0, 0, 0.1);
         margin: 0;
-        padding: .5rem 1rem;
+        padding: 0.5rem 1rem;
       }
 
       img {
@@ -650,7 +650,7 @@ article {
     @media screen and (min-width: 768px) {
       font-size: 1.7em;
       padding-top: 1.5rem;
-      padding-bottom: .25rem;
+      padding-bottom: 0.25rem;
     }
   }
 
@@ -830,7 +830,6 @@ article {
 .tags {
   @media screen and (min-width: 768px) {
     padding-top: 2rem;
-
   }
 }
 
