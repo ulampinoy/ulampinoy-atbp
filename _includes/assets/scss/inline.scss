@@ -134,7 +134,6 @@ ul {
 
 ol {
   padding-left: 0;
-  list-style-position: inside;
 
   ul {
     list-style-type: none;
@@ -525,7 +524,7 @@ article {
   }
 
   li {
-    padding-bottom: 0.75rem;
+    padding-bottom: 0.3rem;
   }
 }
 
@@ -572,6 +571,10 @@ article {
     @media screen and (min-width: 960px) {
       grid-column: 1 / 2;
       padding: 0 3rem;
+    }
+
+    ol {
+      margin-left: 1rem;
     }
   }
 

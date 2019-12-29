@@ -138,7 +138,6 @@ ul {
 
 ol {
   padding-left: 0;
-  list-style-position: inside;
 }
 
 ol ul {
@@ -577,7 +576,7 @@ article > ul {
 }
 
 article li {
-  padding-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
 }
 
 .text-center {
@@ -641,6 +640,10 @@ article li {
     grid-column: 1 / 2;
     padding: 0 3rem;
   }
+}
+
+.article-post section ol {
+  margin-left: 1rem;
 }
 
 .article-post aside {
