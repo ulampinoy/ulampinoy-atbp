@@ -18,10 +18,6 @@ Nagagalak namin ngayong ibalita sa inyo na ang Ulampinoy ay nagbabalik online up
 
 Babansagan namin ang unahang bersyon sa seryeng ito bilang **Alpha Adobo**
 
-<<<<<<< HEAD
-![Adobo marinade of garlic and pork belly](/static/images/pre-adobo.jpg?nf_resize=fit&w=960)
-=======
 ![Adobo marinade of garlic and pork belly](/static/images/pre-adobo.jpg)
->>>>>>> Add images and change images path
 
 Kaya samantalang unti-unti namin itong ginagawa at ibinabahagi sa inyo, isang tanging hiling namin sa inyo na gaya ng sabi ng mga DJ sa FM station: _**"Stay tune. Stay stuck and keep it here!** (WKC)"_
