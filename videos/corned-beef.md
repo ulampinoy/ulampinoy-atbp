@@ -32,13 +32,13 @@ Beef shank is our preferred cuts of meat since it offers all three components—
 
 ## Procedure
 1. In the pressure cooker pot, put the beef cuts, all the spices (nutmeg, onion powder, garlic powder) and salt. Add in water and mix it a bit.
-2. Cover and secure the lid. Bring the heat to high until steam starts to come out then reduce heat to medium. Pressure cook for 45 minutes to 1 hour.
+2. Cover and secure the lid. Bring the heat to high until steam starts to come out then reduce heat to medium. Pressure cook for **45 minutes to 1 hour.**
 3. Turn off heat and release pressure. Open the lid carefully. Use two forks to pull apart the meat.
 
 ![Corned beef recently cooked in a pressure cooker pot](/static/images/corned-beef-pot.jpg)
 
-Now that we have our corned beef made, let's cook **Ginisang Corned Beef.**
-Sauté our homemade corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve with rice and sunny-side up egg.
+Now that we have our homemade corned beef, let's cook **Ginisang Corned Beef.**
+Sauté the corned beef with fresh garlic, patis, black peper and onion rings to garnish. Serve with rice and sunny-side up egg. Another tasty way to cook
 
 ![Corned beef, sunny-side up fried egg and rice](/static/images/cornsilog.jpg)
 
