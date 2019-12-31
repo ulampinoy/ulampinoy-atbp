@@ -17,22 +17,6 @@ Ang **po at opo** ay ang mga salitang ginagamit bilang pagpapakita ng paggalang.
 Ang ginisang upo ang masarap na luto lalo na kung ang upo ay tama sa gulang. Manamisnamis ito at maging ang murà nitong buto ay malambot pa.
 
 ### MGA SANGKAP
-<<<<<<< HEAD
-
-- Upo
-- Giniling na baboy
-- Kamatis
-- Bawang
-- Sibuyas
-- Siling haba
-- Mantika
-- Patis o bagoong alamang
-- Asin at pamintang-durog
-
-![Binalatang bunga ng upo](/static/images/upo-peeled.jpg?nf_resize=fit&w=960)
-Gumamit ng vegetable peeler para mas madaling balatan ang upo at balatan ito bago hiwain ng maliit.
-![Pinagbalatan ng upo](/static/images/upo-peel.jpg?nf_resize=fit&w=960)
-=======
 * Upo
 * Giniling na baboy
 * Kamatis
@@ -46,23 +30,11 @@ Gumamit ng vegetable peeler para mas madaling balatan ang upo at balatan ito bag
 ![Binalatang bunga ng upo](/static/images/upo-peeled.jpg)
 Gumamit ng vegetable peeler para mas madaling balatan ang upo at balatan ito bago hiwain ng maliit.
 ![Pinagbalatan ng upo](/static/images/upo-peel.jpg)
->>>>>>> Add images and change images path
 
 ### PARAAN NG PAGLULUTO
 
 1. Isangkutsa ang giniling na baboy sa pamamagitan ng paglalagay ng kaunting tubig at asin. Tangggalin ang bula sa unang kulo. Patuyuan at hayaan lumabas ng kaunti ang sarili nitong mantika. Maririnig sa tunog na nagsisimula na iton maprito. Dagdagan ng kaunti pang mantika.
 2. Igisa ang bawang, sibuyas at patis (o extra flavor kung bagoong alamang ang gagamitin). Isama ang kamatis at igisa hanggang madurog ng husto ang kamais at halos humiwalay na ang balat nito.
-<<<<<<< HEAD
-   - ![Bawang, sibuyas at kamatis](/static/images/bawang-sibuyas-kamatis.jpg?nf_resize=fit&w=960)
-   - ![Bagoong alamang sa bote](/static/images/alamang-bagoong-bote.jpg?nf_resize=fit&w=960)
-3. Igisa ang upo hanggang magsimulang lumabas ang katas nito. Ilagay ang siling haba at takpan. Pakuluan at paminsan-minsan lang haluin. Hindi na kailangan lagyan ng tubig dahil makataas ang upo. Timplahan ng asin at paminta. Lutuin hanggang lumambot.
-
-Maging ang mga hindi mahilig sa gulay, ay hindi tumanggi kapag inihahain ang ginisang upo, basta maraming sahog na baboy!
-![Ginisang upo](/static/images/upo-ginisa-closeup.jpg?nf_resize=fit&w=960)
-
-Masarap rin itambal ang pritong isda sa ginisang upo. Kain na **po** tayo!
-![Pritong isda](/static/images/isda-prito.jpg?nf_resize=fit&w=960)
-=======
    * ![Bawang, sibuyas at kamatis](/static/images/bawang-sibuyas-kamatis.jpg)
    * ![Bagoong alamang sa bote](/static/images/alamang-bagoong-bote.jpg)
 3. Igisa ang upo hanggang magsimulang lumabas ang katas nito. Ilagay ang siling haba at takpan. Pakuluan at paminsan-minsan lang haluin. Hindi na kailangan lagyan ng tubig dahil makataas ang upo. Timplahan ng asin at paminta. Lutuin hanggang lumambot.
@@ -72,6 +44,5 @@ Maging ang mga hindi mahilig sa gulay, ay hindi tumanggi kapag inihahain ang gin
 
 Masarap rin itambal ang pritong isda sa ginisang upo. Kain na **po** tayo!
 ![Pritong isda](/static/images/isda-prito.jpg)
->>>>>>> Add images and change images path
 
 At malamang kung ito ang inyong ulam, masarap na paalala ito sa mga bata na gamitin ang **po at opo** na katugma ng **upo.**

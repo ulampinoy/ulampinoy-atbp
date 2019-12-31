@@ -24,18 +24,10 @@ Kapit na kapit ang kasabihang iyan lalo na sa pagluluto at higit pa kapag mataga
 
 Maraming taon na rin ang nakakalipas ginawa na iyan ng aming mga kaibigan namin iyan.
 
-<<<<<<< HEAD
-![Laing ni Gigi](/static/images/laing-ni-gigi.jpg?nf_resize=fit&w=960)
-
-Dabes, kapag nag-langis na ang gata! _Extra special_ kapag may dilis pa.
-
-![Espesyal na baon ang laing sa pananghalian](/static/images/tupper-spinach-laing.jpg?nf_resize=fit&w=960)
-=======
 ![Laing ni Gigi](/static/images/laing-ni-gigi.jpg)
 
 Dabes, kapag nag-langis na ang gata! _Extra special_ kapag may dilis pa.
 
 ![Espesyal na baon ang laing sa pananghalian](/static/images/tupper-spinach-laing.jpg)
->>>>>>> Add images and change images path
 
 Patok na baon ito! At habang lumilipas ang araw (kung hindi pa ubos) lalo itong sumasarap.
