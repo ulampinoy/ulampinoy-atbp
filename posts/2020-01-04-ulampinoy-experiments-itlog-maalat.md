@@ -4,7 +4,7 @@ title: Itlog na Maalat — Attempt 02
 date: 2020-01-04
 description: We can't find itlog na maalat here so let's try to make it!
 whetter: UlamPinoy Experiments
-sideNote: Salted eggs are reddish in color so it can easily be distinguished from the regular fresh or boiled egss.
+sideNote: Salted eggs are reddish in color so it can easily be distinguished from the regular fresh or boiled eggs.
 sideImage: /static/images/malimgas-market-11.jpg
 coverImage: /static/images/itlog-maalat-01-soak-jar.jpg
 tags:
@@ -21,7 +21,7 @@ We can use it as ulam itself typically eaten with fresh tomatoes. We can add it 
 - Eggs, duck eggs are prefered but chicken eggs will do.
 - Salt, a lot of it
 - Water
-- Jar, where we can soak the eggs
+- Jar, big enough to contain everything
 
 ![Ingredients of making salted eggs](/static/images/itlog-maalat-ingrdients.jpg)
 
