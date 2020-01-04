@@ -1,6 +1,6 @@
 <div class="layout-wrapper">
 	<h1>{{ title }}</h1>
-	<div class="Cols Cols--one-third grid-gap__normal">
+	<div class="Cols Cols--one-third grid-gap__wide">
 		{% for post in collections.video | reverse %}
 		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 			<div class="article-card__cover">
@@ -11,16 +11,6 @@
 			<div class="article-card__copy">
 				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
-				{% if post.data.tags %}
-				<span>
-					{% for tag in post.data.tags %}
-					{%- if tag != "post" -%}
-					{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-					<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-					{%- endif -%}
-					{% endfor %}
-				</span>
-				{% endif %}
 			</div>
 			</article>
 			{% endfor %}

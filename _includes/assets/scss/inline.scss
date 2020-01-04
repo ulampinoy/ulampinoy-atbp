@@ -332,7 +332,7 @@ time {
   &-wrapper {
     padding: 1rem;
     @media only screen and (min-width: 960px) {
-      padding: 2rem;
+      padding: 3rem 4rem;
     }
   }
 }
@@ -403,8 +403,13 @@ time {
     grid-template-columns: 1fr;
   }
 
-  &-gap__normal {
-    grid-gap: 1.5rem;
+  &-gap {
+    &__normal {
+      grid-gap: 2rem;
+    }
+    &__wide {
+      grid-gap: 3rem;
+    }
   }
 }
 

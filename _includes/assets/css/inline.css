@@ -353,7 +353,7 @@ time {
 
 @media only screen and (min-width: 960px) {
   .layout-wrapper {
-    padding: 2rem;
+    padding: 3rem 4rem;
   }
 }
 
@@ -441,7 +441,11 @@ time {
 }
 
 .grid-gap__normal {
-  grid-gap: 1.5rem;
+  grid-gap: 2rem;
+}
+
+.grid-gap__wide {
+  grid-gap: 3rem;
 }
 
 section {

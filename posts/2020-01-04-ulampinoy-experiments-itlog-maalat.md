@@ -1,0 +1,44 @@
+---
+templateKey: blog-post
+title: Itlog na Maalat — Attempt 02
+date: 2020-01-04
+description: We can't find itlog na maalat here so let's try to make it!
+whetter: UlamPinoy Experiments
+sideNote: Salted eggs are reddish in color so it can easily be distinguished from the regular fresh or boiled egss.
+sideImage: /static/images/malimgas-market-11.jpg
+coverImage: /static/images/itlog-maalat-01-soak-jar.jpg
+tags:
+  - eggs
+  - experiments
+---
+
+Many years back, we made *itlog na maalat* and it was a success! *Naglangis* means it cured well that when you open it into halves the yolk was fatty, oily. This time we are doing another attempt to remake homemade salted eggs. It's very simple to make and hopefully after 5 weeks we have those nice salted eggs.
+
+We can use it as ulam itself typically eaten with fresh tomatoes. We can add it as another dimension to the Siopao Asado which is a parallel experiment as we speak!
+
+## Things we need
+
+- Eggs, duck eggs are prefered but chicken eggs will do.
+- Salt, a lot of it
+- Water
+- Jar, where we can soak the eggs
+
+![Ingredients of making salted eggs](/static/images/itlog-maalat-ingrdients.jpg)
+
+## Procedure
+
+1. Make the saline solution by boiling salt in water. Boiling makes the salt particles tiny bit smaller so they get a beeter chance penetrating the egg shell. Let it cool down.
+2. Carefully put all the eggs in the jar and add in the salted water. The eggs has the tendency to float so put something on top to push it down and stay submerge in the salty bath.
+3. Cover the jar tight and set your alarm for 5 weeks.
+
+**Five weeks** is what we remember how long we soaked  the eggs in our first attempt so we are doing just that in this experiment.
+
+## What We Did So Far
+
+- Though duck eggs are the preferred eggs due to it's bigger yolk than that of the chicken, we thought we could compensate for that by using extra large (XL) chicken eggs instead.
+- We used a mason jar since it already have a lid that you can seal.
+- A silicon cupcake mold was placed on top of the filled jar before closing the lid so it push all the eggs down to ensure all are fully submerged.
+
+![Succulent plant in a pot](/static/images/succulent-plant-01.jpg)
+
+**23 January 2020** is the moment of the truth. *Sana hindi palpak!* Until then we should find out if this attempt is a success. ***Abangan...***
