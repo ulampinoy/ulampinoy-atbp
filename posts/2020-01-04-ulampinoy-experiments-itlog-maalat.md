@@ -18,7 +18,7 @@ It can be an ulam itself, typically eaten with fresh tomatoes. We can add it as 
 
 ## Things we need
 
-- Eggs, duck eggs are prefered but chicken eggs will do.
+- Eggs, 🦆 duck eggs are prefered but 🐔 chicken eggs will do.
 - Salt, a lot of it
 - Water
 - Jar, big enough to contain everything
