@@ -88,13 +88,16 @@ main {
   padding: 1rem 1rem;
 
   h1 {
-    font-size: 2.5rem;
+    color: var(--abo);
+    font-size: 2.2rem;
     font-weight: 400;
+    letter-spacing: -0.04rem;
     padding-top: 1rem;
     line-height: 1.2;
 
     @media screen and (min-width: 768px) {
       padding-top: 0;
+      margin-bottom: 2rem;
     }
   }
 
@@ -400,6 +403,7 @@ time {
 
       @media screen and (min-width: 960px) {
         grid-template-columns: 1fr 1fr 1fr;
+        grid-gap: 1rem 2rem;
       }
     }
   }
@@ -410,10 +414,10 @@ time {
 
   &-gap {
     &__normal {
-      grid-gap: 2rem;
+      grid-gap: 1.5rem;
     }
     &__wide {
-      grid-gap: 3rem;
+      grid-gap: 2rem;
     }
   }
 }
@@ -644,7 +648,8 @@ article {
       padding: 0 3rem;
     }
 
-    ul, ol {
+    ul,
+    ol {
       margin-left: 1.25rem;
       margin-bottom: 1rem;
     }
@@ -681,6 +686,7 @@ article {
 
     h4 {
       font-family: var(--headlineFont), sans-serif;
+      color: var(--uling);
       margin-top: 0.5rem;
       margin-bottom: 0;
       text-transform: uppercase;
@@ -814,6 +820,7 @@ article {
     font-family: var(--headlineFont);
     font-size: 1.2rem;
     font-weight: 700;
+    letter-spacing: -0.02rem;
     line-height: 1.2;
     margin: 0;
 
@@ -864,7 +871,7 @@ article {
         margin: -170px 5% 0;
       }
       @media screen and (min-width: 960px) {
-        padding: 1rem 2.4rem;
+        padding: 1rem 2rem;
         width: 100%;
         margin: 0;
         background-color: rgba(253, 246, 239, 0.8);
@@ -879,6 +886,7 @@ article {
 
 .spotlight {
   padding-top: 0;
+  margin-bottom: 1rem;
 
   .article-card__cover {
     background-repeat: no-repeat;
@@ -909,15 +917,16 @@ article {
       font-size: 1.6rem;
 
       @media screen and (min-width: 768px) {
-        font-size: 2.2rem;
+        font-size: 2rem;
       }
     }
+
     p {
-      font-size: 1.2rem;
+      font-size: 1.1rem;
       color: var(--karbon);
 
       @media screen and (min-width: 768px) {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         margin-top: 0.75rem;
       }
     }
@@ -927,7 +936,7 @@ article {
       align-items: center;
       font-size: 1.3rem;
       background-color: var(--dilaw);
-      padding: 0.2rem 0.5rem 0.3rem 0.2rem;
+      padding: 0.2rem 0.7rem 0.3rem 0.2rem;
       margin-top: 0.7rem;
 
       &:hover {
@@ -964,15 +973,15 @@ article {
 }
 
 .article-post section > p:first-of-type {
-  color: var(--uling);
-  font-size: 1.25rem;
+  color: var(--abo);
+  font-size: 1.2rem;
   max-width: none;
   padding: 1rem 1rem 1.5rem 0;
   margin-bottom: 1rem;
   border-bottom: 1px solid rgba(48, 0, 0, 0.1);
 
   @media screen and (min-width: 768px) {
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 }
 
