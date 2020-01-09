@@ -7,29 +7,31 @@ section: home
 	<div class="Cols grid-gap__normal">
 		{% set videolist = collections.video | reverse %}
 		{% for post in videolist.slice(0, 1) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+			<a href="{{ post.url | url }}">
+				<div class="article-card__cover" style="background-image: url({{ post.data.coverImage }})"></div>
+			</a>
+			<div class="article-card__copy">
+				<h3>
+					<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+				</h3>
+				<p>{{ post.data.description }}</p>
+				{% if post.data.ctaText %}
 				<a href="{{ post.url | url }}">
-					<div class="article-card__cover" style="background-image: url({{ post.data.coverImage }})"></div>
-				</a>
-				<div class="article-card__copy">
-					<h3>
-						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
-					</h3>
-					<p>{{ post.data.description }}</p>
-					{% if post.data.ctaText %}
-					<a href="{{ post.url | url }}">
-						<div class="article-card__cta">
-							<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M13.3334 11.52L20.36 16L13.3334 20.48V11.52ZM10.6667 6.66669V25.3334L25.3334 16L10.6667 6.66669Z" fill="white"/>
-							</svg>
+					<div class="article-card__cta">
+						<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+							<path
+								d="M13.3334 11.52L20.36 16L13.3334 20.48V11.52ZM10.6667 6.66669V25.3334L25.3334 16L10.6667 6.66669Z"
+								fill="white" />
+						</svg>
 
-							<span>{{ post.data.ctaText }}</span>
-						</div>
-						</a>
-					{% endif %}
-				</div>
+						<span>{{ post.data.ctaText }}</span>
+					</div>
+				</a>
+				{% endif %}
+			</div>
 			</article>
-		{% endfor %}
+			{% endfor %}
 	</div>
 </section>
 
@@ -38,24 +40,25 @@ section: home
 		<div class="Cols blogGrid">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(0, 6) %}
-				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-					<div class="article-card__cover">
-						<a href="{{ post.url | url }}">
-							<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255"/>
-						</a>
-					</div>
-					<div class="article-card__copy">
-						<span class="whetter">{{ post.data.whetter }}</span>
-						<h3>
-							<a href="{{ post.url | url }}">{{ post.data.title }}</a>
-						</h3>
-						<p>{{ post.data.description }}</p>
-					</div>
+			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+				<div class="article-card__cover">
+					<a href="{{ post.url | url }}">
+						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
+					</a>
+				</div>
+				<div class="article-card__copy">
+					<span class="whetter">{{ post.data.whetter }}</span>
+					<h3>
+						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+					</h3>
+					<p>{{ post.data.description }}</p>
+				</div>
 				</article>
-			{% endfor %}
+				{% endfor %}
+				<p><a href="/blog/"></a>Higit pa sa Blog &rArr;</a>
+				</p>
 		</div>
-		<p class="text-center">Para sa higit pa, <a href="/blog/">magtungo sa Blog &rArr;</a>
-		</p>
+
 	</section>
 
 	<section class="section-Videos">
@@ -63,29 +66,38 @@ section: home
 		<div class="Cols videosGrid">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(1, 7) %}
-				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-					<div class="article-card__cover">
-						<a href="{{ post.url | url }}">
-							<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640"/>
-						</a>
-					</div>
-					<div class="article-card__copy">
-						<h3>
-							<a href="{{ post.url | url }}">{{ post.data.title }}</a>
-						</h3>
-						<p>{{ post.data.description }}</p>
-					</div>
+			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+				<div class="article-card__cover">
+					<a href="{{ post.url | url }}">
+						<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640" />
+					</a>
+				</div>
+				<div class="article-card__copy">
+					<h3>
+						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+					</h3>
+					<p>{{ post.data.description }}</p>
+				</div>
 				</article>
-			{% endfor %}
+				{% endfor %}
 		</div>
-		<p class="text-center">Tara at tingnan ang <a href="/video/">lahat ng Video Recipes &rArr;</a>
+		<p><a href="/video/"></a>Tingnan lahat ng Video Recipes &rArr;</a>
 		</p>
 	</section>
 </div>
 
 <section class="section-Intro">
-	<h2>Mabuhay! Welcome po kayo sa Ulampinoy 👋🏼</h2>
-	<p>Ang Ulampinoy ay koleksyon online ng aming <a href="/video/">mga lutung-bahay recipes</a>. Kasama rin ang <a
-			href="/blog/">aming blog</a> kung saan ibinabahagi naming adbentyur sa pagkain at ang iba't-iba pang mga
-		bagay na aming natutuklasan, natututuhan at sa paanuman ay kapakipakinabang sa amin.</p>
-</section>
+	<div class="bottomBillboard">
+		<div class="bottomBillboard-image" style="background-image: url(/static/images/sindi-kalan.jpg)"></div>
+	</div>
+	<div class="bottomBillboard-content">
+		<h2>Mabuhay! Welcome po kayo sa Ulampinoy 👋🏼</h2>
+		<p>Ang Ulampinoy ay koleksyon online ng aming <a href="/video/">mga lutung-bahay recipes</a>. Kasama rin ang <a
+				href="/blog/">aming blog</a> kung saan ibinabahagi naming adbentyur sa pagkain at ang iba't-iba pang mga
+			bagay na aming natutuklasan, natututuhan at sa paanuman ay kapakipakinabang sa amin.</p>
+	</div>
+	<div class="bottomBillboard-imageSW">
+		<img class="" src="static/images/sindi-kalan.jpg" alt="">
+
+	</div>
+</section

@@ -358,7 +358,11 @@ time {
     .section-Videos {
       grid-column: 1 / 3;
       position: relative;
-      padding: 0 2rem;
+      padding: 0 1rem;
+
+      @media screen and (min-width: 768px) {
+        padding: 0 3rem;
+      }
 
       .videosGrid {
         display: grid;
@@ -366,6 +370,7 @@ time {
 
         @media screen and (min-width: 768px) {
           grid-template-columns: 1fr 1fr;
+          grid-gap: 2rem;
         }
       }
 
@@ -391,10 +396,11 @@ time {
     .blogGrid {
       display: grid;
       grid-gap: 2rem;
-      padding: 0 3rem;
+      padding: 0 1rem;
 
       @media screen and (min-width: 768px) {
         grid-template-columns: 1fr 1fr;
+        padding: 0 3rem;
       }
 
       @media screen and (min-width: 960px) {
@@ -427,11 +433,11 @@ section {
     text-align: left;
     margin: 0 auto;
     position: relative;
-    padding: 2rem;
+    padding: 1rem 0;
 
     @media screen and (min-width: 768px) {
       text-align: center;
-      padding: 2rem 2rem 3rem;
+      padding: 4rem 0 0;
     }
 
     &::after {
@@ -440,8 +446,17 @@ section {
       height: 0.4rem;
       background-color: var(--dilaw);
       position: absolute;
-      left: calc(50% - 2rem);
-      top: 2rem;
+      left: 1rem;
+      top: 1rem;
+
+      @media screen and (min-width: 768px) {
+        top: 2rem;
+        left: 3rem;
+      }
+
+      @media screen and (min-width: 960px) {
+        top: 4rem;
+      }
     }
 
     h2 {
@@ -483,6 +498,54 @@ section {
     text-transform: uppercase;
     font-size: 1.15rem;
     padding: 1rem 0;
+  }
+
+  .bottomBillboard {
+    margin-top: 0;
+    line-height: 0;
+    position: relative;
+    min-height: 440px;
+
+    @media screen and (min-width: 768px) {
+      min-height: 640px;
+    }
+
+    &-image {
+      background-position: bottom;
+      background-repeat: no-repeat;
+      background-size: cover;
+      width: 100%;
+
+      @media screen and (min-width: 768px) {
+        position: absolute;
+        height: 100%;
+      }
+
+      &SW {
+        @media screen and (min-width: 768px) {
+          display: none;
+        }
+      }
+    }
+
+    &-content {
+      position: absolute;
+      top: 0;
+      z-index: 1;
+      text-align: left;
+      padding: 1rem;
+
+      @media screen and (min-width: 768px) {
+        padding: 0 3rem;
+        margin: 2rem auto 0;
+        width: 100%;
+      }
+
+      @media screen and (min-width: 960px) {
+        margin: 4rem auto 0;
+        width: 80%;
+      }
+    }
   }
 }
 
