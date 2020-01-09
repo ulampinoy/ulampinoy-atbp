@@ -1155,6 +1155,10 @@ article li img {
   font-weight: 500;
 }
 
+.glossary .article-meta {
+  padding: 1rem 0;
+}
+
 .footer-nav {
   margin: 3rem 0;
 }

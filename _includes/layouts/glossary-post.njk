@@ -2,21 +2,46 @@
 layout: layouts/base.njk
 section: glossary
 ---
-<article class="article-post grid">
+
+<article class="article-post">
   {% if coverImage %}
   <div class="billboard">
-    <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
+    <img src="{{ coverImage }}?nf_resize=fit&w=1200" />
   </div>
   {% endif %}
-  <header>
-    <h1>{{ title }}</h1>
-  </header>
-  <section>
-    {{ layoutContent | safe }}
-  </section>
+  <div class="article-post-wrapper grid">
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    <section>
+      {{ layoutContent | safe }}
+      <div class="article-meta">
+        {% if tags %}
+        <p class="tags">
+          {% for tag in tags %}
+          {%- if tag != "post" -%}
+          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+          {% endfor %}
+        </p>
+        {% endif %}
 
-  <aside>
+        <div>
+          <small>
+            <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+          </small>
+        </div>
+
+        <p class="goto">
+          <a href="{{ '/blog/' | url }}">← Blog Index</a>
+        </p>
+      </div>
+    </section>
+
     {% if sideNote %}
+    <aside>
+
       <div class="aside-wrapper">
         <div class="liner"></div>
         <h4>Alam mo ba?</h4>
@@ -24,29 +49,11 @@ section: glossary
           {{ sideNote }}
         </p>
         {% if sideImage %}
-          <img src="{{ sideImage }}?nf_resize=fit&w=600"/>
+        <img src="{{ sideImage }}?nf_resize=fit&w=600" />
         {% endif %}
       </div>
-    {% endif %}
-  </aside>
 
-  <div class="article-meta">
-    {% if tags %}
-    <div class="liner"></div>
-      <p class="tags">
-        {% for tag in tags %}
-          {%- if tag != "post" -%}
-            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-          {%- endif -%}
-        {% endfor %}
-      </p>
+    </aside>
     {% endif %}
-
-    <p>
-      <small>
-        <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-      </small>
-    </p>
   </div>
 </article>

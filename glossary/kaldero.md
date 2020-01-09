@@ -6,7 +6,8 @@ tags:
   - glossary
 ---
 
-Ang gamit na lutuan pangunahin na sa pagsasaing ng bigas. Ginagamit rin ito sa paglalaga. 
+Ang gamit na lutuan pangunahin na sa pagsasaing ng bigas. Ginagamit rin ito sa paglalaga.
 
-![Kalderong nakasalang sa kalan ng apoy](/static/images/kaldero.jpg?nf_resize=fit&w=960)
-Ang sinaing sa apoy ay itinuring na mas masarap
+![Kalderong nakasalang sa kalan ng apoy](/static/images/kaldero-kalan.jpg)
+
+Ang sinaing sa apoy ay itinuring na mas masarap.

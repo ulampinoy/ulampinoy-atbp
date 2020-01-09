@@ -1,3 +1,6 @@
+<div class="layout-wrapper">
+	<h1>{{ title }}</h1>
+
 <section class="glossary-list">
 	<ul>
 	{% for post in glossarylist %}
@@ -11,14 +14,15 @@
 					{% endif %}
 				</a>
 			</h2>
-			
+
 			{% if post.data.description %}
 				<p>
 					{{ post.data.description }}
 				</p>
 			{% endif %}
-			
+
 		</li>
 	{% endfor %}
 	</ul>
 </section>
+</div>
