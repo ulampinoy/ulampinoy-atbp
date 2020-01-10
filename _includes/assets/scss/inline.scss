@@ -663,12 +663,13 @@ article {
     ol {
       margin-left: 1.25rem;
       margin-bottom: 1rem;
+      margin-top: .75rem;
     }
   }
 
   aside {
     margin-top: 2rem;
-    line-height: 1.5;
+    line-height: 1.6;
     position: relative;
 
     @media screen and (min-width: 960px) {
