@@ -88,7 +88,13 @@ footer a {
 }
 
 main {
-  padding: 1rem 1rem;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  main {
+    padding: 0;
+  }
 }
 
 main h1 {
@@ -438,7 +444,7 @@ time {
   .grid .section-Blog .blogGrid {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
-    padding: 0 3rem;
+    padding: 0 2rem;
   }
 }
 
@@ -996,7 +1002,7 @@ article li img {
 
 .spotlight {
   padding-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 .spotlight .article-card__cover {
@@ -1017,7 +1023,7 @@ article li img {
   .spotlight .article-card__copy {
     padding: 1rem 2.4rem;
     width: 90%;
-    margin: -170px 5% 0;
+    margin: -140px 5% 0;
   }
 }
 

@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Itlog na Maalat — Attempt 02
 date: 2020-01-04
-description: We can't find itlog na maalat here so let's try to make it!
+description: We can't find where to buy itlog na maalat in Madrid so let's try making it!
 whetter: UlamPinoy Experiments
 sideNote: Salted eggs are reddish in color so it can easily be distinguished from the regular fresh or boiled eggs.
 sideImage: /static/images/malimgas-market-11.jpg

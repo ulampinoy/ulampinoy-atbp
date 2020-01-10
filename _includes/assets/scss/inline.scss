@@ -85,7 +85,11 @@ footer {
 }
 
 main {
-  padding: 1rem 1rem;
+  padding: 1rem;
+
+  @media screen and (min-width: 768px) {
+    padding: 0;
+  }
 
   h1 {
     color: var(--abo);
@@ -398,7 +402,7 @@ time {
 
       @media screen and (min-width: 768px) {
         grid-template-columns: 1fr 1fr;
-        padding: 0 3rem;
+        padding: 0 2rem;
       }
 
       @media screen and (min-width: 960px) {
@@ -886,7 +890,7 @@ article {
 
 .spotlight {
   padding-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 
   .article-card__cover {
     background-repeat: no-repeat;
@@ -904,7 +908,7 @@ article {
     @media screen and (min-width: 768px) {
       padding: 1rem 2.4rem;
       width: 90%;
-      margin: -170px 5% 0;
+      margin: -140px 5% 0;
     }
     @media screen and (min-width: 960px) {
       padding: 1rem 2.4rem;
