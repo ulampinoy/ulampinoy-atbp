@@ -10,3 +10,5 @@ Ang paraan ng pagluluto ng pagkain direkra o gamit ang parilya sa ibabaw ng apoy
 
 ![Inihaw na mga isda sa uling](/static/images/fish-grilling-charcoal.jpg)
 
+![Inihaw na karne at chorizo sa uling](/static/images/grill-chorizo-liempo.jpg)
+

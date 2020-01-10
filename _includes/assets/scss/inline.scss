@@ -84,11 +84,17 @@ footer {
   }
 }
 
+.home {
+  main {
+    padding-top: 0;
+  }
+}
+
 main {
   padding: 1rem;
 
   @media screen and (min-width: 768px) {
-    padding: 0;
+    padding: 1rem 0;
   }
 
   h1 {
@@ -349,6 +355,7 @@ time {
   &-column__half {
     grid-template-columns: repeat(2, 1fr);
   }
+
 
   &-column__third {
     grid-template-columns: repeat(3, 1fr);
@@ -778,9 +785,7 @@ article {
     }
 
     &.pamilya {
-      h1 {
-        margin-left: 0;
-      }
+      padding-top: 2rem;
     }
 
     p {
@@ -965,8 +970,12 @@ article {
   }
 }
 
-.contact-form {
-  padding-top: 3rem;
+#contact-us.contact-form {
+  padding: 3rem 0;
+
+  button {
+    font-weight: 500;
+  }
 }
 
 .highlight__stabilo {

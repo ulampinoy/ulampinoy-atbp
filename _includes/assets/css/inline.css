@@ -87,13 +87,17 @@ footer a {
   padding: 0 0.5rem;
 }
 
+.home main {
+  padding-top: 0;
+}
+
 main {
   padding: 1rem;
 }
 
 @media screen and (min-width: 768px) {
   main {
-    padding: 0;
+    padding: 1rem 0;
   }
 }
 
@@ -881,8 +885,8 @@ article li img {
   }
 }
 
-.article-post header.pamilya h1 {
-  margin-left: 0;
+.article-post header.pamilya {
+  padding-top: 2rem;
 }
 
 .article-post header p {
@@ -1090,8 +1094,12 @@ article li img {
   }
 }
 
-.contact-form {
-  padding-top: 3rem;
+#contact-us.contact-form {
+  padding: 3rem 0;
+}
+
+#contact-us.contact-form button {
+  font-weight: 500;
 }
 
 .highlight__stabilo {
