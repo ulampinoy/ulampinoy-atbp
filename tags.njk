@@ -12,7 +12,5 @@ permalink: /tags/{{ tag }}/
 layout: layouts/base.njk
 ---
 
-<h1>Tagged <em class="highlight__stabilo">“{{ tag }}”</em></h1>
-
 {% set postslist = collections[ tag ] %}
 {% include "components/postsbytag.njk" %}

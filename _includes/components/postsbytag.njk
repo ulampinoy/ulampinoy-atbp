@@ -1,4 +1,7 @@
-<section class="Cols Cols--half grid-gap__normal">
+<div class="layout-wrapper">
+
+<h1>Tagged <em class="highlight__stabilo">“{{ tag }}”</em></h1>
+<div class="Cols Cols--half grid-gap__normal">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
         <div class="article-card__cover">
@@ -7,7 +10,7 @@
 				</a>
 			</div>
             <div class="article-card__copy">
-				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>				
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
 				{% if post.data.tags %}
 					<p>
@@ -22,4 +25,5 @@
 			</div>
 		</article>
 	{% endfor %}
-</section>
+	</div>
+</div>
