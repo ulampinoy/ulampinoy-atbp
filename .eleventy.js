@@ -3,7 +3,7 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)
@@ -17,12 +17,12 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify CSS
-  eleventyConfig.addFilter("cssmin", function(code) {
+  eleventyConfig.addFilter("cssmin", function (code) {
     return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
-  eleventyConfig.addFilter("jsmin", function(code) {
+  eleventyConfig.addFilter("jsmin", function (code) {
     let minified = UglifyJS.minify(code);
     if (minified.error) {
       console.log("UglifyJS error: ", minified.error);
@@ -32,7 +32,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Minify HTML output
-  eleventyConfig.addTransform("htmlmin", function(content, outputPath) {
+  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
     if (outputPath.indexOf(".html") > -1) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -45,18 +45,23 @@ module.exports = function(eleventyConfig) {
   });
 
   // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
+  eleventyConfig.addCollection("posts", function (collection) {
+    return collection.getAllSorted().filter(function (item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
     });
   });
 
   // only content in the `glossary/` directory
-  eleventyConfig.addCollection("glossary", function(collection) {
-    return collection.getAllSorted().filter(function(item) {
-      return item.inputPath.match(/^\.\/glossary\//) !== null;
-    });
+  eleventyConfig.addCollection("glossary", function (collection) {
+    return collection.getFilteredByGlob("glossary/**/*.md", "glossary/*.md").sort((a, b) => {
+      if (a.data.title > b.data.title) return -1;
+      else if (a.data.title < b.data.title) return 1;
+      else return 0;
+    })
   });
+
+
+
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/images/");
