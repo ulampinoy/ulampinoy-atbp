@@ -673,12 +673,20 @@ article > ul {
   list-style-type: disc;
 }
 
-article li {
-  margin-top: 1rem;
+article ul li {
+  margin-top: 0.5rem;
 }
 
-article li img {
+article ul li em {
+  color: #606060;
+}
+
+article ul li img {
   margin-top: 1.5rem;
+}
+
+article ol li {
+  margin-top: 1rem;
 }
 
 .text-center {
@@ -748,7 +756,7 @@ article li img {
 .article-post section ol {
   margin-left: 1.25rem;
   margin-bottom: 1rem;
-  margin-top: .75rem;
+  margin-top: 0.75rem;
 }
 
 .article-post aside {

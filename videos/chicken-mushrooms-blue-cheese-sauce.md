@@ -1,8 +1,8 @@
 ---
 layout: "layouts/video.njk"
-title: Chicken Mushroom in Blue Cheese Sauce
+title: Chicken Mushrooms in Blue Cheese Sauce
 date: 2020-12-21
-description: Upscale the usual pan-fried chicken fillets by making some blue cheese sauce.
+description: Upscale the usual pan-fried chicken fillets by making some blue cheese sauce with mushrooms.
 coverImage: /static/images/chicken-mushroom-blue-cheesee.jpg
 sideNote: The bacterium Brevibacterium linens is responsible for the smell of many blue cheeses, as well as foot odour and other human body odors. [via Wikipedia]
 sideImage: /static/images/blue-cheese-wedge.jpg
@@ -12,11 +12,11 @@ tags:
   - video
   - chicken
   - mushroom
-  - blue cheese
+  - cheese
   - recipe
 ---
 
-In this episode, let's upscale the usual pan-fried chicken fillets by making some blue cheese sauce with *champiñones* or button mushrooms.
+In this episode, let's upscale the usual pan-fried chicken fillets by making some blue cheese sauce with mushrooms.
 
 The creamy gravy sauce gives the chicken additional depth and moisture while the blue cheese give a nice sharp contrast to it. The mushrooms add in another type of texture to the bite and *umami* boost!
 

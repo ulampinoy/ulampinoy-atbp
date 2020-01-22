@@ -356,7 +356,6 @@ time {
     grid-template-columns: repeat(2, 1fr);
   }
 
-
   &-column__third {
     grid-template-columns: repeat(3, 1fr);
   }
@@ -605,11 +604,23 @@ article {
     list-style-type: disc;
   }
 
-  li {
-    margin-top: 1rem;
+  ul {
+    li {
+      margin-top: 0.5rem;
 
-    img {
-      margin-top: 1.5rem;
+      em {
+        color: #606060;
+      }
+
+      img {
+        margin-top: 1.5rem;
+      }
+    }
+  }
+
+  ol {
+    li {
+      margin-top: 1rem;
     }
   }
 }
@@ -663,7 +674,7 @@ article {
     ol {
       margin-left: 1.25rem;
       margin-bottom: 1rem;
-      margin-top: .75rem;
+      margin-top: 0.75rem;
     }
   }
 
