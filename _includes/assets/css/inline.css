@@ -700,8 +700,8 @@ article ol li {
 
 @media screen and (min-width: 960px) {
   .article-post-wrapper {
-    -ms-grid-columns: 4fr 1.5fr;
-        grid-template-columns: 4fr 1.5fr;
+    -ms-grid-columns: 4fr 1.7fr;
+        grid-template-columns: 4fr 1.7fr;
     padding: 1rem;
     grid-column-gap: 2rem;
     width: 100%;
@@ -730,6 +730,12 @@ article ol li {
   padding: 1rem 1rem 0;
 }
 
+@media screen and (min-width: 768px) {
+  .article-post header {
+    padding: 0 2rem;
+  }
+}
+
 @media screen and (min-width: 960px) {
   .article-post header {
     -ms-grid-column: 1;
@@ -741,6 +747,12 @@ article ol li {
 
 .article-post section {
   padding: 0 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .article-post section {
+    padding: 0 2rem;
+  }
 }
 
 @media screen and (min-width: 960px) {
@@ -779,9 +791,13 @@ article ol li {
 
 .article-post aside .aside-wrapper {
   border-left: none;
-  margin: 0 1rem;
-  border-top: 1px solid rgba(48, 0, 0, 0.1);
-  padding-top: 1rem;
+  padding: 1rem;
+}
+
+@media screen and (min-width: 768px) {
+  .article-post aside .aside-wrapper {
+    padding: 1rem 2rem;
+  }
 }
 
 @media screen and (min-width: 960px) {
@@ -1149,17 +1165,37 @@ article ol li {
 }
 
 .glossary-list ul {
-  display: -ms-grid;
-  display: grid;
-  -ms-grid-columns: (minmax(170px, 1fr))[auto-fill];
-      grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
-  grid-gap: 1rem;
+  -webkit-column-count: 1;
+          column-count: 1;
+  -webkit-column-gap: 1rem;
+          column-gap: 1rem;
   list-style-type: none;
-  padding: 1.5rem 0.5rem;
+  padding: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .glossary-list ul {
+    -webkit-column-count: 2;
+            column-count: 2;
+    -webkit-column-gap: 5rem;
+            column-gap: 5rem;
+  }
 }
 
 .glossary-list ul li {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
   line-height: 1.6;
+  border-bottom: 1px solid #eee;
+  padding: 0.75rem 0;
+}
+
+.glossary-list ul li img {
+  width: 90px;
 }
 
 .glossary-list ul li a {
@@ -1171,6 +1207,7 @@ article ol li {
   font-size: 1.1rem;
   text-transform: capitalize;
   padding: 0;
+  margin-bottom: 0;
 }
 
 .glossary-list ul a {

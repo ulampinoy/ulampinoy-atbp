@@ -10,10 +10,10 @@ youtube: mm2Nw-uj_3s
 ctaText: Watch the video
 tags:
   - video
+  - recipe
   - chicken
   - mushroom
   - cheese
-  - recipe
 ---
 
 In this episode, let's upscale the usual pan-fried chicken fillets by making some blue cheese sauce with mushrooms.
