@@ -51,7 +51,7 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  // only content in the `glossary/` directory
+  // only content in the `glossary/` directory and sort the entries in alphabetical order
   eleventyConfig.addCollection("glossary", function (collection) {
     return collection.getFilteredByGlob("glossary/**/*.md", "glossary/*.md").sort((a, b) => {
       if (a.data.title > b.data.title) return -1;
