@@ -2,6 +2,7 @@
 templateKey: glossary-post
 title: Kaldero
 date: 2019-05-15T10:13:04.000Z
+coverImage: /static/images/kaldero-kalan.jpg
 tags:
   - glossary
 ---

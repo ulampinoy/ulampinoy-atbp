@@ -42,14 +42,27 @@ section: home
 			{% for post in postlist.slice(0, 6) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 				<div class="article-card__cover">
-					<a href="{{ post.url | url }}">
+					<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">
 						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
 					</a>
 				</div>
 				<div class="article-card__copy">
 					<span class="whetter">{{ post.data.whetter }}</span>
 					<h3>
-						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+						<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">{{ post.data.title }}
+						</a>
 					</h3>
 					<p>{{ post.data.description }}</p>
 				</div>
