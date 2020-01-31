@@ -5,7 +5,7 @@ date: 2019-05-17
 description: We cooked and hosted lunch for our dear friends from Portugal.
 whetter: Malutong Malinamnam
 sideNote: Bagnet is traditionally deep-fried since having an oven in the Philippines is not that common
-sideImage: /static/images/bagnet-resting.jpg
+sideImage: /static/images/super-crispy-liempo.jpg
 coverImage: /static/images/fried-lumpia-gulay.jpg
 tags:
   - pork
