@@ -715,7 +715,7 @@ article {
       }
 
       img {
-        margin-bottom: 0;
+        margin-bottom: 2rem;
       }
     }
 
@@ -1163,4 +1163,7 @@ article {
     grid-row-gap: units(2);
     grid-column-gap: units(2);
   }
+}
+.postAdvert {
+  margin: 3rem 0 2rem;
 }
