@@ -1,7 +1,7 @@
 ---
 layout: "layouts/video.njk"
 title: Chicken Mushrooms in Blue Cheese Sauce
-date: 2020-12-21
+date: 2019-12-21
 description: Upscale the usual pan-fried chicken fillets by making some blue cheese sauce with mushrooms.
 coverImage: /static/images/chicken-mushroom-blue-cheesee.jpg
 sideNote: The bacterium Brevibacterium linens is responsible for the smell of many blue cheeses, as well as foot odour and other human body odors. [via Wikipedia]
