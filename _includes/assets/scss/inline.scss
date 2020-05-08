@@ -43,6 +43,12 @@ body {
   display: grid;
   height: 100vh;
   grid-template-rows: auto 1fr auto;
+
+  &.video {
+    aside {
+      margin-top: 3rem;
+    }
+  }
 }
 
 pre,

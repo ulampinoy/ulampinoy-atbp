@@ -48,6 +48,10 @@ body {
       grid-template-rows: auto 1fr auto;
 }
 
+body.video aside {
+  margin-top: 3rem;
+}
+
 pre,
 code {
   line-height: 1.6;
