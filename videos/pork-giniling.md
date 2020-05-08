@@ -32,12 +32,12 @@ Simple as sautéing it in patis (fish sauce) and using some fresh ripe chopped t
 
 ![All the ingredients for Pork Giniling recipe](/static/images/pork-giniling-ingredients.jpg)
 
-Chopping the pork meat is a finely gives some great texture due to the uneven bits.
+Chopping the pork meat finely makes some uneven bits thus giving a bit more texture but of course buying the ground meat is convinient.
 
 ## Procedure
 1. **Pre-fry potatoes, carrots and green peas** gives the vegetable a light crust for more flavor and texture. Set aside.
 2. Heat some oil in a skillet pan and **sear until golden brown.** Set on high heat enough to brown the ground meat sealing it so it doesn't dry out. Set aside.
-![Pork Giniling served in a bowl](/static/images/pork-giniling-sear.jpg)
+![Pork Giniling searing in a pan](/static/images/pork-giniling-sear.jpg)
 3. **Sauté** the chopped garlic and sliced onions. Add diced tomatoes. Sauté until aromatic and tomato has soften.
 4. **Add the stir-fried garlic, onions, tomato to the seared meat.** Stir well to combine. Add water or stock to deglace the fond. Add bay leaves. Cover and simmer.
 5. **Add in the pre-fried vegetable.** Mix to get all the ingredient to blend and get along well with each other. Cover and simmer some more until meat is tender and sauce starts to thicken.
