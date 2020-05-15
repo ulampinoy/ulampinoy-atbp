@@ -42,6 +42,6 @@ Watch and cook-along with the [video recipe.](https://youtu.be/KKzJzkCUiNo)
 
 For recipe ideas/comments/requests you can [reach us in the contact form](/about/#contact-us).
 
-We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community around it. Support us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
+We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community of happy home cooks! Join us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
 
 Happy cooking and eating! Maraming salamat po... 🙏🏼

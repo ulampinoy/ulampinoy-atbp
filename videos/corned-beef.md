@@ -44,10 +44,12 @@ Sauté the corned beef with fresh garlic, patis, black peper and onion rings to 
 
 Try it and you'll surprise yourself and the family that you can actually make Carne Norte from scratch and cook something even better than the canned version that's a classic favorite!
 
-***Salamat po!***
-
-Kain na! At huwag mag-atubiling [mag-subscribe](https://www.youtube.com/user/ulampinoy) at paki-share ang ulam Pinoy.
-
-### Video
-
+### Endnotes
 Watch and cook-along with the [video recipe.](https://youtu.be/WEYe845yhBU)
+
+For recipe ideas/comments/requests you can [reach us in the contact form](/about/#contact-us).
+
+We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community of happy home cooks! Join us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
+
+Happy cooking and eating! Maraming salamat po... 🙏🏼
+

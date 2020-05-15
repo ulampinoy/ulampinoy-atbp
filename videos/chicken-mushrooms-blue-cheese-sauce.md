@@ -48,4 +48,6 @@ In the video we used bottle-preserved mushrooms but **fresh whole mushrooms** ar
 Watch and cook-along with the [video recipe.](https://youtu.be/mm2Nw-uj_3s)
 For recipe ideas/comments/requests you can [reach us in the contact form](http://localhost:8080/about/#contact-us).
 
-We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community around it. Support us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it. Maraming salamat! 🙏🏼
+We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community of happy home cooks! Join us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
+
+Happy cooking and eating! Maraming salamat po... 🙏🏼

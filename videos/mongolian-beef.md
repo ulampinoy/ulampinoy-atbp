@@ -42,6 +42,11 @@ Ang masarap na beef dish na madalas na inoorder sa labas ay puede mo ng gawin sa
 Kain na! At huwag mag-atubiling [mag-subscribe](https://www.youtube.com/user/ulampinoy) at paki-share ang ulam Pinoy. Salamat!
 
 
-### Video
+### Endnotes
+Watch and cook-along with the [video recipe.](https://youtu.be/jrF4z3fjphA)
 
-Watch and cook-along with the video recipe.
+For recipe ideas/comments/requests you can [reach us in the contact form](/about/#contact-us).
+
+We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community of happy home cooks! Join us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
+
+Happy cooking and eating! Maraming salamat po... 🙏🏼
