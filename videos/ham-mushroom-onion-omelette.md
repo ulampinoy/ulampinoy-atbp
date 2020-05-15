@@ -5,7 +5,7 @@ date: 2020-05-13
 description: Easy to cook tasty omelette from leftovers you find in the fridge.
 coverImage: /static/images/omelette-ham-mushroom.jpg
 sideNote: Eggs are a good source of essential fat and protein.
-sideImage: /static/images/pork-giniling-vegetables.jpg
+sideImage: /static/images/eggs-in-tray.jpg
 youtube: KKzJzkCUiNo
 ctaText: Watch the video recipe
 tags:
