@@ -3,8 +3,8 @@ layout: "layouts/video.njk"
 title: Corned Beef — Filipino Style
 date: 2019-12-20
 description: We love corned beef, it's the super savory instant ulam de lata! With a few ingredients, you can make homemade corned beef from scratch. Surprise yourself and your family!
-coverImage: /static/images/corned-beef-close-up.jpg
-sideNote: Nutmeg or nuez moscada in Spanish, is the key spice that makes the distinct flavor of the corned beef we know and love. Without nutmeg will still be tasty pulled beef or carne mechada that you have with tacos but with it you will be proud that you could remake corned beef!
+coverImage: /static/images/corned-beef-hero.jpg
+sideNote: Nutmeg or **nuez moscada** in Spanish, is the key spice that makes the distinct flavor of the corned beef we know and love. Without nutmeg will still be tasty pulled beef or carne mechada that you have with tacos but with it you will be proud that you could remake corned beef!
 sideImage: /static/images/nutmeg-shaker.jpg
 youtube: WEYe845yhBU
 ctaText: Watch the video
