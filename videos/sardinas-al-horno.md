@@ -19,7 +19,7 @@ Tired of just frying sardines? Try this fast and delicious way to cook oven-gril
 
 In today's episode let's cook some fresh, in-season sardines! The fish is the star of the show so we want make it really stand out by using only a few ingredients to make its tasty fishy flavor shine! It a different yet simple way to enjoy these flavor-packed fish!
 
-INGREDIENTS:
+## Ingredients
 - Fresh sardines
 - Olive oil
 - Oregano
@@ -36,7 +36,7 @@ INGREDIENTS:
 ![Sardines seasoned with ingredients laying down on a baking glass dish](/static/images/sardinas-horno-marinade.jpg)
 
 2. Drizzle olive oil on baking pan or dish. Lay down seasoned sardines. Add crushed garlic, sliced red chili pepper, black peppercorns, squeeze half lemon then put lemon wedges in between the sardines. Cover with plastic wrap and set aside to quickly marinate while waiting for the oven to reach cooking temperature.
-3. Set and pre-heat oven to 250ºC. Remove plastic wrap and put it in the oven and cook for 10-15 minutes but always best to eyeball it. Enjoy it with rice and beer!
+3. Set and pre-heat oven to 250ºC. Remove plastic wrap and put it in the oven and cook for 10-15 minutes but always best to eyeball it. Enjoy it with steamed rice and cold beer!
 
 ![Oven-grilled sardines served on a plate with rice and beer at the side](/static/images/sardinas-horno-plate-rice-beer.jpg)
 
