@@ -28,17 +28,17 @@ INGREDIENTS:
 - Lemon
 - Salt and black pepper
 
-![All the ingredients for cooking oven-grilled sardines recipe](/static/images/sardinas-alhorno-ingredient.webp)
+![All the ingredients for cooking oven-grilled sardines recipe](/static/images/sardinas-alhorno-ingredient.jpg)
 
 ## Procedure
 1. Wash thoroughly and drain the fresh sardines. Rub with salt, crushed black pepper and oregano.
 
-![Sardines seasoned with ingredients laying down on a baking glass dish](/static/images/sardinas-horno-marinade.webp)
+![Sardines seasoned with ingredients laying down on a baking glass dish](/static/images/sardinas-horno-marinade.jpg)
 
 2. Drizzle olive oil on baking pan or dish. Lay down seasoned sardines. Add crushed garlic, sliced red chili pepper, black peppercorns, squeeze half lemon then put lemon wedges in between the sardines. Cover with plastic wrap and set aside to quickly marinate while waiting for the oven to reach cooking temperature.
 3. Set and pre-heat oven to 250ºC. Remove plastic wrap and put it in the oven and cook for 10-15 minutes but always best to eyeball it. Enjoy it with rice and beer!
 
-![Oven-grilled sardines served on a plate with rice and beer at the side](/static/images/sardinas-horno-plate-rice-beer.webp)
+![Oven-grilled sardines served on a plate with rice and beer at the side](/static/images/sardinas-horno-plate-rice-beer.jpg)
 
 ### Endnotes
 Watch and cook-along with the [video recipe.](https://youtu.be/yEL9-qqmoNE)
