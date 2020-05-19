@@ -925,7 +925,7 @@ article {
 
 .spotlight {
   padding-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
 
   .article-card__cover {
     background-repeat: no-repeat;
@@ -1130,11 +1130,14 @@ article {
 
 .billboard {
   &.video-box {
-    min-height: 480px;
     height: 100%;
     display: flex;
     justify-content: center;
     margin-bottom: 1.5rem;
+
+    @media screen and (min-width: 768px) {
+      min-height: 480px;
+    }
   }
 
   iframe {

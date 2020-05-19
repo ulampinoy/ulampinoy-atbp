@@ -9,9 +9,10 @@ tags:
   - video
   - beef
   - wok
+  - stir-fry
 ---
 
-Ang masarap na beef dish na madalas na inoorder sa labas ay puede mo ng gawin sa bahay. Hindi naman mahirap hanapin ang mga sangkap at opsyonal naman ang ibang ingredients kung hindi ito available sa inyo gaya ng Chinese cooking wine.
+Ang masarap na beef dish na madalas na ino-order sa labas ay puede mo ng gawin sa bahay. Hindi naman mahirap hanapin ang mga sangkap at opsyonal naman ang ibang ingredients kung hindi ito available sa inyo gaya ng Chinese cooking wine.
 
 
 ### BEEF at MARINADE:

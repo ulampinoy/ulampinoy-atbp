@@ -1035,7 +1035,7 @@ article ol li {
 
 .spotlight {
   padding-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 .spotlight .article-card__cover {
@@ -1270,7 +1270,6 @@ article ol li {
 }
 
 .billboard.video-box {
-  min-height: 480px;
   height: 100%;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1279,6 +1278,12 @@ article ol li {
       -ms-flex-pack: center;
           justify-content: center;
   margin-bottom: 1.5rem;
+}
+
+@media screen and (min-width: 768px) {
+  .billboard.video-box {
+    min-height: 480px;
+  }
 }
 
 .billboard iframe {

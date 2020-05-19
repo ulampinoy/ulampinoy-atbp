@@ -1,8 +1,9 @@
 ---
 date: 2011-07-21T00:37:30Z
 title:  Dry Run Episode of Ulam Pinoy
+coverImage: /static/images/fish-sarciado-rice.jpg
 url: /2011/07/21/dry-run-video/
-tags: 
+tags:
     - archive
     - repost
     - video
