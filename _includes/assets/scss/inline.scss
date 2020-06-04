@@ -97,10 +97,8 @@ footer {
 }
 
 main {
-  padding: 1rem;
-
   @media screen and (min-width: 768px) {
-    padding: 1rem 0;
+    padding: 0;
   }
 
   h1 {
@@ -294,6 +292,7 @@ time {
   width: 100%;
   z-index: 888;
   margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 .global-logo {
@@ -316,6 +315,7 @@ time {
 
   nav {
     justify-self: unset;
+    line-height: 2;
   }
 
   @media screen and (min-width: 960px) {
@@ -648,6 +648,12 @@ article {
     }
   }
 
+  &.weekly {
+    h2, h3, ol, ul, p {
+      max-width: 44rem;
+    }
+  }
+
   h1 {
     text-align: left;
     letter-spacing: -0.01rem;
@@ -772,7 +778,7 @@ article {
 
     @media screen and (min-width: 768px) {
       font-size: 1.7em;
-      padding-top: 1.5rem;
+      padding-top: 2rem;
     }
   }
 
@@ -882,7 +888,7 @@ article {
   }
 }
 
-.videoList {
+.globaList {
   .spotlight {
     .article-card__cover {
       background-repeat: no-repeat;
