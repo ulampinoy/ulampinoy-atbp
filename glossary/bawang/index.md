@@ -6,6 +6,6 @@ tags:
   - glossary
 ---
 
-Ang bawang ay ang punganahing aromatikong sangkap sa lutong Filipino. Ito ang bida sa putaheng adobo. Bawang rin ang ang iginigisa kasama ng sibuyas bilang base sa maraming lutong ulam. Inilalagay rin ito sa suka bilang sawsawan sa mga pritong pagkain. Ang tinustang bawang ay ginagamit bilang garnisyon, halimbawa sa lugaw, ibinubudbod ito kasama ng spring onions kapag inihahain .
+Ang bawang ay ang punganahing aromatikong sangkap na ginagamit sa lutong Filipino. Ito ang bida sa putaheng adobo. Bawang rin ang ang iginigisa kasama ng sibuyas bilang base sa maraming lutong ulam. Inilalagay rin ito sa suka bilang sawsawan sa mga pritong pagkain. Ang tinustang bawang ay ginagamit bilang garnisyon, halimbawa sa lugaw, ibinubudbod ito kasama ng spring onions kapag inihahain .
 
 ![Ulo at butil ng bawang](/static/images/garlic-head.jpg?nf_resize=fit&w=960)
