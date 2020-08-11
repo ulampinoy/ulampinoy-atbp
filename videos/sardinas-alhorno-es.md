@@ -32,4 +32,4 @@ Para ideas de recetas/comentarios/sugerencias puedes [contactarnos](/about/#cont
 
 Tenemos un [canal de YouTube](https://www.youtube.com/user/ulampinoy) y una comunidad de cocina en casa! Únete con nosotros mediante [subscripción or compartiéndolo](https://www.youtube.com/user/ulampinoy) .
 
-¡Disfruta cocinando y comiendo! Muchísimas gracias... 🙏🏼
+¡Disfruta cocinando y! Maraming salamat po... 🙏🏼

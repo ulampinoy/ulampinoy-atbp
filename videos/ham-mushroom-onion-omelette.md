@@ -17,31 +17,32 @@ tags:
   - omelette
 ---
 
-In this episode, let's cook a fast easy omelette made from leftover stuff you have in your fridge. You can use bacon or Spam® as an alternative to cooked ham.
 
-## Ingredients
-- 3 fresh eggs
-- 2 slices of cooked ham
-- 1/2 cup button mushrooms
-- 1 small onion
-- olive oil
-- salt and pepper to taste
+En este episodio vamos a aprender a cocinar de manera rápida y fácil una tortilla con restos de alimentos que tenemos en la nevera. Puedes usar bacon o Spam® como alternativos de jamón.
 
-![All the ingredients for ham mushroom onion omelette recipe](/static/images/omelette-ham-mushroom-ingredients.jpg)
+## Ingredientes
+- 3 huevos 
+- 2 trozos de bacon
+- 1/2 taza de champiñones
+- 1 cebolla pequeña
+- Aceite de oliva
+- Sal y pimienta
 
-## Procedure
-1. Heat olive oil. Sauté onions, ham and mushrooms until soften. Set aside.
-![Sautéing ham mushroom onion until soften](/static/images/omelette-ham-mushroom-saute.jpg)
-2. On medium heat and a bit of oil pour in the beaten eggs to the skillet pan. Gently stir from edge to center to cook evenly.
-3. Put back on top  the sautéd ham, mushroom and onions to the center of the pan. Fold the egg both sides to wrap the filling. Flip to other side. Serve with mayo sriracha sauce. Enjoy!
+![Todos los ingredientes para tortilla de bacon y champiñón receta](/static/images/omelette-ham-mushroom-ingredients.jpg)
 
-![Ham mushroom onion omelette cross-sectioned](/static/images/omelette-ham-mushroom.jpg)
+## Procedimiento
+1. Calienta el aceite de oliva. Saltea la cebolla, bacon y champiñones hasta ablandarse. Lo dejamos a un lado.
+![Salteando bacon champiñón y cebolla hasta ablandarse](/static/images/omelette-ham-mushroom-saute.jpg)
+2. Con fuego medio y un poco de aceite Echamos los huevos batidos al sartén. Suavemente mezclamos de un punto del sartén al centro para que se cocine todas las partes iguales.
+3. Volvemos a poner el bacon salteado, champiñones y cebolla al centro del sartén. doblamos el huevo ambos lados para envolver el relleno. Lo volteamos al otro lado. Servimos con mayonesa y salsa picante sriracha. ¡Disfruten!
 
-### Endnotes
-Watch and cook-along with the [video recipe.](https://youtu.be/KKzJzkCUiNo)
+![Tortilla de bacon champiñón y cebolla muestra representativa](/static/images/omelette-ham-mushroom.jpg)
 
-For recipe ideas/comments/requests you can [reach us in the contact form](/about/#contact-us).
+### Notas finales
+Ve y cocina con nosotros con [video receta.](https://youtu.be/KKzJzkCUiNo)
 
-We have a [growing YouTube channel](https://www.youtube.com/user/ulampinoy) and a community of happy home cooks! Join us by [subscribing or sharing](https://www.youtube.com/user/ulampinoy) it.
+Para ideas de recetas/comentarios/sugerencias, puedes [contactarnos](/about/#contact-us).
 
-Happy cooking and eating! Maraming salamat po... 🙏🏼
+Tenemos [un canal de Youtube creciente](https://www.youtube.com/user/ulampinoy) ¡y una comunidad de cocina en casa! Únete con nosotros [subscridiéndoos y compartiéndolo](https://www.youtube.com/user/ulampinoy) .
+
+¡Disfruten cocinando y comiendo! Muchísimas gracias... 🙏🏼
