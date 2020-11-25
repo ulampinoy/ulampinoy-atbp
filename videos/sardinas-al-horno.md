@@ -1,6 +1,7 @@
 ---
 layout: "layouts/video.njk"
 title: Sardinas al horno
+permalink: /video/sardinas-al-horno/
 date: 2020-05-13
 description: Tired of just frying sardines? Try this fast and delicious way to cook oven-grilled sardines Spanish style.
 coverImage: /static/images/sardinas-horno-hero.jpg
