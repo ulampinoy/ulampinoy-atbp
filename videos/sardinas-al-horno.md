@@ -3,7 +3,7 @@ layout: "layouts/video.njk"
 title: Sardinas al horno
 permalink: /video/sardinas-al-horno/
 date: 2020-05-13
-description: Tired of just frying sardines? Try this fast and delicious way to cook oven-grilled sardines Spanish style.
+description: Try this fast and delicious way to cook oven-grilled sardines Spanish style.
 coverImage: /static/images/sardinas-horno-hero.jpg
 sideNote: Fresh and in-season sardines are packed with flavors and nutrients. It's a very good source of protein, omega-3 fatty acids EPA and DHA, vitamins B12 and D.
 sideImage: /static/images/fresh-sardines-basin.jpg
