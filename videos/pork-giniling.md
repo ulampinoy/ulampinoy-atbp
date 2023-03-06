@@ -1,7 +1,7 @@
 ---
 layout: "layouts/video.njk"
 title: Pork Giniling
-date: 2020-05-07
+date: 2020-05-15
 description: Easy to cook delicious pork picadillo dish using common ingredients, a favorite of kids of all ages.
 coverImage: /static/images/pork-giniling-pot-01.jpg
 sideNote: Pre-frying the vegetables then adding it afterwards makes a whole lot of difference in terms of flavor and texture.
