@@ -31,4 +31,4 @@
 # For context-specific rules, use _headers or _redirects files, which are
 # applied on a PER-DEPLOY basis.
 
-NODE_VERSION = "18.14.0"
+NODE_VERSION = "18"
