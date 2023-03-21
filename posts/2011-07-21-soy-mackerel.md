@@ -39,9 +39,9 @@ The closest fish I can get here in Madrid for this recipe is the _caballa_ or th
 5. When the marinade has been reduced, it will start to sizzle. Let it fry until the skin of the mackerel is crispy.
 
 ### Video
-Watch and cook-along with the video recipe.
+Watch and cook-along with the [video recipe](https://www.youtube.com/embed/4L4M7GxjBRw)
 
-`youtube:https://www.youtube.com/embed/4L4M7GxjBRw`
+https://www.youtube.com/embed/4L4M7GxjBRw
 
 ![Adobong galunggong](/static/images/soy-mackerel.jpg)
 

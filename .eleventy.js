@@ -2,8 +2,14 @@ const { DateTime } = require("luxon");
 const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
+const embedYouTube = require("eleventy-plugin-youtube-embed");
 
 module.exports = function (eleventyConfig) {
+  eleventyConfig.addPlugin(embedYouTube, {
+    embedClass: 'ulampinoy-youtube-video',
+    recommendSelfOnly: true
+  });
+
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)
