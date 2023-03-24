@@ -1,11 +1,11 @@
 ---
 layout: "layouts/video.njk"
 permalink: /video/sardinas-al-horno-es/
-title: Sardinas al horno
+title: Sardinas al horno (en Español)
 date: 2020-05-12
-description: Tired of just frying sardines? Try this fast and delicious way to cook oven-grilled sardines Spanish style.
-coverImage: /static/images/sardinas-horno-hero.jpg
-sideNote: Fresh and in-season sardines are packed with flavors and nutrients. It's a very good source of protein, omega-3 fatty acids EPA and DHA, vitamins B12 and D.
+description: Cansado de solo freír las sardinas? Prueba esta rápida y deliciosa manera de cocinar sardinas al horno al estilo español.
+coverImage: /static/images/sardinas-horno-tray.jpg
+sideNote: Los beneficios para la salud de las sardinas incluyen una alta concentración de omega-3 y calcio, lo que ayuda a mantener el corazón y los huesos sanos.
 sideImage: /static/images/fresh-sardines-basin.jpg
 youtube: yEL9-qqmoNE
 ctaText: Watch the video recipe
@@ -15,8 +15,6 @@ tags:
   - fish
   - sardines
 ---
-
-Cansado de solo freír las sardinas? Prueba esta rápida y deliciosa manera de cocinar sardinas al horno al estilo español.
 
 ¡En el vídeo de hoy cocinaremos sardinas frescas! El pescado es la estrella del episodio de hoy, por eso queremos destacarlo mucho usando pocos ingredientes... ¡para hacer que el sabor de pescado sea sabroso!
 
