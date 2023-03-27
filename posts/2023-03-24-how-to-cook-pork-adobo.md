@@ -19,7 +19,7 @@ Pork Adobo is a delicious and aromatic dish that truly captures the essence of t
 
 Here's a simple recipe that is easy to prepare for making Pork Adobo:
 
-Ingredients:
+### Ingredients:
 
 - 2 lbs pork belly, cut into bite-sized pieces
 - 1/2 cup soy sauce
@@ -30,7 +30,7 @@ Ingredients:
 - 2 bay leaves
 - 2 tablespoons cooking oil
 
-Instructions:
+### Instructions:
 
 1. In a large pot, heat the cooking oil over medium-high heat. Add the minced garlic and sauté until fragrant.
 

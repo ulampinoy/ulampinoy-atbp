@@ -18,12 +18,12 @@ The Filipino way of cooking rice is a simple and straightforward method that inv
 
 Here's a simple recipe for cooking rice the Filipino way:
 
-Ingredients:
+### Ingredients:
 
 - 2 cups of rice
 - 2.5 cups of water
 
-Instructions:
+### Instructions:
 
 1. Rinse the rice in cold water until the water runs clear. This helps remove excess starch and dirt from the rice.
 
