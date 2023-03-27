@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: How to Cook Rice the Filipino Way
 date: 2023-03-27
-description: The Filipino way of cooking rice is a simple and straightforward method that involves boiling rice in water until it is fully cooked. The resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals.
+description: The Filipino way of cooking rice is a simple and straightforward but the resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals.
 whetter: Rice is Life
 sideNote: Rice is believed to have been first cultivated in China around 6,000 years ago, in the Yangtze River valley. From there, rice cultivation spread to other parts of Asia, including India, Southeast Asia, and eventually the Philippines. Archaeological evidence suggests that rice was also cultivated in the Ganges River valley in India around 5,000 years ago. Over time, rice became a staple crop in many parts of Asia and has remained an important food source for millions of people around the world.
 sideImage: /static/images/rice-raw-pot.jpg
