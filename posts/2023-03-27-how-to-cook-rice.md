@@ -14,9 +14,9 @@ tags:
   - cooking
 ---
 
-The Filipino way of cooking rice is a simple and straightforward method that involves boiling rice in water until it is fully cooked. The resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals.
+The Filipino way of cooking rice is a simple and straightforward method that involves boiling rice in water until it is fully cooked. 
 
-Here's a simple recipe for cooking rice the Filipino way:
+The resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals. Here's a simple recipe for cooking rice the Filipino way:
 
 ### Ingredients:
 

@@ -4,7 +4,7 @@ title: Pork Giniling with Green Beans
 date: 2023-03-27
 description: Pork giniling is a popular Filipino dish made with ground pork, tomatoes, and a variety of vegetables, we use green beans in this episode.
 coverImage: /static/images/pork-giniling-rice.jpg
-sideNote: Green beans are rich in nutrients yet low in calories. They are a good source of fiber, vitamin C, vitamin K, vitamin A, folate, and potassium. The fiber content in French green beans may help regulate blood sugar levels, making them a good choice for people with diabetes The antioxidants in green beans, such as carotenoids and flavonoids, may help reduce the risk of chronic diseases such as heart disease and cancer.
+sideNote: Green beans are rich in nutrients yet low in calories. They are a good source of fiber, vitamin C, vitamin K, vitamin A, folate, and potassium. The fiber content in green beans may help regulate blood sugar levels, making them a good choice for people with diabetes The antioxidants in green beans, such as carotenoids and flavonoids, may help reduce the risk of chronic diseases such as heart disease and cancer.
 sideImage: /static/images/green-beans-bitsuelas.jpg
 youtube: DMkHwJU3o4g
 ctaText: Watch the cook-along video

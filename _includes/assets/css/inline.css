@@ -687,10 +687,6 @@ article ul li img {
   margin-top: 1.5rem;
 }
 
-article ol li {
-  margin-top: 1rem;
-}
-
 .text-center {
   text-align: center;
 }
@@ -773,8 +769,7 @@ article ol li {
 .article-post section ul,
 .article-post section ol {
   margin-left: 1.25rem;
-  margin-bottom: 1rem;
-  margin-top: 0.75rem;
+  margin-top: 0.25rem;
 }
 
 .article-post aside {
