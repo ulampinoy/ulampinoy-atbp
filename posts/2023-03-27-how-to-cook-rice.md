@@ -8,14 +8,14 @@ sideNote: Rice is believed to have been first cultivated in China around 6,000 y
 sideImage: /static/images/rice-raw-pot.jpg
 coverImage: /static/images/rice-tupperware.jpg
 tags:
-  - adobo
-  - recipe
-  - pork
-  - garlic
-  - vinegar
+  - rice
+  - ulam
+  - Filipino
+  - cooking
 ---
 
 The Filipino way of cooking rice is a simple and straightforward method that involves boiling rice in water until it is fully cooked. The resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals.
+
 Here's a simple recipe for cooking rice the Filipino way:
 
 Ingredients:
