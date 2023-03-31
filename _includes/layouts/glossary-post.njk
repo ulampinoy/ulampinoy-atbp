@@ -16,17 +16,6 @@ section: glossary
     <section>
       {{ layoutContent | safe }}
       <div class="article-meta">
-        {% if tags %}
-        <p class="tags">
-          {% for tag in tags %}
-          {%- if tag != "post" -%}
-          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-          {%- endif -%}
-          {% endfor %}
-        </p>
-        {% endif %}
-
         <div>
           <small>
             <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>

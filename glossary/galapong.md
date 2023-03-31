@@ -9,6 +9,6 @@ tags:
 Ang harina na gawa sa bigas, kadalasan na malagkit na bigas. Ito ang ginagamit sa maraming pampahimagas gaya ng ginatang bilo-bilo, palitaw, puto bumbong, atbp. 
 
 <figure>
-  <img src="/static/images/bilo-bilo-bowl.jpg?nf_resize=fit&w=960">
+  <img src="/static/images/bilo-bilo-bowl.jpg">
   <figcaption>Galapong ang gamit sa paggawa ng bilo-bilo</figcaption>
 </figure>

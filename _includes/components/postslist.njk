@@ -11,16 +11,6 @@
 			<div class="article-card__copy">
 				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
-				{% if post.data.tags %}
-				<p>
-					{% for tag in post.data.tags %}
-					{%- if tag != "post" -%}
-					{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-					<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-					{%- endif -%}
-					{% endfor %}
-				</p>
-				{% endif %}
 			</div>
 			</article>
 			{% endfor %}
