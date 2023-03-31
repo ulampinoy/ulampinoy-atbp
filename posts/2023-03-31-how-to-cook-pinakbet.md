@@ -39,8 +39,11 @@ Here's a recipe on how to cook Ilokano Pinakbet:
 ### Instructions:
 
 1. Heat some cooking oil in a pan over medium-high heat. Add the pork and cook until browned on all sides.
+
 2. Add the garlic, onion, and tomatoes. Cook until the onions are translucent and the tomatoes are soft.
+
 3. Add the mixed vegetables and cook for a few minutes until slightly tender.
+
 4. Pour in the water and fish sauce(bagoong). Cover and let simmer for about 10-15 minutes until the vegetables are fully cooked. Season with salt and pepper to taste.
 
 ![Pinakbet cooked in a pot](/static/images/cooking-pot-pinakbet.jpg)

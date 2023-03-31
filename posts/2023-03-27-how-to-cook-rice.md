@@ -36,4 +36,5 @@ The resulting rice is fluffy, tender, and perfect for serving as a staple in man
 Serve hot with your favorite ulam!
 
 ![Rice with Oven-cooked Sardines](/static/images/rice-and-oven-cooked-sardines-on-plate.jpg)
+
 ![Rice with Corned Beef](/static/images/homemade-corned-beef-with-rice-and-fried-egg.jpg)
