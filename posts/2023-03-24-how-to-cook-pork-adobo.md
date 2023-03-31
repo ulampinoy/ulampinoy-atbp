@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How to Cook Filipino Pork Adobo
+title: Filipino Pork Adobo
 date: 2023-03-24
 description: Filipino Pork Adobo is a savory and flavorful dish made with tender pork marinated in a soy sauce and vinegar-based sauce, with garlic, peppercorns, and bay leaves
 whetter: I ❤️ Adobo

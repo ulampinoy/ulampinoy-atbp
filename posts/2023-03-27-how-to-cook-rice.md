@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How to Cook Rice the Filipino Way
+title: Cooking Rice the Filipino Way
 date: 2023-03-27
 description: The Filipino way of cooking rice is a simple and straightforward but the resulting rice is fluffy, tender, and perfect for serving as a staple in many Filipino meals.
 whetter: Rice is Life
