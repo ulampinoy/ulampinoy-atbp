@@ -1,6 +1,6 @@
 <div class="layout-wrapper">
 
-<h1>Tagged <em class="highlight__stabilo">“{{ tag }}”</em></h1>
+<h1>Tagged with <em class="highlight__stabilo">“{{ tag }}”</em></h1>
 <div class="Cols Cols--half grid-gap__normal">
 	{% for post in postslist | reverse %}
 		<article{% if post.url == url %} data-current="current item"{% endif %} class="article-card">
@@ -12,16 +12,6 @@
             <div class="article-card__copy">
 				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
 				<p>{{ post.data.description }}</p>
-				{% if post.data.tags %}
-					<p>
-						{% for tag in post.data.tags %}
-						{%- if tag != "post" -%}
-							{% set tagUrl %}/tags/{{ tag }}/{% endset %}
-						<a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-						{%- endif -%}
-						{% endfor %}
-					</p>
-				{% endif %}
 			</div>
 		</article>
 	{% endfor %}
