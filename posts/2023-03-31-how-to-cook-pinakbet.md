@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Pinakbet Iloko
 date: 2023-03-31
 description: Pinakbet is a tradional vegetable stew that originated from the Ilocos region made with a variety of local vegetables such as eggplant, bitter melon, squash, and okra, along with some pork or shrimp, and flavored with bagoong
-whetter: Mangan tayon!
+whetter: Mangan tayon, kakabsat!
 sideNote: Ampalaya, also known as bitter melon or bitter gourd, is a vegetable that is a good source of vitamins and minerals, including vitamin C, potassium, and iron. It has a bitter taste due to the presence of a compound called momordicin, which is also responsible for its medicinal properties.
 sideImage: /static/images/ampalaya-vine-fruit.jpg
 coverImage: /static/images/pinakbet-wok.jpg
@@ -16,11 +16,11 @@ tags:
   - cooking
 ---
 
-Pinakbet is a traditional Filipino dish that originated from the Ilocos region in the northern part of the Philippines. It is a vegetable stew that is made with a variety of local vegetables such as eggplant, bitter melon, squash, and okra, along with some pork or shrimp, and flavored with fish sauce. The dish is popular among Filipino households as a healthy and nutritious meal. 
+Pinakbet is a traditional Filipino dish that originated from the Ilocos region in the northern part of the Philippines. It is a vegetable stew that is made with a variety of local vegetables such as bitter melon, eggplant, squash, string beans and okra, along with some pork or shrimp, and flavored with fish sauce. The dish is popular among Filipino households as a healthy and nutritious meal. 
 
 Pinakbet is also considered as a cultural symbol of the Ilocano people and their way of life, showcasing their love for locally grown produce and their resourcefulness in making use of what's available in their environment.
 
-Here's a recipe on how to cook Ilocano Pinakbet:
+Here's a recipe on how to cook Ilokano Pinakbet:
 
 ### Ingredients:
 
@@ -28,9 +28,9 @@ Here's a recipe on how to cook Ilocano Pinakbet:
 - 3 cloves garlic, minced
 - 1 onion, chopped
 - 2 ripe tomatoes, chopped
-- 3-4 cups mixed vegetables (e.g. bitter melon(ampalaya),eggplant,squash, okra, green peppers)
+- 3-4 cups mixed vegetables (e.g. bitter melon (ampalaya),eggplant,squash, okra, string beans, green peppers)
 - 1 cup water
-- 2 tbsp fermented fish sauce(bagoong)
+- 2 tbsp fermented fish sauce (bagoong)
 - salt and pepper to taste
 - cooking oil
 
@@ -45,8 +45,8 @@ Here's a recipe on how to cook Ilocano Pinakbet:
 
 ![Pinakbet cooked in a pot](/static/images/cooking-pot-pinakbet.jpg)
 
-That's it! Enjoy your delicious Ilocano pinakbet. Don't be afraid to experiment with different vegetable combinations to find your perfect flavor.
+That's it! Enjoy your delicious Ilokano pinakbet. Don't be afraid to experiment with different vegetable combinations to find your perfect flavor.
 
 ![Pinakbet served in a bowl](/static/images/pinakbet-served-bowl.jpg)
 
-Serve the Pinakbet hot with steamed rice. Mangan tayon kabagis!
+Serve the Pinakbet with hot steamed rice and even better with some fried or grilled fish. *Mangan tayon, kabagis!*
