@@ -13,7 +13,7 @@ tags:
   - Filipino
   - beef
   - vegetable
-  - recipe
+  - poem
 ---
 This is poem is dedicated to the Filipino diaspora...
 
