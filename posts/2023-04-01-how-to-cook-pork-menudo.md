@@ -1,11 +1,11 @@
 ---
 templateKey: blog-post
 title: Pork Menudo
-date: 2023-03-31
+date: 2023-04-01
 description: Pork Menudo is a hearty and flavorful dish that is enjoyed throughout the Philippines. It is often served at special occasions and is a staple on many Filipino family tables
 whetter: Menudo
-sideNote: The potato is a starchy root vegetable that is native to the Andes Mountains of South America. It was first cultivated by indigenous peoples in the region over 7,000 years ago and was an important food source for their societies.
-sideImage: /static/images/frying-potato-cubes.jpg
+sideNote: Casquería is a term used in Spanish cuisine to describe a variety of organ meats that are typically eaten as a delicacy or specialty food. These meats can include things like liver, tripe, beef tongue, kidneys, brain, and other offal. In Spain, it is a specialized store selling just these.
+sideImage: /static/images/casqueria-meatshop.jpg
 coverImage: /static/images/pork-menudo-dish.jpg
 tags:
   - rice
@@ -53,4 +53,6 @@ Here's a recipe for cooking Filipino style Pork Menudo:
 
 7. Season with soy sauce, salt, and pepper to taste.
 
-Serve hot with steamed rice or with *pandesal*. Enjoy your delicious Filipino style Pork Menudo!
+Serve hot with rice or with *pandesal*. Enjoy your delicious Filipino style Pork Menudo!
+
+![Pork menudo with rice](/static/images/menudo-plate.jpg)

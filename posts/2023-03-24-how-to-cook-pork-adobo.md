@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Filipino Pork Adobo
 date: 2023-03-24
-description: Filipino Pork Adobo is a savory and flavorful dish made with tender pork marinated in a soy sauce and vinegar-based sauce, with garlic, peppercorns, and bay leaves
+description: Filipino Pork Adobo is a savory and flavorful dish made with tender pork marinatedand cooked in a soy sauce and vinegar-based sauce, and lots of garlic...
 whetter: I ❤️ Adobo
 sideNote: Garlic is widely regarded as a superfood due to its impressive nutrient profile and numerous health benefits. Packed with vitamin C, vitamin B6, and manganese, as well as trace amounts of other minerals like calcium and potassium, garlic is a highly nutritious food. It also contains sulfur compounds, which have been linked to various health benefits such as reducing inflammation, lowering blood pressure, and improving heart health. In addition, some studies suggest that garlic may have anti-cancer properties and can boost the immune system. All of these factors make garlic a highly beneficial addition to a healthy diet.
 sideImage: /static/images/garlic-basket.jpg

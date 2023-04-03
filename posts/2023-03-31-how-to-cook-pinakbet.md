@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Pinakbet Iloko
 date: 2023-03-31
-description: Pinakbet is a tradional vegetable stew that originated from the Ilocos region made with a variety of local vegetables such as eggplant, bitter melon, squash, and okra, along with some pork or shrimp, and flavored with bagoong
+description: Pinakbet is a tradional vegetable stew originated from the Ilocos region made with a variety of local vegetables such as bitter melon or ampalaya, along with some pork or shrimp, and flavored with bagoong
 whetter: Mangan tayon, kakabsat!
 sideNote: Ampalaya, also known as bitter melon or bitter gourd, is a vegetable that is a good source of vitamins and minerals, including vitamin C, potassium, and iron. It has a bitter taste due to the presence of a compound called momordicin, which is also responsible for its medicinal properties.
 sideImage: /static/images/ampalaya-vine-fruit.jpg
