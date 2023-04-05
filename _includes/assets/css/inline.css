@@ -810,7 +810,12 @@ article ul li img {
 }
 
 .article-post aside .aside-wrapper img {
-  margin-bottom: 2rem;
+  margin-bottom: 0;
+}
+
+aside .figcaption {
+  font-family: var(--bodyFont), sans-serif;
+  color: #303030;
 }
 
 .article-post aside h4 {
@@ -828,8 +833,16 @@ article ul li img {
 }
 
 .article-post aside p {
-  font-size: 0.85rem;
+  font-size: 0.88rem;
+  color: #404040;
 }
+
+.article-post aside figcaption p {
+  font-family: var(--bodyFont), sans-serif;
+  font-size: 0.75rem;
+  color: #606060;
+}
+
 
 .article-post .tags {
   -ms-grid-column: 1;

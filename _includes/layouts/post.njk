@@ -5,7 +5,7 @@ section: page
 
 <article class="article-post">
   <div class="billboard">
-    <img src="{{ coverImage }}?nf_resize=fit&w=1200" />
+    <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
   </div>
   <div class="article-post-wrapper grid">
     <header>
@@ -18,29 +18,39 @@ section: page
     <aside>
       <div class="aside-wrapper">
         {% if sideNote %}
-        <div class="liner"></div>
+          <div class="liner"></div>
           <h4>Did You Know?</h4>
           <p>
             {{ sideNote }}
           </p>
-          {% if sideImage %}
-          <img src="{{ sideImage }}?nf_resize=fit&w=600" />
-          {% endif %}
         {% endif %}
+        {% if sideImage %}
+          <figure>
+            <img src="{{ sideImage }}?nf_resize=fit&w=600"/>
+            {% if sideImageCaption %}
+              <figcaption class="figcaption">
+                <p class="side-image-caption">
+                  {{ sideImageCaption }}
+                </p>
+              </figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+
       </div>
     </aside>
 
     <div class="article-meta">
       {% if tags %}
-      <div class="liner"></div>
-      <p class="tags">
-        {% for tag in tags %}
-        {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-        {%- endif -%}
-        {% endfor %}
-      </p>
+        <div class="liner"></div>
+        <p class="tags">
+          {% for tag in tags %}
+            {%- if tag != "post" -%}
+              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+              <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+            {%- endif -%}
+          {% endfor %}
+        </p>
       {% endif %}
 
       <p class="goto">
