@@ -58,4 +58,24 @@ section: page
       </p>
     </div>
   </div>
+
+  <section class="related-articles">
+    <h2>Related Materials</h2>
+    <div class="Cols Cols--half grid-gap__normal">
+      {% for post in collections.posts | filterRelated(related) %}
+        <a class="article-card" href="/{{ post.data.page.fileSlug }}" title="{{ post.data.title }}">
+          <div class="article-card__cover">
+            {% if post.data.coverImage %}
+              <img class="cover-image" src="{{ post.data.coverImage }}" alt=""/>
+            {% else %}
+              <div class="placeholder"></div>
+            {% endif %}
+          </div>
+          <div class="article-card__copy">
+            <h3>{{ post.data.title }}</h3>
+          </div>
+        </a>
+      {% endfor %}
+    </div>
+  </section>
 </article>

@@ -13,6 +13,8 @@ tags:
   - pork
   - garlic
   - vinegar
+related: 
+  - beef-tapa
 ---
 
 Pork Adobo is a delicious and aromatic dish that truly captures the essence of traditional Filipino food. It features tender and juicy pork that has been marinated in a flavorful sauce made with soy sauce, vinegar, garlic, and other spices. The dish is also typically cooked with bay leaves, which adds a subtle earthy flavor to the dish. The result is a mouthwatering and savory pork dish that is typically served over a bed of steaming white rice. 

@@ -10,6 +10,11 @@ module.exports = function (eleventyConfig) {
     recommendSelfOnly: true
   });
 
+  eleventyConfig.addFilter('filterRelated', (collection = [], related = []) => {
+    const filtered = collection.filter(page => related.includes(page.fileSlug));
+    return filtered.sort( (a, b) => related.indexOf(a.fileSlug) - related.indexOf(b.fileSlug));
+  });
+  
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
   // Date formatting (human readable)

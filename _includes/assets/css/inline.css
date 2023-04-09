@@ -754,6 +754,9 @@ article ul li img {
   .article-post section {
     padding: 0 2rem;
   }
+  .article-post section.related-articles {
+    padding: 0 3rem 2rem;
+  }
 }
 
 @media screen and (min-width: 960px) {
@@ -1341,4 +1344,14 @@ aside .figcaption {
 
 .ulampinoy-youtube-video {
   margin: 2rem 0;
+}
+
+.article-post .related-articles h2 {
+  text-align: center;
+}
+
+.article-post .related-articles h3 {
+  padding: 0;
+  text-transform: unset;
+  font-weight: 500;
 }
