@@ -13,6 +13,9 @@ tags:
   - Filipino
   - pork
   - recipe
+related:
+  - how-to-cook-pork-adobo
+  - crock-pot-lechon-manok
 ---
 
 Pork Menudo is a popular Filipino dish that is typically made with pork meat, liver, potatoes, carrots, and bell peppers in a tomato-based sauce. It is often served as a main course for lunch or dinner and is commonly enjoyed with steamed rice.
