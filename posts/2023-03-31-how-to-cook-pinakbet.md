@@ -14,6 +14,9 @@ tags:
   - Ilocano
   - vegetable
   - cooking
+related:
+  - ginisang-upo
+  - inihaw-dorada-chorizo-criollo
 ---
 
 Pinakbet is a traditional Filipino dish that originated from the Ilocos region in the northern part of the Philippines. It is a vegetable stew that is made with a variety of local vegetables such as bitter melon, eggplant, squash, string beans and okra, along with some pork or shrimp, and flavored with fish sauce. The dish is popular among Filipino households as a healthy and nutritious meal. 

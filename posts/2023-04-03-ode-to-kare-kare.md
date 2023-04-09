@@ -14,6 +14,9 @@ tags:
   - beef
   - vegetable
   - poem
+related:
+  - monggolian-beef-lumpia
+  - bopis
 ---
 This is poem is dedicated to the Filipino diaspora...
 

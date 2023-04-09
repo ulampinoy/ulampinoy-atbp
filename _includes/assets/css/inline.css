@@ -1348,6 +1348,7 @@ aside .figcaption {
 
 .article-post .related-articles h2 {
   text-align: center;
+  padding-top: .5rem;
 }
 
 .article-post .related-articles h3 {
