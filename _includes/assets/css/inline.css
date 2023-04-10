@@ -59,13 +59,13 @@ code {
 
 a[href],
 a[href]:visited {
-  color: var(--itim);
+  color: var(--pula);
   font-weight: 500;
 }
 
 a[href]:hover {
   color: var(--pula);
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a[href]:not(:hover) {
@@ -186,6 +186,17 @@ header nav li a[href] {
   letter-spacing: 0.05rem;
   text-decoration: none;
   padding-bottom: 0.2rem;
+}
+
+header nav li a[href],
+header nav li a[href]:visited {
+  color: var(--itim);
+  text-decoration: none;
+}
+
+header nav li a[href]:hover {
+  color: var(--pula);
+  text-decoration: none;
 }
 
 header nav li a[href]:not(:hover) {
