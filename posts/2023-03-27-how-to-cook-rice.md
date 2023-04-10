@@ -12,6 +12,9 @@ tags:
   - ulam
   - Filipino
   - cooking
+related:
+  - filipino-pork-adobo
+  - bopis
 ---
 
 The Filipino way of cooking rice is a simple and straightforward method that involves boiling rice in water until it is fully cooked. 

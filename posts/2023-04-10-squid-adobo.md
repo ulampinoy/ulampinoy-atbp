@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Squid Adobo
-date: 2023-04-10
+date: 2023-04-10T00:40:10Z
 description: Savory, tangy, and slightly sweet flavor, and the squid becomes tender and flavorful from the long simmering time in the sauce.
 whetter: Spooky Adobo
 sideNote: One interesting fact about squid ink in cooking is that it is often used as a natural food coloring. Its deep, black color is perfect for creating visually stunning dishes, and it can be used to add a dramatic flair to a range of dishes. Additionally, squid ink is also rich in nutrients, including protein, iron, and antioxidants, making it a healthy and flavorful addition to any meal.

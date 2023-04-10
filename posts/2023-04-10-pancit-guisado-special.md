@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Pancit Guisado Espesyal
-date: 2023-04-10
+date: 2023-04-10T11:30:10Z
 description: Stir-fried noodle dish that's all about the balance of textures and flavors, with each ingredient bringing something special to the table.
 whetter: Noodle Duo = Bihon + Canton
 sideNote: Pancit bihon noodles are made from rice flour, which gives them a distinct flavor and texture. Unlike other types of noodles, such as wheat or egg noodles, pancit bihon noodles are gluten-free, making them a popular choice for those with gluten allergies or sensitivities. Bihon noodles are thin and delicate, which makes them easy to cook and adds a delicate texture to the dish. When cooked properly, they have a slightly chewy texture that pairs well with the other ingredients in the dish.
