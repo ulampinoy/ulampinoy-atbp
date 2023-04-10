@@ -851,6 +851,10 @@ aside .figcaption {
   color: #404040;
 }
 
+.article-post aside figure {
+  margin-top: 0;
+}
+
 .article-post aside figcaption p {
   font-family: var(--bodyFont), sans-serif;
   font-size: 0.75rem;

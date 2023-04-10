@@ -61,7 +61,7 @@ section: page
 
   {% if related %}
     <section class="related-articles">
-      <h2>Related Materials</h2>
+      <h2>Related Articles</h2>
       <div class="Cols Cols--half grid-gap__normal">
         {% for post in collections.posts | filterRelated(related) %}
           <a class="article-card" href="{{ post.url | url }}" title="{{ post.data.title }}">

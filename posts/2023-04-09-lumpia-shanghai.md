@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Lumpiang Shanghai
 date: 2023-04-09
-description: Lumpiang Shanghai is a popular Filipino appetizer that is typically served during special occasions, parties, or family gatherings.
+description: Most popular Filipino appetizer that is typically served during special occasions, parties, or family gatherings.
 whetter: Meaty Lumpia
 sideNote: Loempia is a Dutch word that refers to the Indonesian-style spring rolls that are popular in the Netherlands. The word "loempia" is derived from the Indonesian word "lumpia," which is also used to describe the same dish in Indonesia. 
 coverImage: /static/images/lumpiang-shanghai.jpg

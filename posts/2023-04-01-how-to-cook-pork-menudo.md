@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Pork Menudo
 date: 2023-04-01
-description: Pork Menudo is a hearty and flavorful dish that is enjoyed throughout the Philippines. It is often served at special occasions and is a staple on many Filipino family tables
+description: Hearty and flavorful pork dish that is enjoyed throughout the Philippines. It is often served at special occasions and is a staple on many Filipino family tables.
 whetter: Menudo
 sideNote: Casquería is a term used in Spanish cuisine to describe a variety of organ meats that are typically eaten as a delicacy or specialty food. These meats can include things like liver, tripe, beef tongue, kidneys, brain, and other offal. In Spain, it is a specialized store selling just these.
 sideImage: /static/images/casqueria-meatshop.jpg
