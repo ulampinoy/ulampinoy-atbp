@@ -10,7 +10,6 @@ tags:
   - video  
   - beef
 ---
-
 Beef caldereta is one those dishes that you eagerly expect in special ocassion meal (handaan). It's a bit elaborate to prepare compare to the ubiquitous Adobo. You put in hard work and patience and deliciousness is guaranteed!
 
 ### INGREDIENTS:
