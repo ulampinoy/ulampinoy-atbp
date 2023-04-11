@@ -59,4 +59,4 @@ Serve hot with steamed rice and enjoy the delicious taste of the sea!
 
 ![Tulya Tinola served hot in a bowl](/static/images/tulya-tinola-bowl.jpg)
 
-Remember, the key to a successful Tinolang Tulya is using fresh ingredients. Happy cooking!
+Remember, the key to a delicious Tinolang Tulya is using fresh ingredients. Happy cooking!
