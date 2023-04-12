@@ -10,6 +10,9 @@ coverImage: /static/images/upo-ginisa.jpg
 tags:
   - gulay
   - recipe
+related:
+  - beef-tapa
+  - ode-to-kare-kare
 ---
 
 Ang **po at opo** ay ang mga salitang ginagamit bilang pagpapakita ng paggalang. Tinuturuan at naasahan sa mga bata na makipag-usap sa mga nakatatanda gamit ang mga po at opo. Kapag ang isang bata ay hindi nangungupo, isang pabirong pamuna at paalala ang sinasabi: "Kumain ka ng upo!" Sa isip ng isang paslit, parang bang may taglay ang upo na sekretong sangkap na gagawin silang magalang.
