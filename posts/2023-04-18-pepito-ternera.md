@@ -11,6 +11,7 @@ sideImageCaption: A good amount of marbling, which makes it juicy and tender whe
 related: 
   - churros-chocolate
   - beef-tapa
+  - burger-steak
 tags:
   - sandwich
   - beef

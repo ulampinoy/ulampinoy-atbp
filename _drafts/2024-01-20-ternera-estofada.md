@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: Chicken Adobo
-date: 2023-04-11
-description: The combination of chicken, soy sauce, vinegar, garlic, and fried potato chunks creates a bold and savory taste that is hard to resist.
-whetter: Adobo-rable Chicken
+date: 2024-01-20
+description: Napakalinamnam ng esfalda ng baka na dandahang pinalambot at tinimplahan ng sarsa at sangkap
+whetter: Mechado ng Espanya
 sideNote: Soy sauce was introduced to the Philippines by Chinese traders during the country's pre-colonial era, which dates back to the 10th century. Over time, the use of soy sauce in Filipino cooking evolved and became an integral part of dishes like Adobo, where it adds flavor, richness, and depth to the dish. Soy sauce savory and umami taste complements the sourness of the vinegar, creating a unique and satisfying flavor profile that is distinct to Adobo.
 coverImage: /static/images/chicken-adobo-potato-pot.jpg
 sideImage: /static/images/soy-sauce-tablespoon.jpg

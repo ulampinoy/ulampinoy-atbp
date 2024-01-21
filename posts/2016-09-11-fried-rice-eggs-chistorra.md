@@ -7,7 +7,7 @@ whetter: Almusal ng mga Kampeon
 coverImage: /static/images/soy-fried-rice.jpg
 tags:
   - breakfast
-  - fried rice
+  - rice
   - eggs
 ---
 

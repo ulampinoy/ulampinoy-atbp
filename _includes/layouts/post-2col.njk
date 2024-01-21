@@ -1,0 +1,89 @@
+---
+layout: layouts/base.njk
+section: page
+---
+
+<article class="article-post">
+
+  <div class="article-post-wrapper grid">
+    <div class="mainContent">
+    <div class="billboard">
+      <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
+    </div>
+    <header>
+      <h1>{{ title }}</h1>
+    </header>
+    <section>
+      {{ layoutContent | safe }}
+    </section>
+
+    <div class="article-meta">
+      {% if tags %}
+        <div class="liner"></div>
+        <p class="tags">
+          {% for tag in tags %}
+            {%- if tag != "post" -%}
+              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+              <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+            {%- endif -%}
+          {% endfor %}
+        </p>
+      {% endif %}
+
+      <p class="goto">
+        <a href="{{ '/blog/' | url }}">← Back to All Blog Posts</a>
+      </p>
+    </div>
+  </div>
+
+<aside>
+      <div class="aside-wrapper">
+        {% if sideNote %}
+          <div class="liner"></div>
+          <h4>Did You Know?</h4>
+          <p>
+            {{ sideNote }}
+          </p>
+        {% endif %}
+        {% if sideImage %}
+          <figure>
+            <img src="{{ sideImage }}?nf_resize=fit&w=600"/>
+            {% if sideImageCaption %}
+              <figcaption class="figcaption">
+                <p class="side-image-caption">
+                  {{ sideImageCaption }}
+                </p>
+              </figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+
+      </div>
+    </aside>
+
+      </div>
+</article>
+
+<div class="article-post-wrapper">
+  {% if related %}
+    <section class="related-articles">
+      <h2>You May ALso Like</h2>
+      <div class="Cols Cols--one-third grid-gap__normal">
+        {% for post in collections.posts | filterRelated(related) %}
+          <a class="article-card" href="{{ post.url | url }}" title="{{ post.data.title }}">
+            <div class="article-card__cover">
+              {% if post.data.coverImage %}
+                <img class="cover-image" src="{{ post.data.coverImage }}" alt=""/>
+              {% else %}
+                <div class="placeholder"></div>
+              {% endif %}
+            </div>
+            <div class="article-card__copy">
+              <h3>{{ post.data.title }}</h3>
+            </div>
+          </a>
+        {% endfor %}
+      </div>
+    </section>
+  {% endif %}
+  </div>
