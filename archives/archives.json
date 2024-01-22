@@ -1,4 +1,4 @@
 {
-  "layout": "layouts/archive-post.njk",
-  "permalink": "{{ section }}/{{ title | slug }}/index.html"
+  "layout": "layouts/post-2col.njk",
+  "permalink": "archive/{{ title | slug }}/index.html"
 }
