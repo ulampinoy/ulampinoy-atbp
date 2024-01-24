@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Chicken Adobo
+title: Ternera Estofada
 date: 2024-01-20
 description: Napakalinamnam ng esfalda ng baka na dandahang pinalambot at tinimplahan ng sarsa at sangkap
 whetter: Mechado ng Espanya
