@@ -9,9 +9,9 @@ coverImage: /static/images/pinakbet-wok-table.jpg
 sideImage: /static/images/ampalaya-market.jpg
 sideImageCaption: Ampalaya are very nutritious 
 related: 
-  - churros-chocolate
+  - soy-mackerel
   - squid-adobo
-  - filipino-pork-adobo
+  - how-to-cook-pork-adobo
 tags:
   - vegetable
   - ampalaya
