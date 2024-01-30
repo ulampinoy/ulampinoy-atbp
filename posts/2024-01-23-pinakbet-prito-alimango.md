@@ -58,7 +58,7 @@ Enjoy Pinakbet with your favorite fried fish, steamed crab or crispy pork belly!
 
 ![Pinakbet served with rice and fried fish](/static/images/pinakbet-plate.jpg)
 
-Try it today or if you have your own family version of Pinakbet, please share it to us in [Instagram](https://www.instagram.com/ulampinoy/) and tag us [@ulampinoy](https://www.instagram.com/ulampinoy/) so we can feature your version of Pinakbet it in Ulam Pinoy 😉
+Try it today or if you have your own family version of Pinakbet, please share it to us in [Instagram](https://www.instagram.com/ulampinoy/) and tag us [@ulampinoy](https://www.instagram.com/ulampinoy/) so we can feature your version of Pinakbet in Ulam Pinoy 😉
 
 Have a great week ahead, and like they would invite you in Iloko: ***"Mangantayon gagayyem!"***
 

@@ -742,6 +742,10 @@ article ul li img {
   padding: 1rem 1rem 0;
 }
 
+section.related-articles {
+  padding: 0 1rem 2rem;
+}
+
 @media screen and (min-width: 768px) {
   .article-post header {
     padding: 0 2rem;
@@ -762,11 +766,8 @@ article ul li img {
 }
 
 @media screen and (min-width: 768px) {
-  .article-post section {
+  section {
     padding: 0 2rem;
-  }
-  .article-post section.related-articles {
-    padding: 0 3rem 2rem;
   }
 }
 
