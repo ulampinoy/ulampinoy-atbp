@@ -6,8 +6,8 @@ description: Refreshingly comforting fish dish that satisfies and nourishes your
 whetter: Delicious Acidity
 sideNote: Fish is a very good source of protein without the excess baggage of other animal meat protein
 coverImage: /static/images/fish-sinigang-bowl.jpg
-sideImage: /static/images/ampalaya-market.jpg
-sideImageCaption: Ampalaya are very nutritious 
+sideImage: /static/images/fish-grocery.jpg
+sideImageCaption: Fish is a must have to your weekly protein intake 
 related: 
   - tinola-tulya
   - squid-adobo
