@@ -18,7 +18,7 @@ tags:
   - sinigang
 ---
 
-Fish Sinigang are one of the dish you look forward to when you have too much meat or too much vegetable lately. It is a perfect dish when you want to eat healthier. 
+Fish Sinigang is one of the dish you look forward to when you have too much land animmal meat or too much vegetable lately. It is a perfect dish when you want to eat healthier. Fish smell is something acquired like liking a perfume, or liking the smell of cheese or patis that you can't resist yet for the others is something to avoid at all cost.
 
 Sinigang is the most intuitive way of cooking seafoods, fish included. Like many seafoods dishes where there is the recurring aspect of acidity, like lemon, to bring out the flavors of the sea and tame these strong flavors. Acidity is a default to Sinigang, removed the sour factor and you will have **Nilaga** – another comforting Filipino dish. That's a topic for another article...
 
@@ -43,6 +43,7 @@ Let's cook our Ulam Pinoy version of Fish Sinigang...
 - Garlic
 - Long green chilis (siling haba)
 - Patis (fermented fish sauce)
+- Water or even better ***hugas bigas***
 
 ![Sinigang base ingredients in a pot](/static/images/sinigang-base-pot.jpg)
 
