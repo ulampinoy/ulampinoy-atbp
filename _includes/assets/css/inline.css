@@ -459,7 +459,12 @@ time {
 @media screen and (min-width: 768px) {
   .grid .section-Blog .blogGrid {
     -ms-grid-columns: 1fr 1fr;
-        grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    padding: 2rem 2rem 0;
+  }
+  .grid .section-Blog .blogGrid.latest {
+    -ms-grid-columns: 2fr 1fr;
+    grid-template-columns: 2fr 1fr;
     padding: 2rem 2rem 0;
   }
 }

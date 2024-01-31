@@ -5,9 +5,9 @@ section: home
 
 <div class="grid grid-Home">
 	<section class="section-Blog">
-		<div class="Cols blogGrid">
+				<div class="Cols blogGrid latest">
 			{% set postlist = collections.posts | reverse %}
-			{% for post in postlist.slice(0, 6) %}
+			{% for post in postlist.slice(0, 2) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 				<div class="article-card__cover">
 					<a href="
@@ -34,10 +34,42 @@ section: home
 					</h3>
 					<p>{{ post.data.description }}</p>
 				</div>
-				</article>
-				{% endfor %}
-				<p><a href="/blog/">See more Blog &rArr;</a>
-				</p>
+			</article>
+			{% endfor %}
+		</div>
+		<div class="Cols blogGrid">
+			{% set postlist = collections.posts | reverse %}
+			{% for post in postlist.slice(2, 8) %}
+			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+				<div class="article-card__cover">
+					<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">
+						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
+					</a>
+				</div>
+				<div class="article-card__copy">
+					<span class="whetter">{{ post.data.whetter }}</span>
+					<h3>
+						<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">{{ post.data.title }}
+						</a>
+					</h3>
+					<p>{{ post.data.description }}</p>
+				</div>
+			</article>
+			{% endfor %}
+			<p><a href="/blog/">See more Blog &rArr;</a>
+			</p>
 		</div>
 	</section>
 
@@ -45,7 +77,7 @@ section: home
 		<h2>📽️ Cook-along Video Recipes</h2>
 		<div class="Cols videosGrid">
 			{% set videolist = collections.video | reverse %}
-			{% for post in videolist.slice(1, 7) %}
+			{% for post in videolist.slice(0, 6) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 				<div class="article-card__cover">
 					<a href="{{ post.url | url }}">
