@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fish Sinigang
 date: 2024-01-25
-description: Refreshingly comforting fish dish that satisfies and nourishes your spirit
+description: Refreshingly comforting fish dish that satisfies, livens and nourishes your spirit
 whetter: Delicious Acidity
 sideNote: Fish is a very good source of protein without the excess baggage of other animal meat protein
 coverImage: /static/images/fish-sinigang-bowl.jpg
@@ -34,9 +34,9 @@ Let's cook our Ulam Pinoy version of Fish Sinigang...
 
 - Fish (we use Corvina [Meagre] )
 - Sinigang Instant Powder Mix
-- String beans
 - Okra
 - Raddish
+- Spinach
 - Tomatoes
 - Ginger
 - Onion
@@ -51,9 +51,9 @@ Let's cook our Ulam Pinoy version of Fish Sinigang...
 
 1. In a pot, add water, ginger, onion, garlic, green onions, green chilis, tomatoes and patis. Bring to a boil.
 
-2. Add the vegetables: radish, okra and string beans. Cover and cook the vegetable half way through.
+2. Add the vegetables: radish and okra. Cover and cook the vegetable half way through.
 
-3. Add the Sinigang Powder Mix, season to taste and put in the fish cuts. Put the pot lid back and simmer for 8-10 minutes. Ready to serve!
+3. Add the Sinigang Powder Mix, season to taste and put in the fish cuts. Put the pot lid back and simmer for 8 minutes. Add the spinach leaves and cook for anoher 2 minutes. Ready to serve!
 
 ![Sinigang na Isda served in a serving dish](/static/images/sinigang-served.jpg)
 
