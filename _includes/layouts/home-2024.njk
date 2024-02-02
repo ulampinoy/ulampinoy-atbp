@@ -6,7 +6,7 @@ section: home
 <div class="grid grid-Home">
 	<section class="section-Blog">
 				<div class="Cols blogGrid latest">
-			{% set postlist = collections.all | reverse %}
+			{% set postlist = collections.post | reverse %}
 			{% for post in postlist.slice(0, 2) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 				<div class="article-card__cover">
@@ -17,7 +17,7 @@ section: home
 						{{ post.url }}
 						{% endif %}
 						">
-						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
+						<img class="cover-image" src="{{ post.data.coverImage }}" />
 					</a>
 				</div>
 				<div class="article-card__copy">
@@ -49,7 +49,7 @@ section: home
 						{{ post.url }}
 						{% endif %}
 						">
-						<img class="cover-image" src="{{ post.data.coverImage }}?nf_resize=fit&h=255" />
+						<img class="cover-image" src="{{ post.data.coverImage }}" />
 					</a>
 				</div>
 				<div class="article-card__copy">
