@@ -6,7 +6,7 @@ section: home
 <div class="grid grid-Home">
 	<section class="section-Blog">
 				<div class="Cols blogGrid latest">
-			{% set postlist = collections.posts | reverse %}
+			{% set postlist = collections.all | reverse %}
 			{% for post in postlist.slice(0, 2) %}
 			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
 				<div class="article-card__cover">

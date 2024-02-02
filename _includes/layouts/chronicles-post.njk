@@ -1,13 +1,15 @@
 ---
 layout: layouts/base.njk
-section: page
+section: chronicles
 ---
 
 <article class="article-post">
 
   <div class="article-post-wrapper grid">
     <div class="mainContent">
-
+    <div class="billboard">
+      <img src="{{ coverImage }}?nf_resize=fit&w=1200"/>
+    </div>
     <header>
       <h1>{{ title }}</h1>
     </header>
@@ -65,7 +67,7 @@ section: page
 <div class="article-post-wrapper">
   {% if related %}
     <section class="related-articles">
-      <h2>You May ALso Like</h2>
+      <h2>You May Also Like</h2>
       <div class="Cols Cols--one-third grid-gap__normal">
         {% for post in collections.posts | filterRelated(related) %}
           <a class="article-card" href="{{ post.url | url }}" title="{{ post.data.title }}">

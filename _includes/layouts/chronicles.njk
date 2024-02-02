@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+section: chronicles
+permalink: /chronicles/index.html
+---
+
+{{ layoutContent | safe }}
+
+{% set postslist = collections.chronicles %}
+{% include "components/chronicleslist.njk" %}
+
+

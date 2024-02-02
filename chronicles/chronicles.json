@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/chronicles-post.njk",
+  "permalink": "{{ section }}/{{ title | slugify }}/index.html",
+  "tags": "chronicle"
+}

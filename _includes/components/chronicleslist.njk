@@ -1,0 +1,21 @@
+<div class="videoList layout-wrapper">
+	<h1>{{ title }}</h1>
+
+	<div class="Cols Cols--half grid-gap__normal">
+		{% set chroniclelist = collections.chronicle | reverse %}
+		{% for post in chroniclelist %}
+
+		<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+			<div class="article-card__cover">
+				<a href="{{ post.url | url }}">
+					<img src="{{ post.data.coverImage }}" />
+				</a>
+			</div>
+			<div class="article-card__copy">
+				<h3><a href="{{ post.url | url }}">{{ post.data.title }}</a></h3>
+				<p>{{ post.data.description }}</p>
+			</div>
+			</article>
+			{% endfor %}
+	</div>
+</div>
