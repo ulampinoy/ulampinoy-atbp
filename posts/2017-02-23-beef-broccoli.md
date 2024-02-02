@@ -7,7 +7,7 @@ date: 2024-02-02
 description: Featuring beef and broccoli; chicken broth soup with bolied eggs; crispy fried mackerel; fresh coffee; Döner kebab and snow mountain trail in Madrid, Spain.
 whetter: Blast from the Past
 sideNote: A common sight around Madrid during the winter are some season-confused trees in full spring bloom
-coverImage: /static/images/beef-broccoli-2017.jpg
+coverImage: /static/images/doner-kebab-beer.jpg
 sideImage: /static/images/early-almond-tree-in-bloom.jpg
 sideImageCaption: An almond tree in early bloom 
 related: 
