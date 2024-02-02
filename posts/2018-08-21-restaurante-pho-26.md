@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Restaurante Pho 26
-date: 2018-05-09T08:57:25+02:00
+title: Beef Broccoli
+date: 2017-05-09T08:57:25+02:00
 description: Maging turista sa sarili mong bayan. Paminsan minsan.
 whetter: Gran Vía stroll
 sideNote: Ang kinagigiliwan nating Sriracha sauce ay imbensyon ni David Tran, isang Vietnamese na imigrante sa Estados Unidos. Sa kanyang pagtanaw ng utang-na-loob, tumanggi siyang irehistro ang kanyang trademark. Bilang resulta, nakaraming uri ng Sriracha ang itinitinda pero ang kanyang orihinal at sariling producto ay may marka ng tandang.

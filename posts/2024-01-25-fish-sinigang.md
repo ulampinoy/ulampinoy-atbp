@@ -53,7 +53,7 @@ Let's cook our Ulam Pinoy version of Fish Sinigang...
 
 2. Add the vegetables: radish and okra. Cover and cook the vegetable half way through.
 
-3. Add the Sinigang Powder Mix, season to taste and put in the fish cuts. Put the pot lid back and simmer for 8 minutes. Add the spinach leaves and cook for anoher 2 minutes. Ready to serve!
+3. Add the Sinigang Powder Mix, season to taste and put in the fish cuts. Put the pot lid back and simmer for 8 minutes. Add the spinach leaves and finish cooking for anoher 2 minutes. Ready to serve!
 
 ![Sinigang na Isda served in a serving dish](/static/images/sinigang-served.jpg)
 
