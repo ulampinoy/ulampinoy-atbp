@@ -1,6 +1,5 @@
 ---
 title: Ulam Pinoy Chronicles (February 2017)
-permalink: "{{ section }}/ulampinoy-chronicles-february-2017-beef-broccoli-chicken-soup-doner-kebab"
 date: 2024-02-02
 description: Featuring beef and broccoli; chicken broth soup with bolied eggs; crispy fried mackerel; fresh coffee; Döner kebab and snow mountain trail in Madrid, Spain.
 whetter: Blast from the Past
