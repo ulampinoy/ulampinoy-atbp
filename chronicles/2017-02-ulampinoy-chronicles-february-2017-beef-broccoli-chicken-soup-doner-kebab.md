@@ -42,4 +42,4 @@ Bright chilly days calls for some warm comfort in a bowl.
 We have a favorite **Döner Kebab** spot in Barrio Tetuán along Bravo Murillo next to Mercado de Tetuán. Their rotisserie chicken is highly recommended too!
 
 ![Crispy fried mackerel fish with dip of lemon and patis](/static/images/cafetera-italiana.jpg)
-Specially in the cold days and mornings, a great cup of freshly made coffee to start your daily grind that fills the house the irresistable aroma and fill you with the little simple joys in life!
+Specially in the cold days and mornings, a great cup of freshly made coffee to start your daily grind that fills the house the irresistable aroma and gives you the little tiny simple joys in life!
