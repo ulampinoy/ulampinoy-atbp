@@ -4,7 +4,7 @@ title: Fish Sinigang
 date: 2024-01-25
 description: Refreshingly comforting fish dish that satisfies, livens and nourishes your spirit
 whetter: Delicious Acidity
-sideNote: Fish is a very good source of protein without the excess baggage of other animal meat protein
+sideNote: Bluefish are an excellent source of selenium, niacin, vitamin B12, and omega-3s, and a good source of magnesium and potassium
 coverImage: /static/images/fish-sinigang-bowl.jpg
 sideImage: /static/images/fish-grocery.jpg
 sideImageCaption: Fish is a must have to your weekly protein intake 
@@ -57,7 +57,7 @@ Let's cook our Ulam Pinoy version of Fish Sinigang...
 
 ![Sinigang na Isda served in a serving dish](/static/images/sinigang-served.jpg)
 
-Enjoy Fiah Sinigang with rice and make a patis and chili dip close!
+Enjoy Fish Sinigang with rice and make a patis and chili dip close!
 
 Try it today or if you have your own family version of Fish Sinigang, please share it to us in [Instagram](https://www.instagram.com/ulampinoy/) and tag us [@ulampinoy](https://www.instagram.com/ulampinoy/) so we can feature your version of Sinigang na Isda in Ulam Pinoy 😉
 
