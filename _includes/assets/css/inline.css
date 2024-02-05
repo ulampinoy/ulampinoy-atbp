@@ -1161,12 +1161,21 @@ aside .figcaption {
   font-size: 1rem;
 }
 
+.chronicles {
+  padding: 1rem 0 1rem;
+  margin-bottom: 2rem;
+  border-top: 4px solid var(--pilak);
+  border-bottom: 1px solid var(--pilak);
+}
+
 .chronicles h4 {
 font-family: var(--headlineFont), sans-serif;
 color: var(--usok);
 margin-bottom: 1em;
 text-transform: uppercase;
 }
+
+
 
 
 @media screen and (min-width: 768px) {
