@@ -4,71 +4,98 @@ section: home
 ---
 
 <div class="grid grid-Home">
+
 	<section class="section-Blog">
-				<div class="Cols blogGrid latest">
+		<div class="Cols blogGrid latest">
 			{% set postlist = collections.post | reverse %}
 			{% for post in postlist.slice(0, 2) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-				<div class="article-card__cover">
-					<a href="
-						{% if post.data.link %}
-						{{ post.data.link }}
-						{% else %}
-						{{ post.url }}
-						{% endif %}
-						">
-						<img class="cover-image" src="{{ post.data.coverImage }}" />
-					</a>
-				</div>
-				<div class="article-card__copy">
-					<span class="whetter">{{ post.data.whetter }}</span>
-					<h3>
+				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+					<div class="article-card__cover">
 						<a href="
 						{% if post.data.link %}
 						{{ post.data.link }}
 						{% else %}
 						{{ post.url }}
 						{% endif %}
-						">{{ post.data.title }}
+						">
+							<img class="cover-image" src="{{ post.data.coverImage }}"/>
 						</a>
-					</h3>
-					<p>{{ post.data.description }}</p>
-				</div>
-			</article>
+					</div>
+					<div class="article-card__copy">
+						<span class="whetter">{{ post.data.whetter }}</span>
+						<h3>
+							<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">{{ post.data.title }}
+							</a>
+						</h3>
+						<p>{{ post.data.description }}</p>
+					</div>
+				</article>
 			{% endfor %}
+			<div class="chronicles">
+				<h4>From the Chronicles</h4>
+				{% set postlist = collections.chronicle | reverse %}
+				{% for post in postlist %}
+					<article{% if post.url == url %} data-current="current item" {% endif %} class="chronicle-card">
+						<div class="chronicle-img">
+							<a href="{% if post.data.link %}{{ post.data.link }}{% else %}{{ post.url }}{% endif %}">
+							<img class="cover-image" src="{{ post.data.coverImage }}"/>
+							</a>
+						</div>
+						<div class="chronicle-text">
+							<h3>
+								<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">{{ post.data.title }}
+								</a>
+							</h3>
+						</div>
+					</article>
+				{% endfor %}
+			</div>
 		</div>
 		<div class="Cols blogGrid">
 			{% set postlist = collections.posts | reverse %}
 			{% for post in postlist.slice(2, 8) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-				<div class="article-card__cover">
-					<a href="
-						{% if post.data.link %}
-						{{ post.data.link }}
-						{% else %}
-						{{ post.url }}
-						{% endif %}
-						">
-						<img class="cover-image" src="{{ post.data.coverImage }}" />
-					</a>
-				</div>
-				<div class="article-card__copy">
-					<span class="whetter">{{ post.data.whetter }}</span>
-					<h3>
+				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+					<div class="article-card__cover">
 						<a href="
 						{% if post.data.link %}
 						{{ post.data.link }}
 						{% else %}
 						{{ post.url }}
 						{% endif %}
-						">{{ post.data.title }}
+						">
+							<img class="cover-image" src="{{ post.data.coverImage }}"/>
 						</a>
-					</h3>
-					<p>{{ post.data.description }}</p>
-				</div>
-			</article>
+					</div>
+					<div class="article-card__copy">
+						<span class="whetter">{{ post.data.whetter }}</span>
+						<h3>
+							<a href="
+						{% if post.data.link %}
+						{{ post.data.link }}
+						{% else %}
+						{{ post.url }}
+						{% endif %}
+						">{{ post.data.title }}
+							</a>
+						</h3>
+						<p>{{ post.data.description }}</p>
+					</div>
+				</article>
 			{% endfor %}
-			<p><a href="/blog/">See more Blog &rArr;</a>
+			<p>
+				<a href="/blog/">See more Blog &rArr;</a>
 			</p>
 		</div>
 	</section>
@@ -78,22 +105,23 @@ section: home
 		<div class="Cols videosGrid">
 			{% set videolist = collections.video | reverse %}
 			{% for post in videolist.slice(0, 6) %}
-			<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
-				<div class="article-card__cover">
-					<a href="{{ post.url | url }}">
-						<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640" />
-					</a>
-				</div>
-				<div class="article-card__copy">
-					<h3>
-						<a href="{{ post.url | url }}">{{ post.data.title }}</a>
-					</h3>
-					<p>{{ post.data.description }}</p>
-				</div>
+				<article{% if post.url == url %} data-current="current item" {% endif %} class="article-card">
+					<div class="article-card__cover">
+						<a href="{{ post.url | url }}">
+							<img src="{{ post.data.coverImage }}?nf_resize=fit&h=640"/>
+						</a>
+					</div>
+					<div class="article-card__copy">
+						<h3>
+							<a href="{{ post.url | url }}">{{ post.data.title }}</a>
+						</h3>
+						<p>{{ post.data.description }}</p>
+					</div>
 				</article>
-				{% endfor %}
+			{% endfor %}
 		</div>
-		<p><a href="/video/">See more Video Recipes &rArr;</a>
+		<p>
+			<a href="/video/">See more Video Recipes &rArr;</a>
 		</p>
 	</section>
 </div>

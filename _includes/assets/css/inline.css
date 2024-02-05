@@ -30,7 +30,7 @@ html,
 body {
   font-family: var(--bodyFont);
   color: var(--itim);
-  font-size: 18px;
+  font-size: 16px;
   background-color: var(--kanbas);
   line-height: 1.5;
   padding: 0;
@@ -413,7 +413,7 @@ time {
 
 @media screen and (min-width: 768px) {
   .grid-Home .section-Videos {
-    padding: 0 3rem;
+    padding: 0 2rem;
   }
 }
 
@@ -452,7 +452,7 @@ time {
 .grid .section-Blog .blogGrid {
   display: -ms-grid;
   display: grid;
-  grid-gap: 2rem;
+  grid-gap: 1.5rem;
   padding: 0 1rem;
 }
 
@@ -463,9 +463,8 @@ time {
     padding: 2rem 2rem 0;
   }
   .grid .section-Blog .blogGrid.latest {
-    -ms-grid-columns: 2fr 1fr;
-    grid-template-columns: 2fr 1fr;
-    padding: 2rem 2rem 0;
+    -ms-grid-columns: 2fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr;
   }
 }
 
@@ -735,6 +734,7 @@ article ul li img {
   -ms-grid-column: 1;
   -ms-grid-column-span: 2;
   grid-column: 1;
+  width: 100%;
 }
 
 .article-post .video-box {
@@ -772,7 +772,7 @@ section.related-articles {
 
 @media screen and (min-width: 768px) {
   section {
-    padding: 0 2rem;
+    padding: 0;
   }
 }
 
@@ -781,7 +781,7 @@ section.related-articles {
     -ms-grid-column: 1;
     -ms-grid-column-span: 1;
     grid-column: 1 / 2;
-    padding: 0 3rem;
+    padding: 0 1rem;
   }
 }
 
@@ -1151,6 +1151,24 @@ aside .figcaption {
   font-size: 0.8rem;
 }
 
+.chronicle-card {
+  display: grid;
+  grid-template-columns: .4fr 1fr;
+  grid-gap: 1rem;
+}
+
+.chronicle-card h3 {
+  font-size: 1rem;
+}
+
+.chronicles h4 {
+font-family: var(--headlineFont), sans-serif;
+color: var(--usok);
+margin-bottom: 1em;
+text-transform: uppercase;
+}
+
+
 @media screen and (min-width: 768px) {
   .tags {
     padding-top: 2rem;
@@ -1196,6 +1214,7 @@ aside .figcaption {
 
 .billboard img {
   margin-top: 0;
+  width: 100%;
 }
 
 .glossary-list {
