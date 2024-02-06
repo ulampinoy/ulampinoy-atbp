@@ -29,11 +29,8 @@ The resulting rice is fluffy, tender, and perfect for serving as a staple in man
 ### Instructions:
 
 1. Rinse the rice in cold water until the water runs clear. This helps remove excess starch and dirt from the rice.
-
 2. Add the rinsed rice to a pot and add water. The ratio of rice to water is usually 1:1.25 or 1:1.5 depending on the variety of rice used. For this recipe, we'll use 1:1.25 ratio.
-
 3. Bring the water to a boil over medium heat. Once it starts boiling, reduce the heat to low and cover the pot with a lid.
-
 4. Allow the rice to cook for 12 to 15 minutes. Do not lift the lid or stir the rice during this time to prevent steam from escaping. Turn off the heat and let the rice rest for 5 minutes. Keep the lid on during this time.
 
 Serve hot with your favorite ulam!

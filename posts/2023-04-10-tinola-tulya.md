@@ -44,15 +44,10 @@ Now, let's cook Tinolang Tulya:
 ### Instructions:
 
 1. First, you have to find the freshest clams you can get your hands on. This may require a trip to the nearest seafood market or a beach if you're feeling adventurous.
-
 2. Once you have your clams, clean them thoroughly by scrubbing their shells with a brush under running water. Rinse them a few times until the water runs clear.
-
 3. In a pot, heat the cooking oil and sauté the garlic, onion, and ginger until fragrant.
-
 4. Add the cleaned clams and stir well. Pour in the water and fish sauce and bring to a boil.
-
 5. Lower the heat and let the clams simmer until they open up. Discard any unopened clams, as they may not be safe to eat.
-
 6. Once all the clams are open, add the spinach or chili leaves and season with salt and pepper to taste.
 
 Serve hot with steamed rice and enjoy the delicious taste of the sea!

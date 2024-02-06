@@ -43,17 +43,11 @@ Here's a recipe for cooking Filipino style Pork Menudo:
 ### Instructions:
 
 1. In a large pan or wok, heat the oil over medium-high heat. Add the garlic and onion and sauté until the onion becomes translucent.
-
 2. Add the pork and sauté until the meat is browned on all sides.
-
 3. Add the liver and cook for another 2-3 minutes.
-
 4. Add the tomato sauce and water, and then bring to a boil.
-
 5. Reduce the heat to low, cover the pan, and simmer for 30 minutes or until the meat is tender.
-
 6. Add the potatoes, carrots, and bell peppers. Mix well and continue to simmer until the vegetables are cooked through.
-
 7. Season with soy sauce, salt, and pepper to taste.
 
 Serve hot with rice or with *pandesal*. Enjoy your delicious Filipino style Pork Menudo!

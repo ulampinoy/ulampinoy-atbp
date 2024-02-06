@@ -47,13 +47,9 @@ So, without further ado, let's get to cooking! Here's how you can make your very
 ### Instructions:
 
 1. Soak the pancit noodles in cold water for 10-15 minutes until they're soft.
-
 2. In a large wok or pan, heat the cooking oil over high heat. Add the onion and garlic, and sauté until fragrant.
-
 3. Add the pork and chicken, and cook until browned on all sides.
-
 4. Add the vegetables and sauté until they're tender.
-
 5. Drain the noodles and add them to the pan, along with the soy sauce, oyster sauce, and chicken broth. Mix everything together and cook for 5-7 minutes, until the noodles are fully cooked. Season with salt and pepper to taste.
 
 ![Pancit Guisado Espesyal served on a plate](/static/images/pancit-guisado-calamansi.jpg)

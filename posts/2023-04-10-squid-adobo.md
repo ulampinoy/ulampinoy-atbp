@@ -39,11 +39,8 @@ Squid adobo is easy to prepare and can be cooked in a single pot or skillet. The
 ### Instructions:
 
 1. In a large skillet or wok, heat the cooking oil over medium heat. Add the minced garlic and sliced onion and sauté until the onion is translucent and the garlic is fragrant.
-
 2. Add the sliced squid to the skillet and stir-fry for 1-2 minutes until it turns opaque.
-
 3. Add the vinegar, soy sauce, water, sugar, and black peppercorns to the skillet. Stir well to combine.
-
 4. Bring the mixture to a boil, then lower the heat and simmer for 15-20 minutes, or until the sauce has thickened and the squid is tender.
 
 Note: You can adjust the seasoning to your liking by adding more or less soy sauce, vinegar, or sugar. You can also add more chili flakes or fresh chili peppers if you prefer a spicier dish.

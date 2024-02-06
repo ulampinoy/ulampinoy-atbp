@@ -27,16 +27,14 @@ Malimit may natitirang hotdog dahil iniluto kadalasan lahat sa isang pakete. Tor
 
 1. Igisa ang sibuyas, bell pepper at hotdog hanggang magsimulang lumambot ang sibuyas at bell pepper.
 2. Batihin ang mga itlog sa isang mangkok, timplahan ng asin at pamintang durog. Ilagay dito ang iginisang mga sangkap kanina.
-![](/static/images/torta-hotdog-bowl.jpg)
-
+![Hotdog in beaten egg](/static/images/torta-hotdog-bowl.jpg)
 3. Maglagay at painitin ang kaunting mantika sa mismong kawali kung saan iginisa ang mga rekado. Ibuhos ang pinagsama-samang itlog at mga rekado sa pan.
-![](/static/images/torta-hotdog.jpg)
-
+![Cooking tortang hotdog](/static/images/torta-hotdog.jpg)
 4. Iprito hanggang maluto ang makabilang bahagi. Sikapin na buuin ang pagkabilog nito. Iwasang masunog ang sibuyas dahil magbibigay ito ng mapait na lasa.
-![](/static/images/torta-hotdog-plate.jpg)
+![Tortang Hotdog on a plate](/static/images/torta-hotdog-plate.jpg)
 
 Hot sauce o ketsup ang sauce sa tortang hotdog. Masarap itong ulam sa kanin o palaman sa pandesal.
-![](/static/images/hot-sauce-ketchup-fridge.jpg)
-![](/static/images/torta-hotdog-slice.jpg)
+![Sriracha sauce inside a fridge](/static/images/hot-sauce-ketchup-fridge.jpg)
+![Slice of tortang hotdog with ketchup](/static/images/torta-hotdog-slice.jpg)
 
 Ang recipeng ito ay puede rin gawin sa tirang Spam o Maling; tuna, sardinas de lata. Enjoy sa inyong recycled hotdog omelette!

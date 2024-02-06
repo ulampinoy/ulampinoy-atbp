@@ -44,13 +44,9 @@ Here is a tasty recipe for making lumpiang shanghai:
 ### Instructions:
 
 1. In a large mixing bowl, combine ground pork, carrots, green onions, onions, water chestnuts, garlic, soy sauce, oyster sauce, salt, and black pepper. Mix well until all ingredients are evenly distributed.
-
 2. Take a lumpia wrapper and place a spoonful of the meat mixture at the center of the wrapper. Roll the wrapper tightly around the filling, tucking in the sides as you go. Use a bit of beaten egg to seal the wrapper.
-
 3. Repeat the process until all of the filling has been used up.
-
 4. Heat the vegetable oil in a large frying pan over medium heat. Once hot, add the lumpia rolls to the pan, making sure not to overcrowd the pan.
-
 5. Fry the lumpia rolls for about 5-7 minutes or until golden brown, turning them occasionally to cook all sides.
 
 ![Frying lumpia](/static/images/frying-lumpia.jpg)

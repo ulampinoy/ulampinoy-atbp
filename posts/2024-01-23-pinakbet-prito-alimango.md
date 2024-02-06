@@ -45,11 +45,8 @@ Let's cook our Ulam Pinoy version of Pinakbet...
 ![Pinakbet vegetable ingredients in a metallic bowl](/static/images/pinakbet-ingredients-bowl.jpg)
 
 ### Procedure
-
 1. In a pot at medium high heat, add pork belly strips with little water and a pinch of salt. Wait until the water disapper and the pork renders to its own fat. Add and sauté garlic, onions, tomatoes and bagoong. *(This is the moment we turn on the exhaust fan)*
-
 2. Add the vegetables: squash; string beans; orka; ampalaya and eggplant. *(The idea of the sequence is to put in first the vegetable that needs more cooking time)*
-
 3. Add water and simmer until the vegetables are cook to your liking. Ready to serve!
 
 ![Pinakbet served in a serving dish](/static/images/pinakbet-bowl-02.jpg)

@@ -41,15 +41,10 @@ In this post, I'll share with you one of our many version of Chicken Adobo..
 ### Instructions:
 
 1. In a large pot, heat the cooking oil over medium-high heat. Once the oil is hot, add the minced garlic and sauté for a minute until fragrant.
-
 2. Add the chicken thighs to the pot and brown on both sides for about 5 minutes. Remove the chicken from the pot and set it aside.
-
 3. In the same pot, add the soy sauce, white vinegar, water, brown sugar, bay leaf, and whole peppercorns. Stir until well combined and bring the mixture to a boil.
-
 4. Reduce the heat to low and add the big chunk potato pieces to the pot. Cover the pot and let the potatoes cook for about 10-15 minutes until they are almost tender.
-
 5. In a separate pan, heat some oil over medium-high heat. Once hot, add the cooked potatoes and fry for about 5-7 minutes until they are golden brown and crispy. Remove the potatoes from the pan and set them aside.
-
 6. Add the chicken back into the pot and make sure it is fully submerged in the sauce. Cover the pot and simmer for about 20-25 minutes until the chicken is fully cooked and the sauce has thickened. Serve the chicken and fried potatoes with the sauce poured over them. Enjoy!
 
 ![Chicken Adobo served in a bowl](/static/images/chicken-adobo-bowl.jpg)

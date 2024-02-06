@@ -34,15 +34,10 @@ The combination of savory and sour flavors in the dish is what makes it truly un
 - 2 tablespoons cooking oil
 
 ### Instructions:
-
 1. In a large pot, heat the cooking oil over medium-high heat. Add the minced garlic and sauté until fragrant.
-
 2. Add the pork belly pieces to the pot and cook until browned on all sides.
-
 3. Pour in the soy sauce, vinegar, and water. Add the black peppercorns and bay leaves. Stir to combine.
-
 4. Bring the mixture to a boil, then reduce the heat to low and cover the pot. Simmer for 45 minutes to 1 hour, stirring occasionally, until the pork is tender and the sauce has thickened.
-
 5. Season to taste, you can add more soy sauce or vinegar to taste.
 
 Serve the Pork Adobo hot with steamed rice. Kain tayo!
