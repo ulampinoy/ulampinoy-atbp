@@ -6,7 +6,6 @@ description: Pork ribs adobo with potatoes
 coverImage: /static/images/pork-ribs-adobo-rice-dish.jpg
 youtube: "jnacHmVZJ84"
 tags:
-  - video
   - pork
   - adobo
 ---

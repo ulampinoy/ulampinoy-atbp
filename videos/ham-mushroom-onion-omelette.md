@@ -9,7 +9,6 @@ sideImage: /static/images/eggs-in-tray.jpg
 youtube: KKzJzkCUiNo
 ctaText: Watch the video recipe
 tags:
-  - video
   - recipe
   - egg
   - ham

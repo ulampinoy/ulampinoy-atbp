@@ -6,7 +6,6 @@ description: Pork chops in soy sauce, lemon juice, garlic and spices
 coverImage: /static/images/pork-bistek-dish.jpg
 youtube: "8RxT8OhbHFk"
 tags:
-  - video
   - pork
 ---
 

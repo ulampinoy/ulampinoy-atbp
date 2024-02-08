@@ -6,7 +6,6 @@ description: Rice cakes topped with shredded coconut, sugar and sesame seeds
 coverImage: /static/images/palitaw-01.jpg
 youtube: "Lf4qji5-jh8"
 tags:
-  - video
   - dessert
   - sticky rice
   - coconut

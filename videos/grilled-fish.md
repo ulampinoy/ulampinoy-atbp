@@ -6,7 +6,6 @@ description: Grilled fish stuffed with chopped garlic, onions and tomatoes
 youtube: "Yql5BgpEk"
 coverImage: /static/images/inihaw-isda.jpg
 tags:
-  - video
   - fish
   - grill
 ---

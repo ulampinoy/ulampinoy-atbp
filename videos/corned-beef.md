@@ -9,7 +9,6 @@ sideImage: /static/images/nutmeg-shaker.jpg
 youtube: WEYe845yhBU
 ctaText: Watch the video
 tags:
-  - video
   - beef
   - recipe
 ---

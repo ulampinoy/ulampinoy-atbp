@@ -6,7 +6,6 @@ description: Easy to cook sautéed green beans with crispy pork belly
 youtube: "AedJIA85TjM"
 coverImage: /static/images/ginisang-green-beans.jpg
 tags:
-  - video
   - pork
   - vegetable
 ---

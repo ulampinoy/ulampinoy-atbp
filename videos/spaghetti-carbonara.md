@@ -6,7 +6,6 @@ description: Delicious party pasta dish that's always a hit!
 coverImage: /static/images/spaghetti-carbonara.jpg
 youtube: "74HRnmwIhfM"
 tags:
-  - video
   - pasta
   - bacon
 ---

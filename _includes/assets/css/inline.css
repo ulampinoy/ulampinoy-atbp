@@ -222,23 +222,23 @@ a[rel="tag"],
 a[rel="tag"]:visited {
   display: inline-block;
   vertical-align: text-top;
-  text-transform: uppercase;
-  font-family: var(--sysFont);
-  font-size: 0.6em;
+  text-transform: lowercase;
+  font-size: 1rem;
   font-weight: 600;
   padding: 0.25em 0.75em;
-  border: 1px solid var(--abo);
+  border: 1px solid var(--ulap);
   border-radius: 44px;
-  background-color: var(--abo);
-  color: var(--puti);
+  background-color: var(--puti);
+  color: var(--karbon);
   text-decoration: none;
   margin: 0 0.5em 0.5em 0;
 }
 
 a[rel="tag"]:hover {
-  border: 1px solid var(--ulap);
-  background-color: var(--puti);
+  border: 1px solid var(--abo);
+  background-color: #ffebcd;
   color: var(--uling);
+  text-decoration: none;
 }
 
 a[rel="tag"]:last-child {
@@ -1165,8 +1165,9 @@ aside .figcaption {
 
 .chronicle-card {
   display: grid;
-  grid-template-columns: .4fr 1fr;
+  grid-template-columns: .5fr 1fr;
   grid-gap: 1rem;
+  padding-bottom: 1em;
 }
 
 .chronicle-card h3 {

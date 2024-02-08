@@ -6,7 +6,6 @@ description: Pusit adobo, fresh squid cooked adobo style
 youtube: "JXyMlmFa0w8"
 coverImage: /static/images/squid-adobo-plated.jpg
 tags:
-  - video
   - seafoods
   - squid
   - adobo

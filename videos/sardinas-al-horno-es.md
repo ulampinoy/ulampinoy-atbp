@@ -10,7 +10,6 @@ sideImage: /static/images/fresh-sardines-basin.jpg
 youtube: yEL9-qqmoNE
 ctaText: Watch the video recipe
 tags:
-  - video
   - recipe
   - fish
   - sardines

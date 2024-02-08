@@ -6,7 +6,6 @@ description: Mung beans cooked with pork belly strips, bitter gourd leaves
 coverImage: /static/images/ginisang-monggo.jpg
 youtube: "VBGDZ2nQ2ZI"
 tags:
-  - video
   - legumes
   - mung beans
 ---

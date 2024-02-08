@@ -7,7 +7,6 @@ coverImage: /static/images/chopsuey-plated.jpg
 whetter: Veggies done right
 youtube: "vtYoKYwEInQ"
 tags:
-  - video
   - vegetable
   - wok
   - pork belly

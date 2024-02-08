@@ -6,7 +6,6 @@ description: Pork belly strips marinated with spice soy sauce
 coverImage: /static/images/pork-belly-barbecue-01.jpg
 youtube: "7fiyapwC1Aw"
 tags:
-  - video
   - pork
   - barbecue
 ---

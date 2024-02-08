@@ -6,7 +6,6 @@ description: Seafoods stew of fish, shrimp and vegetables
 coverImage: /static/images/sinigang-hipon-isda.jpg
 youtube: "3F6mgldfVDU"
 tags:
-  - video
   - seafoods
   - shrimp
   - sinigang

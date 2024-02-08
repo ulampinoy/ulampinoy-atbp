@@ -6,7 +6,6 @@ description: Napakasarap at madaling lutuing beef stir-fry na saktong-sakto ulam
 coverImage: /static/images/mongolian-beef-hero.jpg
 youtube: jrF4z3fjphA
 tags:
-  - video
   - beef
   - wok
   - stir-fry

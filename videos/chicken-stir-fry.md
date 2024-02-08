@@ -7,9 +7,8 @@ youtube: "UwTBNoepS7Q"
 coverImage: /static/images/chicken-stir-fry.jpg
 whetter: DIY and forget the take-away
 tags:
-  - video
-    - chicken
-    - stir-fry
+  - chicken
+  - stir-fry
 ---
 
 Fire up your wok and cook along with our easy to make chicken and vegetable stir-fry.

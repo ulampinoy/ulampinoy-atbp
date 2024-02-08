@@ -6,7 +6,6 @@ description: Hearty beef stew slowly cooked in tomatoes, potatoes and vegetables
 coverImage: /static/images/beef-mechado.jpg
 youtube: "YMd408JUZRw"
 tags:
-  - video  
   - beef
 ---
 

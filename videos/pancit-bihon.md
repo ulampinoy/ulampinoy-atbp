@@ -6,7 +6,6 @@ description: Pinoy noodles with vegetable, chicken, pork belly and soy sauce
 coverImage: /static/images/pancit-bihon-dish-02.jpg
 youtube: "bGjkeUzW1kE"
 tags:
-  - video
   - noodles
   - classics
 ---

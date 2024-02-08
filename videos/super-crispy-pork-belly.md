@@ -6,7 +6,6 @@ description: Malutong na liempo
 youtube: "RuIpEBZwgdk"
 coverImage: /static/images/super-crispy-liempo.jpg
 tags:
-  - video
   - pork
 ---
 

@@ -6,7 +6,6 @@ coverImage: /static/images/chicken-tinola.jpg
 title: Chicken Tinola
 youtube: "ZtMlLIxgQcU"
 tags:
-  - video
   - chicken
   - soup
 ---

@@ -9,7 +9,6 @@ sideImage: /static/images/green-beans-bitsuelas.jpg
 youtube: DMkHwJU3o4g
 ctaText: Watch the cook-along video
 tags:
-  - video
   - recipe
   - pork
   - picadillo

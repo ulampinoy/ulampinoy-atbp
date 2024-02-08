@@ -7,7 +7,6 @@ youtube: "Vf1-PuCyGt0"
 coverImage: /static/images/hot-spiced-vinegar-01.jpg
 whetter: Sawsaw suka...mahuli taya!
 tags:
-  - video
   - dip
 ---
 

@@ -9,7 +9,6 @@ sideImage: /static/images/pork-giniling-vegetables.jpg
 youtube: 3vejfiSaZVM
 ctaText: Watch the cook-along video
 tags:
-  - video
   - recipe
   - pork
   - picadillo

@@ -7,7 +7,6 @@ coverImage: /static/images/chicken-afritada-pot.jpg
 whetter: One pot chicken goodness
 youtube: "YKF7N-6_PuI"
 tags:
-  - video
   - chicken
 ---
 

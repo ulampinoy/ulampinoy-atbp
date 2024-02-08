@@ -6,7 +6,6 @@ description: Karne ng baka na may sarsang gawa sa tomato sauce at liver spread
 coverImage: /static/images/adobo-mackerel.jpg
 youtube: "4L4M7GxjBRw"
 tags:
-  - video
   - fish
   - adobo
 ---

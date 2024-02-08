@@ -6,7 +6,6 @@ description: Beef, mushroom and broccoli stir fry
 coverImage: /static/images/beef-mushroom-broccoli-01.jpg
 youtube: "0PAzB0PqG80"
 tags:
-  - video
   - beef
   - vegetable
   - stir-fry

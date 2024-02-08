@@ -6,7 +6,6 @@ description: Pork innards braised in vinegar and spices
 coverImage: /static/images/bopis-dish-01.jpg
 youtube: "lOLw8UzRApY"
 tags:
-  - video
   - innards
   - classics
 ---

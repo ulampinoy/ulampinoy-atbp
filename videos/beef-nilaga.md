@@ -6,9 +6,8 @@ description: Beef stew with vegetables
 coverImage: /static/images/beef-nilaga.jpg
 youtube: "JYdn6-QMjqA"
 tags:
-  - video
-    - beef
-    - stew
+  - beef
+  - stew
 ---
 
 Slow cooked beef stew with vegetables

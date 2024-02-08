@@ -6,7 +6,6 @@ description: The Official Philippine National Dumpling
 coverImage: /static/images/pork-siomai-01.jpg
 youtube: "LkVlK6TKePc"
 tags:
-  - video
   - pork
   - dimsum
 ---

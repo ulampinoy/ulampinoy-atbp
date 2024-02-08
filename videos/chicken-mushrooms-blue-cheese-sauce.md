@@ -9,7 +9,6 @@ sideImage: /static/images/blue-cheese-wedge.jpg
 youtube: mm2Nw-uj_3s
 ctaText: Watch the video
 tags:
-  - video
   - recipe
   - chicken
   - mushroom

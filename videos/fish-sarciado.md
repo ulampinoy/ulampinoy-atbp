@@ -6,7 +6,6 @@ description: Fish with sauteéd egg and tomatoes
 coverImage: /static/images/fish-sarciado-01.jpg
 youtube: "RwhuXRDfPWk"
 tags:
-  - video
   - fish
   - egg
 ---

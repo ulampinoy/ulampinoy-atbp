@@ -6,7 +6,6 @@ coverImage: /static/images/chicharon-bituka.jpg
 title: Tsitsarong Bituka
 youtube: "ANOIpWdKJ8g"
 tags:
-  - video
   - pork
 ---
 

@@ -6,7 +6,6 @@ description: Squash, string beans and live crabs in spiced coconut milk
 coverImage: /static/images/ginataang-kalabasa.jpg
 youtube: "8cOuaPWZL4Q"
 tags:
-  - video
   - squash
   - crabs
   - gata
