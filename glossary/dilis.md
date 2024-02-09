@@ -1,6 +1,7 @@
 ---
 templateKey: glossary-post
 title: Dilis
+coverImage: dilis-market.jpg
 date: 2018-09-10T15:58:04.000Z
 tags:
   - glossary

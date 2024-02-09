@@ -2,7 +2,7 @@
 templateKey: glossary-post
 title: Banana Blossom
 date: 2023-04-03
-coverImage: /static/images/banana-heart-market.jpg
+coverImage: banana-heart-market.jpg
 category: glossary
 tags:
   - glossary

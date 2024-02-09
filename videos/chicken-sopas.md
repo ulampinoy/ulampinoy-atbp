@@ -6,7 +6,6 @@ description: Chicken and elbow macaroni soup with carrots, cabbage and sausage
 youtube: "csJWdebdrxU"
 coverImage: /static/images/chicken-sopas.jpg
 tags:
-  - video
   - chicken
   - soup
 ---

@@ -9,7 +9,6 @@ sideImage: /static/images/lechon-manok-crock-pot-aside.jpg
 youtube: JTCgcSs6JS8
 ctaText: Watch the video recipe
 tags:
-  - video
   - recipe
   - chicken
   - lechon

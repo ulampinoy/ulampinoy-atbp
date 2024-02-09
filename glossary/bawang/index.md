@@ -1,6 +1,7 @@
 ---
 templateKey: glossary-post
 title: Bawang
+coverImage: garlic-head.jpg
 date: 2018-09-19T23:36:01.000Z
 tags:
   - glossary

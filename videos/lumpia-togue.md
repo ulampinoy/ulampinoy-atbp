@@ -6,7 +6,6 @@ description: Spring rolls stuffed with sprouts, tofu, pork and vegetables
 coverImage: /static/images/lumpia-togue.jpg
 youtube: "qLvX6UMFDUI"
 tags:
-  - video
   - pork
   - barbecue
 ---

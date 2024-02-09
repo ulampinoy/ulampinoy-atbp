@@ -2,7 +2,7 @@
 templateKey: glossary-post
 title: Alamang
 date: 2018-09-15T08:31:01.000Z
-coverImage: /static/images/alamang-hilabos.jpg
+coverImage: alamang-hilabos.jpg
 tags:
   - glossary
   - seafoods

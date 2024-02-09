@@ -6,7 +6,6 @@ description: Crispy, golden and garlicky pork belly
 coverImage: /static/images/garlic-pork-belly.jpg
 youtube: "d9aXCxvG0ow"
 tags:
-  - video
   - mushroom
   - egg
 ---

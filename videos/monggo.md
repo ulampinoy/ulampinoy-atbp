@@ -7,7 +7,6 @@ coverImage: /static/images/ginisang-monggo-02.jpg
 whetter: Kahit linggu-lingo
 youtube: "06kCeI88owE"
 tags:
-  - video
   - vegetable
   - pork
 ---

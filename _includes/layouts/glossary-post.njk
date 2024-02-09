@@ -6,7 +6,7 @@ section: glossary
 <article class="article-post">
   {% if coverImage %}
   <div class="billboard">
-    <img src="{{ coverImage }}?nf_resize=fit&w=1200" />
+    <img src="/static/images/{{ coverImage }}" />
   </div>
   {% endif %}
   <div class="article-post-wrapper grid">
@@ -16,12 +16,6 @@ section: glossary
     <section>
       {{ layoutContent | safe }}
       <div class="article-meta">
-        <div>
-          <small>
-            <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-          </small>
-        </div>
-
         <p class="goto">
           <a href="{{ '/glossary/' | url }}">← Back to Glossary Index</a>
         </p>

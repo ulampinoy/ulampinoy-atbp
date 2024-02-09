@@ -1,6 +1,7 @@
 ---
 templateKey: glossary-post
 title: Bagoong
+coverImage: bagoong-alamang-fresh.jpg
 date: 2018-09-10T23:36:01.000Z
 tags:
   - glossary

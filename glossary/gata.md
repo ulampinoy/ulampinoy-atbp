@@ -1,6 +1,7 @@
 ---
 templateKey: glossary-post
 title: Gata
+coverImage: coconut-milk-can.jpg
 date: 2018-09-10T18:52:04.000Z
 tags:
   - glossary

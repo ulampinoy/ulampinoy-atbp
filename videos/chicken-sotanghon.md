@@ -6,7 +6,6 @@ description: Vermicelli chicken noodle soup
 youtube: "W-5lRLncO6c"
 coverImage: /static/images/chicken-sotanghon.jpg
 tags:
-  - video
   - chicken
 ---
 

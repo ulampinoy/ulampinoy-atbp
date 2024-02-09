@@ -2,7 +2,7 @@
 templateKey: glossary-post
 title: Adobo
 date: 2018-09-10T08:30:03.000Z
-coverImage: /static/images/adobo-01.jpg
+coverImage: adobo-01.jpg
 category: glossary
 tags:
   - glossary
