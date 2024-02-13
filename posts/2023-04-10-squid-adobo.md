@@ -11,12 +11,10 @@ sideImageCaption: Squid or cuttlefish inks are sold in small sachet pack for con
 related: 
   - ginisang-upo
   - how-to-cook-rice
-tags:
+tags: 
+  - seafoods
   - rice
   - ulam
-  - snack
-  - Filipino
-  - spring roll
   - recipe
 ---
 Squid, or "pusit" in Tagalog, is a popular seafood in the Philippines and is commonly found in local markets and fishing communities. Squid adobo is a popular variation of adobo that uses fresh squid instead of chicken or pork.
