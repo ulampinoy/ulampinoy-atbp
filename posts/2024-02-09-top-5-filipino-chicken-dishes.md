@@ -3,11 +3,11 @@ templateKey: blog-post
 title: Top 5 Filipino Chicken Dishes
 date: 2024-02-09
 description: The combination of chicken, soy sauce, vinegar, garlic, and fried potato chunks creates a bold and savory taste that is hard to resist.
-whetter: Adobo-rable Chicken
-sideNote: Soy sauce was introduced to the Philippines by Chinese traders during the country's pre-colonial era, which dates back to the 10th century. Over time, the use of soy sauce in Filipino cooking evolved and became an integral part of dishes like Adobo, where it adds flavor, richness, and depth to the dish. Soy sauce savory and umami taste complements the sourness of the vinegar, creating a unique and satisfying flavor profile that is distinct to Adobo.
+whetter: Chicken Top 5
+sideNote: Poultry or locally known as Pollería is where you buy chicken. They have a wide range of choices from gallinas to spring chicken. They have the proper cuts for your specific sidh requirements. Also, on sale are some taste birds such as quail, duck and turkey.
 coverImage: /static/images/tinola-chicken-bowl.jpg
-sideImage: /static/images/soy-sauce-tablespoon.jpg
-sideImageCaption:  The origin of the word "toyo" can be traced back to the Chinese word "jiàngyóu" (酱油), which means "fermented soybean sauce". The Chinese word for soy sauce was introduced to the Philippines along with the condiment itself, and it was eventually adapted to the Tagalog language as "toyo".
+sideImage: /static/images/polleria.jpg
+sideImageCaption:  The Spanish work for chicken is 'pollo' and 'manok' in Tagalog.
 related: 
   - how-to-cook-pork-adobo
   - squid-adobo
