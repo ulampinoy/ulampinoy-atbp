@@ -7,7 +7,7 @@ whetter: Chicken Top 5
 sideNote: Poultry or locally known as Pollería is where you buy chicken. They have a wide range of choices from gallinas to spring chicken. They have the proper cuts for your specific sidh requirements. Also, on sale are some taste birds such as quail, duck and turkey.
 coverImage: /static/images/tinola-chicken-bowl.jpg
 sideImage: /static/images/polleria.jpg
-sideImageCaption:  The Spanish work for chicken is 'pollo' and 'manok' in Tagalog.
+sideImageCaption:  The Spanish word for chicken is 'pollo' and 'manok' in Tagalog.
 related: 
   - how-to-cook-pork-adobo
   - squid-adobo
