@@ -2,13 +2,13 @@
 templateKey: blog-post
 title: Top 5 Filipino Chicken Dishes
 date: 2024-02-09
-description: The combination of chicken, soy sauce, vinegar, garlic, and fried potato chunks creates a bold and savory taste that is hard to resist.
+description: A collection of the most popular Filipino chicken dishes
 whetter: Chicken Top 5
 sideNote: Poultry or locally known as Pollería is where you buy chicken. They have a wide range of choices from gallinas to spring chicken. They have the proper cuts for your specific sidh requirements. Also, on sale are some taste birds such as quail, duck and turkey.
 coverImage: /static/images/tinola-chicken-bowl.jpg
 sideImage: /static/images/polleria.jpg
 sideImageCaption:  The Spanish word for chicken is 'pollo' and 'manok' in Tagalog.
-related: 
+related:
   - how-to-cook-pork-adobo
   - squid-adobo
   - tupperlicious-is-back
